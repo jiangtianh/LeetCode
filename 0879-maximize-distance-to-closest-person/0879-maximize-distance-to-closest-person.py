@@ -21,5 +21,5 @@ class Solution:
         
         if len(seats) - 1 - l > res:
             res = len(seats) - 1 - l
-            print("run")
+            
         return res

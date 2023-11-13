@@ -11,7 +11,7 @@ class Solution:
             if remain < 0 or idx >= k:
                 return
             
-            for i in range(start, 10):
+            for i in range(start, min(remain + 1, 10)):
                 if i not in visited:
                     visited.add(i)
                     f(idx + 1, remain - i, visited, i + 1)

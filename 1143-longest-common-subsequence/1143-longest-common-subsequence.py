@@ -11,8 +11,7 @@ class Solution:
             if text1[p1] == text2[p2]:
                 option2 = f(p1+1, p2+1) + 1
             else:
-                option2 = f(p1 + 1, p2)
-
+                option2 = 0
             option3 = f(p1, p2 + 1)
 
             return max(option1, option2, option3)

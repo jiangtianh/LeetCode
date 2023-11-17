@@ -1,43 +1,39 @@
 class Solution:
     def decodeString(self, s: str) -> str:
-        res = ""
-
-        stack = []
-        i = 0
-
-        while i < len(s):
-            c = s[i]
-            if c != "]":
-                stack.append(c)
-            else:
-                temp = ""
-                
-                while True:
-                    char = stack.pop() 
-                    if char == "[":
-                        num = ""
-                        while stack and stack[-1].isnumeric():
-                            num = stack.pop() + num
-                        temp = temp * int(num)
-                        if stack:
-
-                            for j in range(len(temp)):
-                                stack.append(temp[j])
-                        else:
-                            res += temp
-                        
-                        break
-
-                    else:
-                        temp = char + temp
-
-
-            i += 1
-        temp = ""
-        while stack:
-            temp = stack.pop() + temp
-        res += temp
-
-        return res
         
+        
+        stack = []
+        res = []
+        
+        def f(i):
+            while i < len(s):
+                count = ""
+                while s[i].isnumeric():
+                    count += s[i]
+                    i += 1
+                count = int(count)
 
+                i += 1
+                temp = ""
+                while s[i] != "]":
+                    if s[i].isnumeric():
+                        res, i = f(i)
+                        temp += res
+                    else:
+                        temp += s[i]
+                    i += 1
+                
+                return temp * count, i
+            
+        result = ""
+        i = 0
+        while i < len(s):
+            if s[i].isnumeric():
+                res, i = f(i)
+                result += res
+            else:
+                result += s[i]
+            i += 1
+        return result
+            
+            

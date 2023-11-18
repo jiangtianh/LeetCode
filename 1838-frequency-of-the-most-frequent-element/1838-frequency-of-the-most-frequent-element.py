@@ -6,7 +6,7 @@ class Solution:
         r = 1
         l = 0
         
-        while r < len(nums):
+        for r in range(len(nums)):
             size = r - l
             num = nums[r] 
             
@@ -18,7 +18,7 @@ class Solution:
                 
             res = max(res, r - l + 1)
             
-            r += 1
+            
             
             
         return res

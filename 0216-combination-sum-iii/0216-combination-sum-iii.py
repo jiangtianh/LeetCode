@@ -1,22 +1,21 @@
 class Solution:
     def combinationSum3(self, k: int, n: int) -> List[List[int]]:
-        
         self.res = []
-
-        def f(idx, remain, visited, start):
-            
-            if idx == k and remain == 0:
-                self.res.append(list(visited))
+        
+        def f(start, left, k, temp):
+            if k == 0:
+                if left == 0:
+                    self.res.append(temp[:])
                 return 
-            if remain < 0 or idx >= k:
-                return
+            if start >= 10:
+                return 
             
-            for i in range(start, min(remain + 1, 10)):
-                if i not in visited:
-                    visited.add(i)
-                    f(idx + 1, remain - i, visited, i + 1)
-                    visited.remove(i)
-
-        f(0, n, set(), 1)
+            temp.append(start)
+            f(start + 1, left - start, k - 1, temp)
+            temp.pop() 
+            
+            f(start + 1, left, k, temp)
+            
+        f(1, n, k, [])
+    
         return self.res
-                

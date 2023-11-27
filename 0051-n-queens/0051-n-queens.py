@@ -3,15 +3,14 @@ class Solution:
         
         temp = [["."] * n for _ in range(n)]
         
-        horizontal = [True] * n
+        
         vertical = [True] * n
         leftDiagnal = [True] * (n * 2 - 1)
         rightDiagnal = set()
         
         def place(x, y):
-            if horizontal[x] and vertical[y] and leftDiagnal[x+y] and (x, y) not in rightDiagnal:
+            if vertical[y] and leftDiagnal[x+y] and (x, y) not in rightDiagnal:
                 temp[x][y] = "Q"
-                horizontal[x] = False 
                 vertical[y] = False 
                 leftDiagnal[x+y] = False
                 while x > 0 and y > 0:
@@ -27,7 +26,6 @@ class Solution:
         
         def remove(x, y):
             temp[x][y] = "."
-            horizontal[x] = True 
             vertical[y] = True 
             leftDiagnal[x+y] = True
             while x > 0 and y > 0:

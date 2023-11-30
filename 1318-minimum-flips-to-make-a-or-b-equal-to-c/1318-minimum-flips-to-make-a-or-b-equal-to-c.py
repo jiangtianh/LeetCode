@@ -13,10 +13,7 @@ class Solution:
         while len(c) != maxLength:
             c = "0" + c
         
-        
-        print(a)
-        print(b)
-        print(c)
+
         
         res = 0
         for i in range(len(c)):

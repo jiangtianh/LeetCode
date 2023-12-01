@@ -12,5 +12,7 @@ class Solution:
             num = i + 1
             if citation >= num:
                 res = max(res, min(num, citation))
+            else:
+                break
         return res
         

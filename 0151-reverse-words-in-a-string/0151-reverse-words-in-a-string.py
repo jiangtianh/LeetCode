@@ -1,21 +1,22 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
-        
         temp = ""
         li = []
-        
         for i in range(len(s)):
-            if s[i] == " ":
+            c = s[i]
+
+            if c == " ":
                 if temp != "":
                     li.append(temp)
                     temp = ""
-                    
             else:
-                temp += s[i]
-        if temp:
+                temp += c
+
+        if temp != "":
             li.append(temp)
         
-        print(li)
-        
-        li.reverse() 
+        li.reverse()
         return " ".join(li)
+
+
+

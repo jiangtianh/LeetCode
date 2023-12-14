@@ -10,14 +10,15 @@ class Solution:
         
         def f(node, temp):
             if not node.left and not node.right:
-                self.res += (int(temp + str(node.val)))
+                self.res += temp * 10 + node.val
                 return 
+            
             if node.left:
-                f(node.left, temp + str(node.val))
+                f(node.left, temp * 10 + node.val)
             if node.right:
-                f(node.right, temp + str(node.val))
+                f(node.right, temp * 10 + node.val)
         
-        f(root, "")
+        f(root, 0)
         return self.res
                 
                 

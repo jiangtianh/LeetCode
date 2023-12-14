@@ -3,35 +3,25 @@ class Solution:
         if grid[0][0] == 1:
             return -1
         
-        n = len(grid)
-        directions = [[-1, -1], [-1, 0], [-1, 1], [0, -1], [0,1], [1, -1], [1, 0], [1, 1]]
-
-        def check(x, y):
-            return x in range(n) and y in range(n) and grid[x][y] == 0
-
         q = collections.deque() 
-        
         q.append((0, 0))
-        visited = {(0,0)}
-        res = 1
+        visited = set()
+        visited.add((0, 0))
+        directions = [[1, 1], [1, 0], [1, -1], [0, 1], [-1, 1], [-1, 0], [-1, -1], [0, -1]]
+        
+        count = 1
         while q:
-            
             for _ in range(len(q)):
-                curx, cury = q.popleft() 
-
-                if curx == n - 1 and cury == n - 1:
-                    return res
-
+                curX, curY = q.popleft() 
+                if curX == len(grid) - 1 and curY == len(grid[0]) - 1:
+                    return count
                 for i, j in directions:
-                    newx = curx + i
-                    newy = cury + j
-                    if check(newx, newy) and (newx, newy) not in visited:
-                        visited.add((newx, newy))
-                        q.append((newx, newy))
-            res += 1
-            
+                    newX, newY = curX + i, curY + j
+                    
+                    if newX in range(len(grid)) and newY in range(len(grid[0])) and (newX, newY) not in visited and grid[newX][newY] == 0:
+                        q.append((newX, newY))
+                        visited.add((newX, newY)) 
+                        
+            count += 1
+        
         return -1
-
-
-
-

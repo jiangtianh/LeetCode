@@ -1,16 +1,16 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        d = {")": "(", "}": "{", "]": "["}
-        for i in range(len(s)):
-            c = s[i]
-            if c == "(" or c == "[" or c == "{":
+        parenMap = {"}": "{", ")":"(", "]": "["}
+        
+        for c in s:
+            if c not in parenMap:
                 stack.append(c)
             else:
-                if stack and stack[-1] == d[c]:
-                    stack.pop()
-                    continue 
-                else:
+                if not stack or parenMap[c] != stack[-1]:
                     return False 
-
-        return not stack
+                stack.pop() 
+        return len(stack) == 0
+        
+        
+        

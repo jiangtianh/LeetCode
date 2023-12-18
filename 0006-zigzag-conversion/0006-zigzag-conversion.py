@@ -4,21 +4,21 @@ class Solution:
             return s
         
         res = [""] * numRows
-        
-        direction = -1
-        pointer = 0
-        
-        for i in range(len(s)):
-            c = s[i]
-            res[pointer] += c
+        direction = 1
+        i = 0
+        for c in s:
+            res[i] += c
             
-            if pointer == 0 or pointer == len(res) - 1:
+            i += direction 
+            
+            if i < 0:
+                i = 1
                 direction *= -1
-            
-            pointer += direction
-            
-        
+               
+            if i == numRows:
+                i = numRows - 2
+                direction *= -1
+                
         return "".join(res)
-        
-        
-        
+            
+            

@@ -1,19 +1,19 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-        wordDict = set(wordDict)
+        words = set(wordDict)
+        
         @cache
         def f(i):
-            
             if i == len(s):
                 return True 
-            
-            res = False
-            for j in range(i, len(s)):
-                if s[i:j + 1] in wordDict:
-                    res = res or f(j + 1)
+            elif i > len(s):
+                return False 
+            res = False 
+            for word in wordDict:
+                if s[i:i+len(word)] == word:
+                    res = res or f(i + len(word))
+                    if res:
+                        break
             return res
         
         return f(0)
-            
-        
-        

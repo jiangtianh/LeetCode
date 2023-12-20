@@ -8,8 +8,8 @@ class Solution:
             if p < smallest:
                 secondSmallest = smallest
                 smallest = p
-            else:
-                secondSmallest = min(secondSmallest, p)
+            elif p < secondSmallest:
+                secondSmallest = p
             
         res = smallest + secondSmallest
         print(res)

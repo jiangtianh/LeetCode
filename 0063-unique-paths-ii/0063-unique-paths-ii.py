@@ -1,16 +1,33 @@
 class Solution:
-    def uniquePathsWithObstacles(self, grid: List[List[int]]) -> int:
-        @cache
+    def uniquePathsWithObstacles(self, obstacleGrid: List[List[int]]) -> int:
+        m = len(obstacleGrid)
+        n = len(obstacleGrid[0])
+        
+        @cache 
         def f(x, y):
-            if x == len(grid) or y == len(grid[0]) or grid[x][y] == 1:
-                return 0 
-            elif x == len(grid) - 1 and y == len(grid[0]) - 1:
+            
+        
+            if x == m or y == n or obstacleGrid[x][y] == 1:
+                return math.inf
+            
+            elif x == m-1 and y == n-1:
                 return 1
             
-            return f(x+1, y) + f(x, y+1)
-
-
+            bottom = f(x+1, y)
+            right = f(x, y+1)
             
-  
+            if bottom == math.inf and right == math.inf:
+                return math.inf 
+            elif bottom == math.inf:
+                return right
+            elif right == math.inf:
+                return bottom 
+            else:
+                return bottom + right
+            
+        res = f(0, 0)
+        if res == math.inf:
+            return 0 
+        return res
         
-        return f(0,0)
+        

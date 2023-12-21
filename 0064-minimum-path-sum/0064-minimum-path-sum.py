@@ -1,26 +1,19 @@
 class Solution:
     def minPathSum(self, grid: List[List[int]]) -> int:
+        m = len(grid)
+        n = len(grid[0])
         
-     
-        
-        for x in reversed(range(len(grid))):
-            for y in reversed(range(len(grid[0]))):
-                
-                if x == len(grid) - 1 and y == len(grid[0]) - 1:
-                    grid[x][y] = grid[x][y] 
-                elif x == len(grid) - 1:
-                    grid[x][y] = grid[x][y] + grid[x][y+1]
-                elif y == len(grid[0]) - 1:
-                    grid[x][y] = grid[x][y] + grid[x+1][y]
-                else:
-                    grid[x][y] = grid[x][y] + min(grid[x+1][y], grid[x][y+1])
-        
-        return grid[0][0]
-        
-        
-        
-        
-     
+        @cache
+        def f(x, y):
             
+            if x == m-1 and y == n-1:
+                return grid[x][y]
+
+            elif x == m or y == n:
+                return math.inf 
+            
+            return min(f(x+1, y), f(x, y+1)) + grid[x][y]
+    
+        return f(0, 0)
             
             

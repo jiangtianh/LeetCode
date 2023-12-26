@@ -1,33 +1,40 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        graph = defaultdict(list)
+        graph = collections.defaultdict(list)
+        
+        self.res = []
+        visited = set() 
+        path = set()
         
         for x, y in prerequisites:
             graph[x].append(y)
-        
-        path = set() 
-        visited = set() 
-        res = []
-        
-        def dfs(i):
             
-            path.add(i)
-            
+        
+        def f(i):
             for j in graph[i]:
                 if j in path:
                     return False 
+                
                 if j not in visited:
-                    if not dfs(j):
+                    
+                    path.add(j)
+                    visited.add(j)
+                    if not f(j):
                         return False 
+                    
+                    path.remove(j)
             
-            path.remove(i)
-            res.append(i)
-            visited.add(i)
-            return True
-        
+            self.res.append(i)
+            return True 
+    
         for i in range(numCourses):
             if i not in visited:
-                if not dfs(i):
+                visited.add(i)
+                path.add(i)
+                if not f(i):
                     return []
-        return res
+                path.remove(i)
+        return self.res
+        
+        
         

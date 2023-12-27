@@ -13,16 +13,19 @@ class Solution:
         
         def f(node, temp):
             if not node.left and not node.right:
-                self.res.append(temp)
+                self.res.append("".join(temp))
                 return 
             
             if node.left:
-                f(node.left, temp + "->" + str(node.left.val))
+                temp.append("->" + str(node.left.val))
+                f(node.left, temp)
+                temp.pop()
             if node.right:
-                f(node.right, temp + "->" + str(node.right.val))
-            
+                temp.append("->" + str(node.right.val))
+                f(node.right, temp)
+                temp.pop()
             
             
         
-        f(root, str(root.val))
+        f(root, [str(root.val)])
         return self.res

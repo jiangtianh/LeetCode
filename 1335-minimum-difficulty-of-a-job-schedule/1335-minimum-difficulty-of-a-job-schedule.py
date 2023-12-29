@@ -9,8 +9,11 @@ class Solution:
                 return max(jobDifficulty[i:])
             
             res = math.inf
+            currentMax = jobDifficulty[i]
             for j in range(i+1, len(jobDifficulty)):
-                res = min(res, max(jobDifficulty[i:j]) + f(j, d-1))            
+                
+                res = min(res, currentMax + f(j, d-1))  
+                currentMax = max(currentMax, jobDifficulty[j])
                 
             return res
         

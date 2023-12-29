@@ -1,11 +1,12 @@
 class Solution:
     def minDifficulty(self, jobDifficulty: List[int], d: int) -> int:
+        
         @cache
         def f(i, d):
             if len(jobDifficulty) - i < d:
                 return math.inf 
             
-            if d == 1:
+            elif d == 1:
                 return max(jobDifficulty[i:])
             
             res = math.inf

@@ -13,8 +13,7 @@ class Solution:
             
             while (r - l + 1) - most > k:
                 d[s[l]] -= 1
-                if d[s[l]] == 0:
-                    d.pop(s[l])
+                
                 l += 1
                 
             

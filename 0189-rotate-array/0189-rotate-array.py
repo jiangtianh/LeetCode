@@ -3,15 +3,29 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        partToSwap = []
         k %= len(nums)
-        for i in range(len(nums) - k, len(nums)):
-            partToSwap.append(nums[i])
         
-        idx = len(nums) - 1
-        for i in range(len(nums) - k - 1, -1 ,-1):
-            nums[idx] = nums[i]
-            idx -= 1
+        start = 0
+        count = 0
+        while count < len(nums):
+            
+            num = nums[start]
+            idx = start
+            while True:
+                nextIdx = (idx + k) % len(nums)
+                nums[nextIdx], num = num, nums[nextIdx]
+                idx = nextIdx
+                count += 1
+            
+                if nextIdx == start:
+                    break
+            start += 1
+            
         
-        for i in range(k):
-            nums[i] = partToSwap[i]
+            
+            
+            
+        
+            
+                
+                

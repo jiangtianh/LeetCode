@@ -4,21 +4,20 @@ class Solution:
         nums1.sort() 
         nums2.sort()
 
-        l = r = 0
+        p = 0
         res = []
         
-        while l < len(nums1) and r < len(nums2):
-            if nums1[l] == nums2[r]:
-                res.append(nums1[l])
-                l += 1
-                r += 1
-            elif nums1[l] > nums2[r]:
-                r += 1
-            else:
-                l += 1
-                
-        return res
+        for i in range(len(nums1)):
             
+            while p < len(nums2) and nums2[p] < nums1[i]:
+                p += 1
+            if p < len(nums2) and nums2[p] == nums1[i]:
+                res.append(nums1[i])
+                p += 1
+        
+        return res
+        
+      
         
         
         

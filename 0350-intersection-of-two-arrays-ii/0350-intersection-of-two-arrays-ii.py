@@ -1,15 +1,25 @@
 class Solution:
     def intersect(self, nums1: List[int], nums2: List[int]) -> List[int]:
         
-        
-        
-        d = collections.Counter(nums1)
-        res = []
-        for num in nums2:
-            if num in d and d[num] > 0:
-                res.append(num)
-                d[num] -= 1
-        
-        return res
+        nums1.sort() 
+        nums2.sort()
 
+        l = r = 0
+        res = []
+        
+        while l < len(nums1) and r < len(nums2):
+            if nums1[l] == nums2[r]:
+                res.append(nums1[l])
+                l += 1
+                r += 1
+            elif nums1[l] > nums2[r]:
+                r += 1
+            else:
+                l += 1
+                
+        return res
+            
+        
+        
+        
         

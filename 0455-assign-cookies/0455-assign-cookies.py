@@ -3,21 +3,18 @@ class Solution:
         s.sort() 
         g.sort() 
         res = 0
-        cookieIdx = childIdx = 0
+        cookieIdx = 0
         
-        while cookieIdx < len(s) and childIdx < len(g):
-            greed = g[childIdx]
+        for child in g:
             
-            while cookieIdx < len(s) and s[cookieIdx] < greed:
+            while cookieIdx < len(s) and s[cookieIdx] < child:
                 cookieIdx += 1
             
             if cookieIdx == len(s):
                 break 
             else:
-                res += 1
                 cookieIdx += 1
-            
-            childIdx += 1
+                res += 1
         
         return res
         

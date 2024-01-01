@@ -1,16 +1,22 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        @cache
-        def f(i, haveStock):
-            if i == len(prices):
-                return 0
+        prev = -1
+        res = 0
+        for i in range(len(prices)):
+            price = prices[i]
             
-            if haveStock:
-                return max(f(i + 1, True), f(i + 1, False) + prices[i])
-            else:
-                return max(f(i + 1, False), f(i + 1, True) - prices[i])
+            if i != len(prices) -1 and prices[i] < prices[i+1] and prev == -1:
+                prev = price
             
-    
-        return f(0, False)
+            elif i != len(prices) - 1 and prices[i] > prices[i+1] and prev != -1:
+                res += price - prev
+                prev = -1
         
+        if prev != -1:
+            res += prices[-1] - prev
+        
+        return res
+            
+            
+            
         

@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0502-ipo](https://github.com/jiangtianh/LeetCode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/jiangtianh/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/jiangtianh/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/jiangtianh/LeetCode/tree/master/1137-height-checker) |
@@ -36,8 +37,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0502-ipo](https://github.com/jiangtianh/LeetCode/tree/master/0502-ipo) |
 | [1137-height-checker](https://github.com/jiangtianh/LeetCode/tree/master/1137-height-checker) |
 # Counting Sort
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/jiangtianh/LeetCode/tree/master/1137-height-checker) |
+# Greedy
+|  |
+| ------- |
+| [0502-ipo](https://github.com/jiangtianh/LeetCode/tree/master/0502-ipo) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/jiangtianh/LeetCode/tree/master/0502-ipo) |

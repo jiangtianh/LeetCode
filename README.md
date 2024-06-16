@@ -51,3 +51,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0502-ipo](https://github.com/jiangtianh/LeetCode/tree/master/0502-ipo) |
+# Depth-First Search
+|  |
+| ------- |
+| [0339-nested-list-weight-sum](https://github.com/jiangtianh/LeetCode/tree/master/0339-nested-list-weight-sum) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0339-nested-list-weight-sum](https://github.com/jiangtianh/LeetCode/tree/master/0339-nested-list-weight-sum) |

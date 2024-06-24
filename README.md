@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/jiangtianh/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/jiangtianh/LeetCode/tree/master/1137-height-checker) |
 | [1675-magnetic-force-between-two-balls](https://github.com/jiangtianh/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/jiangtianh/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 # Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/jiangtianh/LeetCode/tree/master/0502-ipo) |
 | [1137-height-checker](https://github.com/jiangtianh/LeetCode/tree/master/1137-height-checker) |
 | [1675-magnetic-force-between-two-balls](https://github.com/jiangtianh/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/jiangtianh/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 # Counting Sort
 |  |
 | ------- |

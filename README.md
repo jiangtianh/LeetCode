@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/jiangtianh/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/jiangtianh/LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [2225-substrings-that-begin-and-end-with-the-same-letter](https://github.com/jiangtianh/LeetCode/tree/master/2225-substrings-that-begin-and-end-with-the-same-letter) |
 # Prefix Sum
 |  |
@@ -67,9 +68,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Search
 |  |
 | ------- |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/jiangtianh/LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/jiangtianh/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 # Matrix
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+# Two Pointers
+|  |
+| ------- |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/jiangtianh/LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+# Interactive
+|  |
+| ------- |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/jiangtianh/LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |

@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1333-sort-the-jumbled-numbers](https://github.com/jiangtianh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/jiangtianh/LeetCode/tree/master/1511-count-number-of-teams) |
 | [2472-build-a-matrix-with-conditions](https://github.com/jiangtianh/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/jiangtianh/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Matrix
@@ -126,4 +127,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/jiangtianh/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/jiangtianh/LeetCode/tree/master/1511-count-number-of-teams) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/jiangtianh/LeetCode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->

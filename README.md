@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jiangtianh/LeetCode/tree/master/0067-add-binary) |
+| [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/jiangtianh/LeetCode/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/jiangtianh/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |

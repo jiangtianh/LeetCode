@@ -1,15 +1,15 @@
 class Solution:
     def minStoneSum(self, piles: List[int], k: int) -> int:
-        
-        piles = [-i for i in piles]
-
+        res = sum(piles)
+        piles = [-pile for pile in piles]
         heapq.heapify(piles)
 
         for _ in range(k):
-            cur = -heapq.heappop(piles)
-            remove = cur // 2
-            cur = - (cur - remove)
-            heapq.heappush(piles, cur)
+            num = -heapq.heappop(piles)
 
-        return -sum(piles)
+            toRemove = floor(num / 2)
+            res -= toRemove
 
+            heapq.heappush(piles, -(num - toRemove))
+
+        return res

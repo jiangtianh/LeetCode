@@ -16,12 +16,15 @@ class Solution:
 
         low = 0
         high = nums[-1] - nums[0]
+        res = math.inf
 
-        while low < high:
+        while low <= high:
             mid = (low + high) // 2
             c = count(mid)
-            if c < k:
+            if c >= k:
+                res = min(res, mid)
+                high = mid - 1
+            elif c < k:
                 low = mid + 1
-            else:
-                high = mid
-        return low
+            
+        return res

@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jiangtianh/LeetCode/tree/master/0067-add-binary) |
+| [2001-jump-game-vii](https://github.com/jiangtianh/LeetCode/tree/master/2001-jump-game-vii) |
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/jiangtianh/LeetCode/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/jiangtianh/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1511-count-number-of-teams](https://github.com/jiangtianh/LeetCode/tree/master/1511-count-number-of-teams) |
+| [2001-jump-game-vii](https://github.com/jiangtianh/LeetCode/tree/master/2001-jump-game-vii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jiangtianh/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Binary Indexed Tree
 |  |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2001-jump-game-vii](https://github.com/jiangtianh/LeetCode/tree/master/2001-jump-game-vii) |
 ## Hash Table
 |  |
 | ------- |
@@ -216,4 +219,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jiangtianh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Sliding Window
+|  |
+| ------- |
+| [2001-jump-game-vii](https://github.com/jiangtianh/LeetCode/tree/master/2001-jump-game-vii) |
 <!---LeetCode Topics End-->

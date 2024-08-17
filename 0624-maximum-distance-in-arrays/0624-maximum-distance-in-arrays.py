@@ -1,30 +1,21 @@
 class Solution:
     def maxDistance(self, arrays: List[List[int]]) -> int:
-        smallest = []
-        largest = []
 
-        for arr in arrays:
-            smallest.append(arr[0])
-            largest.append(arr[-1])
         res = 0
         
-        s = smallest[0]
-        l = largest[0]
+        small = arrays[0][0]
+        large = arrays[0][-1]
 
         for i in range(1, len(arrays)):
-            sm, lg = smallest[i], largest[i]
+            s, l = arrays[i][0], arrays[i][-1]
 
-            takeLg = lg - s
-            takeSm = l - sm
+            takeLeft = large - s
+            takeRight = l - small
 
-            if takeLg >= takeSm and takeLg > res:
-                res = takeLg
-                
-            elif takeLg < takeSm and takeSm > res:
-                res = takeSm
-            s = min(s, sm)
-            l = max(l, lg)
+            res = max(res, takeLeft, takeRight)
 
+            small = min(small, s)
+            large = max(large, l)
 
 
         return res

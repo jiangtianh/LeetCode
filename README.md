@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/jiangtianh/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1726-coordinate-with-maximum-network-quality](https://github.com/jiangtianh/LeetCode/tree/master/1726-coordinate-with-maximum-network-quality) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/jiangtianh/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2448-count-number-of-bad-pairs](https://github.com/jiangtianh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/jiangtianh/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1726-coordinate-with-maximum-network-quality](https://github.com/jiangtianh/LeetCode/tree/master/1726-coordinate-with-maximum-network-quality) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/jiangtianh/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |

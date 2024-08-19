@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jiangtianh/LeetCode/tree/master/0067-add-binary) |
+| [1041-available-captures-for-rook](https://github.com/jiangtianh/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jiangtianh/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Array
 |  |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0722-remove-comments](https://github.com/jiangtianh/LeetCode/tree/master/0722-remove-comments) |
 | [0890-lemonade-change](https://github.com/jiangtianh/LeetCode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/jiangtianh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1041-available-captures-for-rook](https://github.com/jiangtianh/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1063-best-sightseeing-pair](https://github.com/jiangtianh/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1219-longest-well-performing-interval](https://github.com/jiangtianh/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1333-sort-the-jumbled-numbers](https://github.com/jiangtianh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [1041-available-captures-for-rook](https://github.com/jiangtianh/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2472-build-a-matrix-with-conditions](https://github.com/jiangtianh/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |

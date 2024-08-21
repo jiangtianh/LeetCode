@@ -9,12 +9,12 @@ class Solution:
             return True 
         res = 0
         while True:
-            li = []
+            li = [0 for _ in range(n)]
             for i in range(n):
                 if i % 2 == 0:
-                    li.append(arr[i // 2])
+                    li[i] = (arr[i // 2])
                 else:
-                    li.append(arr[n // 2 + (i - 1) // 2])
+                    li[i] = (arr[n // 2 + (i - 1) // 2])
             arr = li
             res += 1
             if check(arr):

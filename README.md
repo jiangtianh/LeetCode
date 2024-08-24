@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/jiangtianh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/jiangtianh/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/jiangtianh/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0815-champagne-tower](https://github.com/jiangtianh/LeetCode/tree/master/0815-champagne-tower) |
 | [1063-best-sightseeing-pair](https://github.com/jiangtianh/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1240-stone-game-ii](https://github.com/jiangtianh/LeetCode/tree/master/1240-stone-game-ii) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/1394-minimum-path-cost-in-a-grid) |

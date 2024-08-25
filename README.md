@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2055-describe-the-painting](https://github.com/jiangtianh/LeetCode/tree/master/2055-describe-the-painting) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/jiangtianh/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/jiangtianh/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2159-two-out-of-three](https://github.com/jiangtianh/LeetCode/tree/master/2159-two-out-of-three) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/jiangtianh/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jiangtianh/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/jiangtianh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/jiangtianh/LeetCode/tree/master/0067-add-binary) |
 | [0476-number-complement](https://github.com/jiangtianh/LeetCode/tree/master/0476-number-complement) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jiangtianh/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2159-two-out-of-three](https://github.com/jiangtianh/LeetCode/tree/master/2159-two-out-of-three) |
 ## Greedy
 |  |
 | ------- |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1219-longest-well-performing-interval](https://github.com/jiangtianh/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/jiangtianh/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [2055-describe-the-painting](https://github.com/jiangtianh/LeetCode/tree/master/2055-describe-the-painting) |
+| [2159-two-out-of-three](https://github.com/jiangtianh/LeetCode/tree/master/2159-two-out-of-three) |
 | [2406-decode-the-message](https://github.com/jiangtianh/LeetCode/tree/master/2406-decode-the-message) |
 | [2448-count-number-of-bad-pairs](https://github.com/jiangtianh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Tree

@@ -14,7 +14,4 @@ class Solution:
 
         return max(positive)
 
-p = [0, 0, 0, 2]
-n = [0, 0, 0, -2]
-
 

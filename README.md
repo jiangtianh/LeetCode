@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jiangtianh/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/jiangtianh/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2001-jump-game-vii](https://github.com/jiangtianh/LeetCode/tree/master/2001-jump-game-vii) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jiangtianh/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2406-decode-the-message](https://github.com/jiangtianh/LeetCode/tree/master/2406-decode-the-message) |
 | [2496-count-days-spent-together](https://github.com/jiangtianh/LeetCode/tree/master/2496-count-days-spent-together) |
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/jiangtianh/LeetCode/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/jiangtianh/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/jiangtianh/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/jiangtianh/LeetCode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jiangtianh/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3334-apple-redistribution-into-boxes](https://github.com/jiangtianh/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/jiangtianh/LeetCode/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Heap (Priority Queue)
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1219-longest-well-performing-interval](https://github.com/jiangtianh/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jiangtianh/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jiangtianh/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |

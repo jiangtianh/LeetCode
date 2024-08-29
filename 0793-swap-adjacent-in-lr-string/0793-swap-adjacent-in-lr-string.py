@@ -31,11 +31,7 @@ class Solution:
                 startR.append(i)    
             j += 1
             i += 1
-        
-        print(startL)
-        print(endL)
-        print(startR)
-        print(endR)
+
 
         for i in range(len(startL)):
             if startL[i] < endL[i]:

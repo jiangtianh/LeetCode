@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0722-remove-comments](https://github.com/jiangtianh/LeetCode/tree/master/0722-remove-comments) |
 | [0841-shortest-distance-to-a-character](https://github.com/jiangtianh/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/jiangtianh/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jiangtianh/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/jiangtianh/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2001-jump-game-vii](https://github.com/jiangtianh/LeetCode/tree/master/2001-jump-game-vii) |
 | [2406-decode-the-message](https://github.com/jiangtianh/LeetCode/tree/master/2406-decode-the-message) |
@@ -382,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1219-longest-well-performing-interval](https://github.com/jiangtianh/LeetCode/tree/master/1219-longest-well-performing-interval) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jiangtianh/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |

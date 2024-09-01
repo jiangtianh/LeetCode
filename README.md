@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/jiangtianh/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1219-longest-well-performing-interval](https://github.com/jiangtianh/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1240-stone-game-ii](https://github.com/jiangtianh/LeetCode/tree/master/1240-stone-game-ii) |
+| [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
 | [1325-path-with-maximum-probability](https://github.com/jiangtianh/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/jiangtianh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jiangtianh/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/jiangtianh/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jiangtianh/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Geometry
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/jiangtianh/LeetCode/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jiangtianh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1219-longest-well-performing-interval](https://github.com/jiangtianh/LeetCode/tree/master/1219-longest-well-performing-interval) |
+| [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/jiangtianh/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/jiangtianh/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/jiangtianh/LeetCode/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
@@ -437,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0677-map-sum-pairs](https://github.com/jiangtianh/LeetCode/tree/master/0677-map-sum-pairs) |
+| [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
 ## Trie
 |  |
 | ------- |

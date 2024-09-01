@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/jiangtianh/LeetCode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jiangtianh/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/jiangtianh/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jiangtianh/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3447-clear-digits](https://github.com/jiangtianh/LeetCode/tree/master/3447-clear-digits) |
 ## Array
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2055-describe-the-painting](https://github.com/jiangtianh/LeetCode/tree/master/2055-describe-the-painting) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/jiangtianh/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/jiangtianh/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/jiangtianh/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2159-two-out-of-three](https://github.com/jiangtianh/LeetCode/tree/master/2159-two-out-of-three) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/jiangtianh/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jiangtianh/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1394-minimum-path-cost-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2035-count-sub-islands](https://github.com/jiangtianh/LeetCode/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/jiangtianh/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/jiangtianh/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Graph
 |  |

@@ -392,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jiangtianh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/jiangtianh/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jiangtianh/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jiangtianh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2035-count-sub-islands](https://github.com/jiangtianh/LeetCode/tree/master/2035-count-sub-islands) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jiangtianh/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
 | ------- |
@@ -418,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jiangtianh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/jiangtianh/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jiangtianh/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Sliding Window
 |  |
 | ------- |

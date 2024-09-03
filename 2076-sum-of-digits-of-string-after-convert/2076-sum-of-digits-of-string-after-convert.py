@@ -1,18 +1,17 @@
 class Solution:
     def getLucky(self, s: str, k: int) -> int:
-        
-        a = []
-
+        temp = ''
         for c in s:
-            a.append(str(ord(c) - ord('a') + 1))
+            temp += str(ord(c) - ord('a') + 1)
         
-        num = int(''.join(a))
+        res = int(temp)
 
         for _ in range(k):
             temp = 0
-            while num > 0:
-                temp += num % 10
-                num //= 10
-            num = temp
-        
-        return num
+
+            while res > 0:
+                temp += res % 10
+                res //= 10
+            res = temp
+
+        return res

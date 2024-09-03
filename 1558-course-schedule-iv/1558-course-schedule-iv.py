@@ -1,7 +1,6 @@
 class Solution:
     def checkIfPrerequisite(self, numCourses: int, prerequisites: List[List[int]], queries: List[List[int]]) -> List[bool]:
-        if not prerequisites:
-            return [False] * len(queries)
+
         graph = collections.defaultdict(list)
         for x, y in prerequisites:
             graph[y].append(x)

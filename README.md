@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/jiangtianh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1041-available-captures-for-rook](https://github.com/jiangtianh/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1063-best-sightseeing-pair](https://github.com/jiangtianh/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1183-statistics-from-a-large-sample](https://github.com/jiangtianh/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
 | [1219-longest-well-performing-interval](https://github.com/jiangtianh/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1240-stone-game-ii](https://github.com/jiangtianh/LeetCode/tree/master/1240-stone-game-ii) |
 | [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/jiangtianh/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0830-largest-triangle-area](https://github.com/jiangtianh/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/jiangtianh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1183-statistics-from-a-large-sample](https://github.com/jiangtianh/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
 | [1240-stone-game-ii](https://github.com/jiangtianh/LeetCode/tree/master/1240-stone-game-ii) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/jiangtianh/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -505,4 +507,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/jiangtianh/LeetCode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1183-statistics-from-a-large-sample](https://github.com/jiangtianh/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
 <!---LeetCode Topics End-->

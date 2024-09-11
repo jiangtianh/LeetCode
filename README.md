@@ -547,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/jiangtianh/LeetCode/tree/master/0182-duplicate-emails) |
 | [0627-swap-salary](https://github.com/jiangtianh/LeetCode/tree/master/0627-swap-salary) |
 | [1837-daily-leads-and-partners](https://github.com/jiangtianh/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/jiangtianh/LeetCode/tree/master/1877-find-followers-count) |

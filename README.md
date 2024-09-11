@@ -541,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0627-swap-salary](https://github.com/jiangtianh/LeetCode/tree/master/0627-swap-salary) |
 | [1908-recyclable-and-low-fat-products](https://github.com/jiangtianh/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Reservoir Sampling
 |  |

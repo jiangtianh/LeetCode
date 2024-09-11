@@ -550,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0182-duplicate-emails](https://github.com/jiangtianh/LeetCode/tree/master/0182-duplicate-emails) |
 | [0627-swap-salary](https://github.com/jiangtianh/LeetCode/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/jiangtianh/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jiangtianh/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1837-daily-leads-and-partners](https://github.com/jiangtianh/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/jiangtianh/LeetCode/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/jiangtianh/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |

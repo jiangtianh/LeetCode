@@ -542,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0627-swap-salary](https://github.com/jiangtianh/LeetCode/tree/master/0627-swap-salary) |
+| [1837-daily-leads-and-partners](https://github.com/jiangtianh/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [1908-recyclable-and-low-fat-products](https://github.com/jiangtianh/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Reservoir Sampling
 |  |

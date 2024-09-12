@@ -7,7 +7,7 @@ FROM
     a.age, a.employee_id, b.name AS reportee_name, b.employee_id AS reportee_id
 FROM
     Employees a
-        LEFT JOIN Employees b ON a.reports_to = b.employee_id) AS sub
-WHERE reportee_id IS NOT NULL
+        INNER JOIN Employees b ON a.reports_to = b.employee_id) AS sub
+
 GROUP BY reportee_id
 ORDER BY employee_id

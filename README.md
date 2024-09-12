@@ -567,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jiangtianh/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1837-daily-leads-and-partners](https://github.com/jiangtianh/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/jiangtianh/LeetCode/tree/master/1877-find-followers-count) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/jiangtianh/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/jiangtianh/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2110-employees-with-missing-information](https://github.com/jiangtianh/LeetCode/tree/master/2110-employees-with-missing-information) |
 ## Reservoir Sampling

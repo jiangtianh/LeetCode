@@ -581,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/jiangtianh/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/jiangtianh/LeetCode/tree/master/1541-top-travellers) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jiangtianh/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1811-fix-names-in-a-table](https://github.com/jiangtianh/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1837-daily-leads-and-partners](https://github.com/jiangtianh/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/jiangtianh/LeetCode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/jiangtianh/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |

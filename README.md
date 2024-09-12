@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/jiangtianh/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0815-champagne-tower](https://github.com/jiangtianh/LeetCode/tree/master/0815-champagne-tower) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/jiangtianh/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
+| [0972-knight-dialer](https://github.com/jiangtianh/LeetCode/tree/master/0972-knight-dialer) |
 | [1063-best-sightseeing-pair](https://github.com/jiangtianh/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1240-stone-game-ii](https://github.com/jiangtianh/LeetCode/tree/master/1240-stone-game-ii) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/1394-minimum-path-cost-in-a-grid) |

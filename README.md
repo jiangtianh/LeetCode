@@ -555,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/jiangtianh/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/jiangtianh/LeetCode/tree/master/0182-duplicate-emails) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/jiangtianh/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/jiangtianh/LeetCode/tree/master/0607-sales-person) |

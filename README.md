@@ -562,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0627-swap-salary](https://github.com/jiangtianh/LeetCode/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/jiangtianh/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1180-game-play-analysis-ii](https://github.com/jiangtianh/LeetCode/tree/master/1180-game-play-analysis-ii) |
+| [1258-article-views-i](https://github.com/jiangtianh/LeetCode/tree/master/1258-article-views-i) |
 | [1268-market-analysis-i](https://github.com/jiangtianh/LeetCode/tree/master/1268-market-analysis-i) |
 | [1541-top-travellers](https://github.com/jiangtianh/LeetCode/tree/master/1541-top-travellers) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jiangtianh/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |

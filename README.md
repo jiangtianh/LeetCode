@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0793-swap-adjacent-in-lr-string](https://github.com/jiangtianh/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/jiangtianh/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/jiangtianh/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
+| [1023-time-based-key-value-store](https://github.com/jiangtianh/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/jiangtianh/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jiangtianh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jiangtianh/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/jiangtianh/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jiangtianh/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1023-time-based-key-value-store](https://github.com/jiangtianh/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/jiangtianh/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jiangtianh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -423,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0677-map-sum-pairs](https://github.com/jiangtianh/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0768-partition-labels](https://github.com/jiangtianh/LeetCode/tree/master/0768-partition-labels) |
 | [0906-walking-robot-simulation](https://github.com/jiangtianh/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [1023-time-based-key-value-store](https://github.com/jiangtianh/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jiangtianh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1219-longest-well-performing-interval](https://github.com/jiangtianh/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
@@ -533,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0677-map-sum-pairs](https://github.com/jiangtianh/LeetCode/tree/master/0677-map-sum-pairs) |
+| [1023-time-based-key-value-store](https://github.com/jiangtianh/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
 ## Trie
 |  |

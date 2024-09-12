@@ -556,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/jiangtianh/LeetCode/tree/master/0182-duplicate-emails) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/jiangtianh/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/jiangtianh/LeetCode/tree/master/0607-sales-person) |
 | [0627-swap-salary](https://github.com/jiangtianh/LeetCode/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/jiangtianh/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |

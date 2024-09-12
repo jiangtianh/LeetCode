@@ -8,12 +8,6 @@ FROM
         FROM Orders
         GROUP BY customer_number
     ) AS sub
-WHERE 
-    c = (
-        SELECT MAX(c)
-        FROM (
-            SELECT COUNT(order_number) AS c
-            FROM Orders
-            GROUP BY customer_number
-        ) AS counts
-    );
+ORDER BY 
+    c DESC
+LIMIT 1

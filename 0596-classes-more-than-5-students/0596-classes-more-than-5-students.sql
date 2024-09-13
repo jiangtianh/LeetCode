@@ -2,11 +2,6 @@
 SELECT 
     class
 FROM
-    (SELECT
-        COUNT(student) AS count,
-        class
-    FROM 
-        Courses
-    GROUP BY 
-        class) AS sub
-WHERE count >= 5
+    Courses
+GROUP BY class
+HAVING COUNT(*) >= 5

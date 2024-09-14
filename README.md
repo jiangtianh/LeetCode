@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-find-and-replace-in-string](https://github.com/jiangtianh/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/jiangtianh/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1023-time-based-key-value-store](https://github.com/jiangtianh/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/jiangtianh/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/jiangtianh/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jiangtianh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jiangtianh/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -562,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/jiangtianh/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2035-count-sub-islands](https://github.com/jiangtianh/LeetCode/tree/master/2035-count-sub-islands) |
 ## String Matching
 |  |

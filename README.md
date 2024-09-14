@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/jiangtianh/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/jiangtianh/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3447-clear-digits](https://github.com/jiangtianh/LeetCode/tree/master/3447-clear-digits) |
+| [3533-snake-in-matrix](https://github.com/jiangtianh/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Array
 |  |
 | ------- |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jiangtianh/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/jiangtianh/LeetCode/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/jiangtianh/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3533-snake-in-matrix](https://github.com/jiangtianh/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jiangtianh/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/jiangtianh/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3447-clear-digits](https://github.com/jiangtianh/LeetCode/tree/master/3447-clear-digits) |
+| [3533-snake-in-matrix](https://github.com/jiangtianh/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Shortest Path
 |  |
 | ------- |

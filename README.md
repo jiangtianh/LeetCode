@@ -610,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1154-product-sales-analysis-ii](https://github.com/jiangtianh/LeetCode/tree/master/1154-product-sales-analysis-ii) |
 | [1161-project-employees-i](https://github.com/jiangtianh/LeetCode/tree/master/1161-project-employees-i) |
 | [1162-project-employees-ii](https://github.com/jiangtianh/LeetCode/tree/master/1162-project-employees-ii) |
+| [1172-sales-analysis-i](https://github.com/jiangtianh/LeetCode/tree/master/1172-sales-analysis-i) |
 | [1180-game-play-analysis-ii](https://github.com/jiangtianh/LeetCode/tree/master/1180-game-play-analysis-ii) |
 | [1258-article-views-i](https://github.com/jiangtianh/LeetCode/tree/master/1258-article-views-i) |
 | [1268-market-analysis-i](https://github.com/jiangtianh/LeetCode/tree/master/1268-market-analysis-i) |

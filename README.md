@@ -623,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1246-user-activity-for-the-past-30-days-ii](https://github.com/jiangtianh/LeetCode/tree/master/1246-user-activity-for-the-past-30-days-ii) |
 | [1258-article-views-i](https://github.com/jiangtianh/LeetCode/tree/master/1258-article-views-i) |
 | [1268-market-analysis-i](https://github.com/jiangtianh/LeetCode/tree/master/1268-market-analysis-i) |
+| [1291-immediate-food-delivery-i](https://github.com/jiangtianh/LeetCode/tree/master/1291-immediate-food-delivery-i) |
 | [1301-reformat-department-table](https://github.com/jiangtianh/LeetCode/tree/master/1301-reformat-department-table) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/jiangtianh/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/jiangtianh/LeetCode/tree/master/1541-top-travellers) |

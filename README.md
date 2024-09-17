@@ -639,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1438-find-the-team-size](https://github.com/jiangtianh/LeetCode/tree/master/1438-find-the-team-size) |
 | [1453-ads-performance](https://github.com/jiangtianh/LeetCode/tree/master/1453-ads-performance) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/jiangtianh/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1481-students-with-invalid-departments](https://github.com/jiangtianh/LeetCode/tree/master/1481-students-with-invalid-departments) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/jiangtianh/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/jiangtianh/LeetCode/tree/master/1541-top-travellers) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jiangtianh/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |

@@ -1,12 +1,7 @@
 # Write your MySQL query statement below
 
-SELECT
-    DISTINCT sub_id AS post_id,
-    (
-        SELECT COUNT(DISTINCT sub_id)
-        FROM Submissions s2
-        WHERE s1.sub_id = s2.parent_id
-    ) AS number_of_comments
-FROM Submissions s1
-WHERE parent_id IS NULL
-ORDER BY sub_id
+SELECT s1.sub_id AS post_id, COUNT(DISTINCT s2.sub_id) AS number_of_comments
+FROM Submissions s1 LEFT JOIN Submissions s2 ON s1.sub_id = s2.parent_id
+WHERE s1.parent_id IS NULL
+GROUP BY s1.sub_id
+ORDER BY s1.sub_id

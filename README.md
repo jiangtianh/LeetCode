@@ -650,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-top-travellers](https://github.com/jiangtianh/LeetCode/tree/master/1541-top-travellers) |
 | [1551-npv-queries](https://github.com/jiangtianh/LeetCode/tree/master/1551-npv-queries) |
 | [1564-create-a-session-bar-chart](https://github.com/jiangtianh/LeetCode/tree/master/1564-create-a-session-bar-chart) |
+| [1625-group-sold-products-by-the-date](https://github.com/jiangtianh/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jiangtianh/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1811-fix-names-in-a-table](https://github.com/jiangtianh/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1837-daily-leads-and-partners](https://github.com/jiangtianh/LeetCode/tree/master/1837-daily-leads-and-partners) |

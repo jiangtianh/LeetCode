@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jiangtianh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jiangtianh/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/jiangtianh/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jiangtianh/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jiangtianh/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2001-jump-game-vii](https://github.com/jiangtianh/LeetCode/tree/master/2001-jump-game-vii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jiangtianh/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -464,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/jiangtianh/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jiangtianh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/jiangtianh/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jiangtianh/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jiangtianh/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/jiangtianh/LeetCode/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
 | [2055-describe-the-painting](https://github.com/jiangtianh/LeetCode/tree/master/2055-describe-the-painting) |
@@ -551,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0216-combination-sum-iii](https://github.com/jiangtianh/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0320-generalized-abbreviation](https://github.com/jiangtianh/LeetCode/tree/master/0320-generalized-abbreviation) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jiangtianh/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Stack
 |  |
 | ------- |

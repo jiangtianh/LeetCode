@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2547-odd-string-difference](https://github.com/jiangtianh/LeetCode/tree/master/2547-odd-string-difference) |
 | [2561-number-of-distinct-averages](https://github.com/jiangtianh/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jiangtianh/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/jiangtianh/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/jiangtianh/LeetCode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/jiangtianh/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2159-two-out-of-three](https://github.com/jiangtianh/LeetCode/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jiangtianh/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/jiangtianh/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jiangtianh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2055-describe-the-painting](https://github.com/jiangtianh/LeetCode/tree/master/2055-describe-the-painting) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/jiangtianh/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -477,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2547-odd-string-difference](https://github.com/jiangtianh/LeetCode/tree/master/2547-odd-string-difference) |
 | [2561-number-of-distinct-averages](https://github.com/jiangtianh/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jiangtianh/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/jiangtianh/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jiangtianh/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree

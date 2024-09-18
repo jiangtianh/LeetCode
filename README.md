@@ -656,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1664-find-users-with-valid-e-mails](https://github.com/jiangtianh/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/jiangtianh/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1686-fix-product-name-format](https://github.com/jiangtianh/LeetCode/tree/master/1686-fix-product-name-format) |
+| [1712-unique-orders-and-customers-per-month](https://github.com/jiangtianh/LeetCode/tree/master/1712-unique-orders-and-customers-per-month) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jiangtianh/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1811-fix-names-in-a-table](https://github.com/jiangtianh/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1837-daily-leads-and-partners](https://github.com/jiangtianh/LeetCode/tree/master/1837-daily-leads-and-partners) |

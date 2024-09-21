@@ -670,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1686-fix-product-name-format](https://github.com/jiangtianh/LeetCode/tree/master/1686-fix-product-name-format) |
 | [1712-unique-orders-and-customers-per-month](https://github.com/jiangtianh/LeetCode/tree/master/1712-unique-orders-and-customers-per-month) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jiangtianh/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1801-average-time-of-process-per-machine](https://github.com/jiangtianh/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/jiangtianh/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/jiangtianh/LeetCode/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/jiangtianh/LeetCode/tree/master/1837-daily-leads-and-partners) |

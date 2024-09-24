@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/jiangtianh/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/jiangtianh/LeetCode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/jiangtianh/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/jiangtianh/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/jiangtianh/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/jiangtianh/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2001-jump-game-vii](https://github.com/jiangtianh/LeetCode/tree/master/2001-jump-game-vii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jiangtianh/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/jiangtianh/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/jiangtianh/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jiangtianh/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Binary Indexed Tree
 |  |

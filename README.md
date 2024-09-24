@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2094-remove-stones-to-minimize-the-total](https://github.com/jiangtianh/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/jiangtianh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jiangtianh/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/jiangtianh/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2155-find-missing-observations](https://github.com/jiangtianh/LeetCode/tree/master/2155-find-missing-observations) |
 | [2159-two-out-of-three](https://github.com/jiangtianh/LeetCode/tree/master/2159-two-out-of-three) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/jiangtianh/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |

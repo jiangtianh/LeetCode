@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1430-find-the-k-beauty-of-a-number](https://github.com/jiangtianh/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jiangtianh/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jiangtianh/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/jiangtianh/LeetCode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2001-jump-game-vii](https://github.com/jiangtianh/LeetCode/tree/master/2001-jump-game-vii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jiangtianh/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jiangtianh/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/jiangtianh/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jiangtianh/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jiangtianh/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/jiangtianh/LeetCode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/jiangtianh/LeetCode/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
 | [2055-describe-the-painting](https://github.com/jiangtianh/LeetCode/tree/master/2055-describe-the-painting) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/jiangtianh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -621,11 +623,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-time-based-key-value-store](https://github.com/jiangtianh/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
 | [1572-subrectangle-queries](https://github.com/jiangtianh/LeetCode/tree/master/1572-subrectangle-queries) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/jiangtianh/LeetCode/tree/master/1949-implement-trie-ii-prefix-tree) |
 ## Trie
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/jiangtianh/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0677-map-sum-pairs](https://github.com/jiangtianh/LeetCode/tree/master/0677-map-sum-pairs) |
+| [1949-implement-trie-ii-prefix-tree](https://github.com/jiangtianh/LeetCode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2009-longest-word-with-all-prefixes](https://github.com/jiangtianh/LeetCode/tree/master/2009-longest-word-with-all-prefixes) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jiangtianh/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jiangtianh/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |

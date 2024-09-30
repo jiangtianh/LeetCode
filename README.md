@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jiangtianh/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/jiangtianh/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/jiangtianh/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/jiangtianh/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1572-subrectangle-queries](https://github.com/jiangtianh/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1656-count-good-triplets](https://github.com/jiangtianh/LeetCode/tree/master/1656-count-good-triplets) |
@@ -608,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1219-longest-well-performing-interval](https://github.com/jiangtianh/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jiangtianh/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/jiangtianh/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/jiangtianh/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jiangtianh/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/jiangtianh/LeetCode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -628,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-design-circular-deque](https://github.com/jiangtianh/LeetCode/tree/master/0859-design-circular-deque) |
 | [1023-time-based-key-value-store](https://github.com/jiangtianh/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/jiangtianh/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1572-subrectangle-queries](https://github.com/jiangtianh/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1905-design-authentication-manager](https://github.com/jiangtianh/LeetCode/tree/master/1905-design-authentication-manager) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/jiangtianh/LeetCode/tree/master/1949-implement-trie-ii-prefix-tree) |

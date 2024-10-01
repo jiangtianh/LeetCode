@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1219-longest-well-performing-interval](https://github.com/jiangtianh/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1240-stone-game-ii](https://github.com/jiangtianh/LeetCode/tree/master/1240-stone-game-ii) |
 | [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/jiangtianh/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1325-path-with-maximum-probability](https://github.com/jiangtianh/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/jiangtianh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-find-and-replace-in-string](https://github.com/jiangtianh/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [1018-largest-perimeter-triangle](https://github.com/jiangtianh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1165-meeting-scheduler](https://github.com/jiangtianh/LeetCode/tree/master/1165-meeting-scheduler) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/jiangtianh/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1333-sort-the-jumbled-numbers](https://github.com/jiangtianh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/jiangtianh/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jiangtianh/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1190-smallest-common-region](https://github.com/jiangtianh/LeetCode/tree/master/1190-smallest-common-region) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/jiangtianh/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jiangtianh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/jiangtianh/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jiangtianh/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/jiangtianh/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/jiangtianh/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -459,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/jiangtianh/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1023-time-based-key-value-store](https://github.com/jiangtianh/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/jiangtianh/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/jiangtianh/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jiangtianh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jiangtianh/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -503,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/jiangtianh/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jiangtianh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/jiangtianh/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/jiangtianh/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1502-construct-k-palindrome-strings](https://github.com/jiangtianh/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/jiangtianh/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |

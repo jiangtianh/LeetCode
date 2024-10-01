@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1183-statistics-from-a-large-sample](https://github.com/jiangtianh/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
 | [1190-smallest-common-region](https://github.com/jiangtianh/LeetCode/tree/master/1190-smallest-common-region) |
 | [1219-longest-well-performing-interval](https://github.com/jiangtianh/LeetCode/tree/master/1219-longest-well-performing-interval) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/jiangtianh/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1240-stone-game-ii](https://github.com/jiangtianh/LeetCode/tree/master/1240-stone-game-ii) |
 | [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/jiangtianh/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-find-and-replace-in-string](https://github.com/jiangtianh/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [1018-largest-perimeter-triangle](https://github.com/jiangtianh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1165-meeting-scheduler](https://github.com/jiangtianh/LeetCode/tree/master/1165-meeting-scheduler) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/jiangtianh/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/jiangtianh/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1333-sort-the-jumbled-numbers](https://github.com/jiangtianh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/jiangtianh/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -463,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/jiangtianh/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jiangtianh/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1023-time-based-key-value-store](https://github.com/jiangtianh/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/jiangtianh/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/jiangtianh/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/jiangtianh/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |

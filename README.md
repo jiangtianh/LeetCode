@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/jiangtianh/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1240-stone-game-ii](https://github.com/jiangtianh/LeetCode/tree/master/1240-stone-game-ii) |
 | [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
+| [1256-rank-transform-of-an-array](https://github.com/jiangtianh/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/jiangtianh/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1325-path-with-maximum-probability](https://github.com/jiangtianh/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/jiangtianh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/jiangtianh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1165-meeting-scheduler](https://github.com/jiangtianh/LeetCode/tree/master/1165-meeting-scheduler) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/jiangtianh/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
+| [1256-rank-transform-of-an-array](https://github.com/jiangtianh/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/jiangtianh/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1333-sort-the-jumbled-numbers](https://github.com/jiangtianh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/jiangtianh/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -512,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jiangtianh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1219-longest-well-performing-interval](https://github.com/jiangtianh/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
+| [1256-rank-transform-of-an-array](https://github.com/jiangtianh/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/jiangtianh/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jiangtianh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/jiangtianh/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |

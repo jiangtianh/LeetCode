@@ -355,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/jiangtianh/LeetCode/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/jiangtianh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/jiangtianh/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/jiangtianh/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0512-maximum-alternating-subarray-sum](https://github.com/jiangtianh/LeetCode/tree/master/0512-maximum-alternating-subarray-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/jiangtianh/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/jiangtianh/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/jiangtianh/LeetCode/tree/master/0067-add-binary) |
 | [0264-ugly-number-ii](https://github.com/jiangtianh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/jiangtianh/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/jiangtianh/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0398-random-pick-index](https://github.com/jiangtianh/LeetCode/tree/master/0398-random-pick-index) |
 | [0539-minimum-time-difference](https://github.com/jiangtianh/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/jiangtianh/LeetCode/tree/master/0564-find-the-closest-palindrome) |
@@ -664,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/jiangtianh/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1240-stone-game-ii](https://github.com/jiangtianh/LeetCode/tree/master/1240-stone-game-ii) |
 ## Design
 |  |

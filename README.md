@@ -753,6 +753,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1174-sales-analysis-iii](https://github.com/jiangtianh/LeetCode/tree/master/1174-sales-analysis-iii) |
 | [1180-game-play-analysis-ii](https://github.com/jiangtianh/LeetCode/tree/master/1180-game-play-analysis-ii) |
 | [1181-game-play-analysis-iii](https://github.com/jiangtianh/LeetCode/tree/master/1181-game-play-analysis-iii) |
+| [1182-game-play-analysis-iv](https://github.com/jiangtianh/LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1215-reported-posts](https://github.com/jiangtianh/LeetCode/tree/master/1215-reported-posts) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/jiangtianh/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1246-user-activity-for-the-past-30-days-ii](https://github.com/jiangtianh/LeetCode/tree/master/1246-user-activity-for-the-past-30-days-ii) |

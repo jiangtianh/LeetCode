@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/jiangtianh/LeetCode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jiangtianh/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3334-apple-redistribution-into-boxes](https://github.com/jiangtianh/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3463-alternating-groups-i](https://github.com/jiangtianh/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/jiangtianh/LeetCode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jiangtianh/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jiangtianh/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -640,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jiangtianh/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2001-jump-game-vii](https://github.com/jiangtianh/LeetCode/tree/master/2001-jump-game-vii) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/jiangtianh/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3463-alternating-groups-i](https://github.com/jiangtianh/LeetCode/tree/master/3463-alternating-groups-i) |
 ## Recursion
 |  |
 | ------- |

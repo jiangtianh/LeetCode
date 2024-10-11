@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1824-maximum-number-of-eaten-apples](https://github.com/jiangtianh/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1923-sentence-similarity-iii](https://github.com/jiangtianh/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/jiangtianh/LeetCode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [1961-maximum-ice-cream-bars](https://github.com/jiangtianh/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jiangtianh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/jiangtianh/LeetCode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2035-count-sub-islands](https://github.com/jiangtianh/LeetCode/tree/master/2035-count-sub-islands) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/jiangtianh/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jiangtianh/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/jiangtianh/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1961-maximum-ice-cream-bars](https://github.com/jiangtianh/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2055-describe-the-painting](https://github.com/jiangtianh/LeetCode/tree/master/2055-describe-the-painting) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/jiangtianh/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jiangtianh/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -455,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-construct-k-palindrome-strings](https://github.com/jiangtianh/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jiangtianh/LeetCode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/jiangtianh/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
+| [1961-maximum-ice-cream-bars](https://github.com/jiangtianh/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/jiangtianh/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/jiangtianh/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jiangtianh/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -672,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-construct-k-palindrome-strings](https://github.com/jiangtianh/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/jiangtianh/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jiangtianh/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1961-maximum-ice-cream-bars](https://github.com/jiangtianh/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/jiangtianh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jiangtianh/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jiangtianh/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |

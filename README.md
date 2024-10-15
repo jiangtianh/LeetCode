@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/jiangtianh/LeetCode/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jiangtianh/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3019-furthest-point-from-origin](https://github.com/jiangtianh/LeetCode/tree/master/3019-furthest-point-from-origin) |
+| [3195-separate-black-and-white-balls](https://github.com/jiangtianh/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3207-make-three-strings-equal](https://github.com/jiangtianh/LeetCode/tree/master/3207-make-three-strings-equal) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/jiangtianh/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jiangtianh/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -476,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jiangtianh/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jiangtianh/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jiangtianh/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3195-separate-black-and-white-balls](https://github.com/jiangtianh/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jiangtianh/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/jiangtianh/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/jiangtianh/LeetCode/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
@@ -521,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2561-number-of-distinct-averages](https://github.com/jiangtianh/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jiangtianh/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/jiangtianh/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3195-separate-black-and-white-balls](https://github.com/jiangtianh/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |

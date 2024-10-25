@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/jiangtianh/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1325-path-with-maximum-probability](https://github.com/jiangtianh/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/jiangtianh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/jiangtianh/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/jiangtianh/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/jiangtianh/LeetCode/tree/master/1304-longest-happy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jiangtianh/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/jiangtianh/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/jiangtianh/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/jiangtianh/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/jiangtianh/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/jiangtianh/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -655,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1190-smallest-common-region](https://github.com/jiangtianh/LeetCode/tree/master/1190-smallest-common-region) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jiangtianh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/jiangtianh/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/jiangtianh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/jiangtianh/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -779,6 +782,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/jiangtianh/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0677-map-sum-pairs](https://github.com/jiangtianh/LeetCode/tree/master/0677-map-sum-pairs) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/jiangtianh/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/jiangtianh/LeetCode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2009-longest-word-with-all-prefixes](https://github.com/jiangtianh/LeetCode/tree/master/2009-longest-word-with-all-prefixes) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jiangtianh/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |

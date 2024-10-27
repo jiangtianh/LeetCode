@@ -326,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/jiangtianh/LeetCode/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/jiangtianh/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/jiangtianh/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0306-additive-number](https://github.com/jiangtianh/LeetCode/tree/master/0306-additive-number) |
 | [0320-generalized-abbreviation](https://github.com/jiangtianh/LeetCode/tree/master/0320-generalized-abbreviation) |
 | [0434-number-of-segments-in-a-string](https://github.com/jiangtianh/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/jiangtianh/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -751,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/jiangtianh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0216-combination-sum-iii](https://github.com/jiangtianh/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0306-additive-number](https://github.com/jiangtianh/LeetCode/tree/master/0306-additive-number) |
 | [0320-generalized-abbreviation](https://github.com/jiangtianh/LeetCode/tree/master/0320-generalized-abbreviation) |
 | [0357-count-numbers-with-unique-digits](https://github.com/jiangtianh/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jiangtianh/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |

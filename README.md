@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2547-odd-string-difference](https://github.com/jiangtianh/LeetCode/tree/master/2547-odd-string-difference) |
 | [2561-number-of-distinct-averages](https://github.com/jiangtianh/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jiangtianh/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/jiangtianh/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jiangtianh/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jiangtianh/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jiangtianh/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2561-number-of-distinct-averages](https://github.com/jiangtianh/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jiangtianh/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/jiangtianh/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jiangtianh/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/jiangtianh/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -417,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2001-jump-game-vii](https://github.com/jiangtianh/LeetCode/tree/master/2001-jump-game-vii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jiangtianh/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/jiangtianh/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2586-longest-square-streak-in-an-array](https://github.com/jiangtianh/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/jiangtianh/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jiangtianh/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Binary Indexed Tree
@@ -567,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/jiangtianh/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jiangtianh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jiangtianh/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/jiangtianh/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jiangtianh/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/jiangtianh/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/jiangtianh/LeetCode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
@@ -640,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2547-odd-string-difference](https://github.com/jiangtianh/LeetCode/tree/master/2547-odd-string-difference) |
 | [2561-number-of-distinct-averages](https://github.com/jiangtianh/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jiangtianh/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/jiangtianh/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jiangtianh/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/jiangtianh/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |

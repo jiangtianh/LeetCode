@@ -355,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0722-remove-comments](https://github.com/jiangtianh/LeetCode/tree/master/0722-remove-comments) |
 | [0768-partition-labels](https://github.com/jiangtianh/LeetCode/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/jiangtianh/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0812-rotate-string](https://github.com/jiangtianh/LeetCode/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/jiangtianh/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0862-find-and-replace-in-string](https://github.com/jiangtianh/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jiangtianh/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -863,6 +864,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0214-shortest-palindrome](https://github.com/jiangtianh/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/jiangtianh/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0812-rotate-string](https://github.com/jiangtianh/LeetCode/tree/master/0812-rotate-string) |
 ## Binary Search Tree
 |  |
 | ------- |

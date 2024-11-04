@@ -405,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/jiangtianh/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3396-valid-word](https://github.com/jiangtianh/LeetCode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/jiangtianh/LeetCode/tree/master/3447-clear-digits) |
+| [3451-string-compression-iii](https://github.com/jiangtianh/LeetCode/tree/master/3451-string-compression-iii) |
 | [3533-snake-in-matrix](https://github.com/jiangtianh/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Shortest Path
 |  |

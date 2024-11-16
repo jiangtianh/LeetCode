@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jiangtianh/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/jiangtianh/LeetCode/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/jiangtianh/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/jiangtianh/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3533-snake-in-matrix](https://github.com/jiangtianh/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Matrix
 |  |
@@ -790,6 +791,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2001-jump-game-vii](https://github.com/jiangtianh/LeetCode/tree/master/2001-jump-game-vii) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/jiangtianh/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3463-alternating-groups-i](https://github.com/jiangtianh/LeetCode/tree/master/3463-alternating-groups-i) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/jiangtianh/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Recursion
 |  |
 | ------- |

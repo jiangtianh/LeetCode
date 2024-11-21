@@ -318,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/jiangtianh/LeetCode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/jiangtianh/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jiangtianh/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0642-design-search-autocomplete-system](https://github.com/jiangtianh/LeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0646-maximum-length-of-pair-chain](https://github.com/jiangtianh/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/jiangtianh/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jiangtianh/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0564-find-the-closest-palindrome](https://github.com/jiangtianh/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/jiangtianh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jiangtianh/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0642-design-search-autocomplete-system](https://github.com/jiangtianh/LeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0677-map-sum-pairs](https://github.com/jiangtianh/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0722-remove-comments](https://github.com/jiangtianh/LeetCode/tree/master/0722-remove-comments) |
 | [0768-partition-labels](https://github.com/jiangtianh/LeetCode/tree/master/0768-partition-labels) |
@@ -567,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/jiangtianh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jiangtianh/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0642-design-search-autocomplete-system](https://github.com/jiangtianh/LeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0658-find-k-closest-elements](https://github.com/jiangtianh/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1304-longest-happy-string](https://github.com/jiangtianh/LeetCode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/jiangtianh/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -751,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/jiangtianh/LeetCode/tree/master/0437-path-sum-iii) |
 | [0529-minesweeper](https://github.com/jiangtianh/LeetCode/tree/master/0529-minesweeper) |
 | [0563-binary-tree-tilt](https://github.com/jiangtianh/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0642-design-search-autocomplete-system](https://github.com/jiangtianh/LeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -884,6 +888,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/jiangtianh/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0642-design-search-autocomplete-system](https://github.com/jiangtianh/LeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0677-map-sum-pairs](https://github.com/jiangtianh/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0729-my-calendar-i](https://github.com/jiangtianh/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jiangtianh/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -898,6 +903,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/jiangtianh/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0642-design-search-autocomplete-system](https://github.com/jiangtianh/LeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0677-map-sum-pairs](https://github.com/jiangtianh/LeetCode/tree/master/0677-map-sum-pairs) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jiangtianh/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/jiangtianh/LeetCode/tree/master/1949-implement-trie-ii-prefix-tree) |
@@ -1054,4 +1060,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/jiangtianh/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [1905-design-authentication-manager](https://github.com/jiangtianh/LeetCode/tree/master/1905-design-authentication-manager) |
+## Data Stream
+|  |
+| ------- |
+| [0642-design-search-autocomplete-system](https://github.com/jiangtianh/LeetCode/tree/master/0642-design-search-autocomplete-system) |
 <!---LeetCode Topics End-->

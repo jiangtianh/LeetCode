@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jiangtianh/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2055-describe-the-painting](https://github.com/jiangtianh/LeetCode/tree/master/2055-describe-the-painting) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/jiangtianh/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2089-maximum-matrix-sum](https://github.com/jiangtianh/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/jiangtianh/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/jiangtianh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jiangtianh/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jiangtianh/LeetCode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1972-rotating-the-box](https://github.com/jiangtianh/LeetCode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/jiangtianh/LeetCode/tree/master/2035-count-sub-islands) |
+| [2089-maximum-matrix-sum](https://github.com/jiangtianh/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jiangtianh/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/jiangtianh/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/jiangtianh/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -553,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1824-maximum-number-of-eaten-apples](https://github.com/jiangtianh/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1961-maximum-ice-cream-bars](https://github.com/jiangtianh/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/jiangtianh/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2089-maximum-matrix-sum](https://github.com/jiangtianh/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/jiangtianh/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jiangtianh/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/jiangtianh/LeetCode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |

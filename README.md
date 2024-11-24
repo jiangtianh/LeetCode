@@ -367,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/jiangtianh/LeetCode/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/jiangtianh/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/jiangtianh/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0267-palindrome-permutation-ii](https://github.com/jiangtianh/LeetCode/tree/master/0267-palindrome-permutation-ii) |
 | [0306-additive-number](https://github.com/jiangtianh/LeetCode/tree/master/0306-additive-number) |
 | [0320-generalized-abbreviation](https://github.com/jiangtianh/LeetCode/tree/master/0320-generalized-abbreviation) |
 | [0434-number-of-segments-in-a-string](https://github.com/jiangtianh/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
@@ -678,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0133-clone-graph](https://github.com/jiangtianh/LeetCode/tree/master/0133-clone-graph) |
 | [0264-ugly-number-ii](https://github.com/jiangtianh/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0267-palindrome-permutation-ii](https://github.com/jiangtianh/LeetCode/tree/master/0267-palindrome-permutation-ii) |
 | [0398-random-pick-index](https://github.com/jiangtianh/LeetCode/tree/master/0398-random-pick-index) |
 | [0432-all-oone-data-structure](https://github.com/jiangtianh/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/jiangtianh/LeetCode/tree/master/0567-permutation-in-string) |
@@ -870,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/jiangtianh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/jiangtianh/LeetCode/tree/master/0089-gray-code) |
 | [0216-combination-sum-iii](https://github.com/jiangtianh/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0267-palindrome-permutation-ii](https://github.com/jiangtianh/LeetCode/tree/master/0267-palindrome-permutation-ii) |
 | [0306-additive-number](https://github.com/jiangtianh/LeetCode/tree/master/0306-additive-number) |
 | [0320-generalized-abbreviation](https://github.com/jiangtianh/LeetCode/tree/master/0320-generalized-abbreviation) |
 | [0357-count-numbers-with-unique-digits](https://github.com/jiangtianh/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |

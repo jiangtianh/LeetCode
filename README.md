@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/jiangtianh/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jiangtianh/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/jiangtianh/LeetCode/tree/master/0735-asteroid-collision) |
+| [0787-sliding-puzzle](https://github.com/jiangtianh/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0810-valid-tic-tac-toe-state](https://github.com/jiangtianh/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0830-largest-triangle-area](https://github.com/jiangtianh/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/jiangtianh/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0221-maximal-square](https://github.com/jiangtianh/LeetCode/tree/master/0221-maximal-square) |
 | [0529-minesweeper](https://github.com/jiangtianh/LeetCode/tree/master/0529-minesweeper) |
+| [0787-sliding-puzzle](https://github.com/jiangtianh/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0810-valid-tic-tac-toe-state](https://github.com/jiangtianh/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [1041-available-captures-for-rook](https://github.com/jiangtianh/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
@@ -795,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/jiangtianh/LeetCode/tree/master/0133-clone-graph) |
 | [0529-minesweeper](https://github.com/jiangtianh/LeetCode/tree/master/0529-minesweeper) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0787-sliding-puzzle](https://github.com/jiangtianh/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1190-smallest-common-region](https://github.com/jiangtianh/LeetCode/tree/master/1190-smallest-common-region) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jiangtianh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/jiangtianh/LeetCode/tree/master/1396-count-servers-that-communicate) |

@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/jiangtianh/LeetCode/tree/master/0221-maximal-square) |
 | [0281-zigzag-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0281-zigzag-iterator) |
 | [0284-peeking-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0284-peeking-iterator) |
+| [0362-design-hit-counter](https://github.com/jiangtianh/LeetCode/tree/master/0362-design-hit-counter) |
 | [0512-maximum-alternating-subarray-sum](https://github.com/jiangtianh/LeetCode/tree/master/0512-maximum-alternating-subarray-sum) |
 | [0529-minesweeper](https://github.com/jiangtianh/LeetCode/tree/master/0529-minesweeper) |
 | [0539-minimum-time-difference](https://github.com/jiangtianh/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -631,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0362-design-hit-counter](https://github.com/jiangtianh/LeetCode/tree/master/0362-design-hit-counter) |
 | [0367-valid-perfect-square](https://github.com/jiangtianh/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0658-find-k-closest-elements](https://github.com/jiangtianh/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jiangtianh/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -918,6 +920,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0281-zigzag-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0281-zigzag-iterator) |
 | [0284-peeking-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0284-peeking-iterator) |
+| [0362-design-hit-counter](https://github.com/jiangtianh/LeetCode/tree/master/0362-design-hit-counter) |
 | [0432-all-oone-data-structure](https://github.com/jiangtianh/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0642-design-search-autocomplete-system](https://github.com/jiangtianh/LeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0677-map-sum-pairs](https://github.com/jiangtianh/LeetCode/tree/master/0677-map-sum-pairs) |
@@ -1086,6 +1089,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0281-zigzag-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0281-zigzag-iterator) |
+| [0362-design-hit-counter](https://github.com/jiangtianh/LeetCode/tree/master/0362-design-hit-counter) |
 | [0859-design-circular-deque](https://github.com/jiangtianh/LeetCode/tree/master/0859-design-circular-deque) |
 ## Doubly-Linked List
 |  |
@@ -1095,6 +1099,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0362-design-hit-counter](https://github.com/jiangtianh/LeetCode/tree/master/0362-design-hit-counter) |
 | [0642-design-search-autocomplete-system](https://github.com/jiangtianh/LeetCode/tree/master/0642-design-search-autocomplete-system) |
 ## Iterator
 |  |

@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jiangtianh/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jiangtianh/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jiangtianh/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1483-rank-teams-by-votes](https://github.com/jiangtianh/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/jiangtianh/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/jiangtianh/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/jiangtianh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/jiangtianh/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jiangtianh/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1483-rank-teams-by-votes](https://github.com/jiangtianh/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/jiangtianh/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/jiangtianh/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/jiangtianh/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jiangtianh/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/jiangtianh/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/jiangtianh/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1483-rank-teams-by-votes](https://github.com/jiangtianh/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/jiangtianh/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/jiangtianh/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jiangtianh/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -715,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/jiangtianh/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1364-tuple-with-same-product](https://github.com/jiangtianh/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/jiangtianh/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1483-rank-teams-by-votes](https://github.com/jiangtianh/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/jiangtianh/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/jiangtianh/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/jiangtianh/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -869,6 +873,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/jiangtianh/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/jiangtianh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jiangtianh/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1483-rank-teams-by-votes](https://github.com/jiangtianh/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/jiangtianh/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/jiangtianh/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/jiangtianh/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |

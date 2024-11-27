@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0512-maximum-alternating-subarray-sum](https://github.com/jiangtianh/LeetCode/tree/master/0512-maximum-alternating-subarray-sum) |
 | [0529-minesweeper](https://github.com/jiangtianh/LeetCode/tree/master/0529-minesweeper) |
 | [0539-minimum-time-difference](https://github.com/jiangtianh/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/jiangtianh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/jiangtianh/LeetCode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/jiangtianh/LeetCode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/jiangtianh/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
@@ -645,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0362-design-hit-counter](https://github.com/jiangtianh/LeetCode/tree/master/0362-design-hit-counter) |
 | [0367-valid-perfect-square](https://github.com/jiangtianh/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0540-single-element-in-a-sorted-array](https://github.com/jiangtianh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/jiangtianh/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jiangtianh/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/jiangtianh/LeetCode/tree/master/0729-my-calendar-i) |

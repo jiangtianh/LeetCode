@@ -429,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1483-rank-teams-by-votes](https://github.com/jiangtianh/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/jiangtianh/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/jiangtianh/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jiangtianh/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jiangtianh/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/jiangtianh/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jiangtianh/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -643,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1165-meeting-scheduler](https://github.com/jiangtianh/LeetCode/tree/master/1165-meeting-scheduler) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jiangtianh/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/jiangtianh/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jiangtianh/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/jiangtianh/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/jiangtianh/LeetCode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1774-add-two-polynomials-represented-as-linked-lists](https://github.com/jiangtianh/LeetCode/tree/master/1774-add-two-polynomials-represented-as-linked-lists) |
@@ -996,6 +998,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/jiangtianh/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/jiangtianh/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/jiangtianh/LeetCode/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jiangtianh/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Binary Search Tree
 |  |
 | ------- |

@@ -389,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jiangtianh/LeetCode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/jiangtianh/LeetCode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/jiangtianh/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/jiangtianh/LeetCode/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/jiangtianh/LeetCode/tree/master/0179-largest-number) |

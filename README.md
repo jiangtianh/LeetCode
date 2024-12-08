@@ -407,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0459-repeated-substring-pattern](https://github.com/jiangtianh/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0539-minimum-time-difference](https://github.com/jiangtianh/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0551-student-attendance-record-i](https://github.com/jiangtianh/LeetCode/tree/master/0551-student-attendance-record-i) |
+| [0556-next-greater-element-iii](https://github.com/jiangtianh/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/jiangtianh/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/jiangtianh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jiangtianh/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -532,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0398-random-pick-index](https://github.com/jiangtianh/LeetCode/tree/master/0398-random-pick-index) |
 | [0523-continuous-subarray-sum](https://github.com/jiangtianh/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/jiangtianh/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/jiangtianh/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/jiangtianh/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jiangtianh/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/jiangtianh/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -649,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0556-next-greater-element-iii](https://github.com/jiangtianh/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/jiangtianh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/jiangtianh/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jiangtianh/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |

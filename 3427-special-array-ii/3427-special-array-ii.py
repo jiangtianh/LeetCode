@@ -6,11 +6,10 @@ class Solution:
 
         i = 1
 
-        while i < len(nums):
+        for i in range(1, len(nums)):
             if nums[i] % 2 == nums[i-1] % 2:
                 indexes.append(i-1)
                 indexes.append(i)
-            i += 1
         indexes.append(len(nums) - 1)
 
         res = []

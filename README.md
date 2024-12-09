@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3334-apple-redistribution-into-boxes](https://github.com/jiangtianh/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3363-most-frequent-ids](https://github.com/jiangtianh/LeetCode/tree/master/3363-most-frequent-ids) |
+| [3427-special-array-ii](https://github.com/jiangtianh/LeetCode/tree/master/3427-special-array-ii) |
 | [3463-alternating-groups-i](https://github.com/jiangtianh/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/jiangtianh/LeetCode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jiangtianh/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -713,6 +714,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/jiangtianh/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/jiangtianh/LeetCode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3095-maximum-number-of-alloys](https://github.com/jiangtianh/LeetCode/tree/master/3095-maximum-number-of-alloys) |
+| [3427-special-array-ii](https://github.com/jiangtianh/LeetCode/tree/master/3427-special-array-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -739,6 +741,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/jiangtianh/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/jiangtianh/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [3427-special-array-ii](https://github.com/jiangtianh/LeetCode/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
 | ------- |

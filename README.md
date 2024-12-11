@@ -412,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0291-word-pattern-ii](https://github.com/jiangtianh/LeetCode/tree/master/0291-word-pattern-ii) |
 | [0306-additive-number](https://github.com/jiangtianh/LeetCode/tree/master/0306-additive-number) |
 | [0320-generalized-abbreviation](https://github.com/jiangtianh/LeetCode/tree/master/0320-generalized-abbreviation) |
+| [0408-valid-word-abbreviation](https://github.com/jiangtianh/LeetCode/tree/master/0408-valid-word-abbreviation) |
 | [0434-number-of-segments-in-a-string](https://github.com/jiangtianh/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/jiangtianh/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0539-minimum-time-difference](https://github.com/jiangtianh/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -663,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0408-valid-word-abbreviation](https://github.com/jiangtianh/LeetCode/tree/master/0408-valid-word-abbreviation) |
 | [0556-next-greater-element-iii](https://github.com/jiangtianh/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/jiangtianh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/jiangtianh/LeetCode/tree/master/0658-find-k-closest-elements) |

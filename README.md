@@ -403,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/jiangtianh/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/jiangtianh/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3334-apple-redistribution-into-boxes](https://github.com/jiangtianh/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/jiangtianh/LeetCode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/jiangtianh/LeetCode/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## String
 |  |
@@ -490,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jiangtianh/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/jiangtianh/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3396-valid-word](https://github.com/jiangtianh/LeetCode/tree/master/3396-valid-word) |
+| [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/jiangtianh/LeetCode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 | [3447-clear-digits](https://github.com/jiangtianh/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/jiangtianh/LeetCode/tree/master/3451-string-compression-iii) |
 | [3533-snake-in-matrix](https://github.com/jiangtianh/LeetCode/tree/master/3533-snake-in-matrix) |
@@ -633,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3195-separate-black-and-white-balls](https://github.com/jiangtianh/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jiangtianh/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/jiangtianh/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/jiangtianh/LeetCode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/jiangtianh/LeetCode/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Heap (Priority Queue)
 |  |

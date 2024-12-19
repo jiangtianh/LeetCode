@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/jiangtianh/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jiangtianh/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/jiangtianh/LeetCode/tree/master/0735-asteroid-collision) |
+| [0780-max-chunks-to-make-sorted](https://github.com/jiangtianh/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/jiangtianh/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0810-valid-tic-tac-toe-state](https://github.com/jiangtianh/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0830-largest-triangle-area](https://github.com/jiangtianh/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/jiangtianh/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/jiangtianh/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jiangtianh/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0780-max-chunks-to-make-sorted](https://github.com/jiangtianh/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0862-find-and-replace-in-string](https://github.com/jiangtianh/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [1018-largest-perimeter-triangle](https://github.com/jiangtianh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1165-meeting-scheduler](https://github.com/jiangtianh/LeetCode/tree/master/1165-meeting-scheduler) |
@@ -612,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jiangtianh/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/jiangtianh/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0768-partition-labels](https://github.com/jiangtianh/LeetCode/tree/master/0768-partition-labels) |
+| [0780-max-chunks-to-make-sorted](https://github.com/jiangtianh/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/jiangtianh/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jiangtianh/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/jiangtianh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -1012,6 +1015,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0636-exclusive-time-of-functions](https://github.com/jiangtianh/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/jiangtianh/LeetCode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0780-max-chunks-to-make-sorted](https://github.com/jiangtianh/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jiangtianh/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1219-longest-well-performing-interval](https://github.com/jiangtianh/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jiangtianh/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -1026,6 +1030,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/jiangtianh/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1219-longest-well-performing-interval](https://github.com/jiangtianh/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jiangtianh/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/jiangtianh/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |

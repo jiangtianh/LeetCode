@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0284-peeking-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0284-peeking-iterator) |
 | [0353-design-snake-game](https://github.com/jiangtianh/LeetCode/tree/master/0353-design-snake-game) |
 | [0362-design-hit-counter](https://github.com/jiangtianh/LeetCode/tree/master/0362-design-hit-counter) |
+| [0494-target-sum](https://github.com/jiangtianh/LeetCode/tree/master/0494-target-sum) |
 | [0512-maximum-alternating-subarray-sum](https://github.com/jiangtianh/LeetCode/tree/master/0512-maximum-alternating-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/jiangtianh/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0529-minesweeper](https://github.com/jiangtianh/LeetCode/tree/master/0529-minesweeper) |
@@ -518,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/jiangtianh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/jiangtianh/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/jiangtianh/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0494-target-sum](https://github.com/jiangtianh/LeetCode/tree/master/0494-target-sum) |
 | [0512-maximum-alternating-subarray-sum](https://github.com/jiangtianh/LeetCode/tree/master/0512-maximum-alternating-subarray-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/jiangtianh/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/jiangtianh/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -1009,6 +1011,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0306-additive-number](https://github.com/jiangtianh/LeetCode/tree/master/0306-additive-number) |
 | [0320-generalized-abbreviation](https://github.com/jiangtianh/LeetCode/tree/master/0320-generalized-abbreviation) |
 | [0357-count-numbers-with-unique-digits](https://github.com/jiangtianh/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0494-target-sum](https://github.com/jiangtianh/LeetCode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jiangtianh/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/jiangtianh/LeetCode/tree/master/2482-maximum-rows-covered-by-columns) |
 ## Stack

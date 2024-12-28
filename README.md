@@ -477,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/jiangtianh/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/jiangtianh/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/jiangtianh/LeetCode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/jiangtianh/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2406-decode-the-message](https://github.com/jiangtianh/LeetCode/tree/master/2406-decode-the-message) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/jiangtianh/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jiangtianh/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -541,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jiangtianh/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/jiangtianh/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/jiangtianh/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/jiangtianh/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jiangtianh/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2648-number-of-ways-to-earn-points](https://github.com/jiangtianh/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -775,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2055-describe-the-painting](https://github.com/jiangtianh/LeetCode/tree/master/2055-describe-the-painting) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/jiangtianh/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/jiangtianh/LeetCode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/jiangtianh/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jiangtianh/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/jiangtianh/LeetCode/tree/master/2714-left-and-right-sum-differences) |

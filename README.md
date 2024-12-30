@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/jiangtianh/LeetCode/tree/master/0067-add-binary) |
 | [0353-design-snake-game](https://github.com/jiangtianh/LeetCode/tree/master/0353-design-snake-game) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jiangtianh/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0723-candy-crush](https://github.com/jiangtianh/LeetCode/tree/master/0723-candy-crush) |
 | [0735-asteroid-collision](https://github.com/jiangtianh/LeetCode/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/jiangtianh/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1041-available-captures-for-rook](https://github.com/jiangtianh/LeetCode/tree/master/1041-available-captures-for-rook) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jiangtianh/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0722-remove-comments](https://github.com/jiangtianh/LeetCode/tree/master/0722-remove-comments) |
+| [0723-candy-crush](https://github.com/jiangtianh/LeetCode/tree/master/0723-candy-crush) |
 | [0729-my-calendar-i](https://github.com/jiangtianh/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jiangtianh/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/jiangtianh/LeetCode/tree/master/0735-asteroid-collision) |
@@ -324,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0422-valid-word-square](https://github.com/jiangtianh/LeetCode/tree/master/0422-valid-word-square) |
 | [0529-minesweeper](https://github.com/jiangtianh/LeetCode/tree/master/0529-minesweeper) |
 | [0531-lonely-pixel-i](https://github.com/jiangtianh/LeetCode/tree/master/0531-lonely-pixel-i) |
+| [0723-candy-crush](https://github.com/jiangtianh/LeetCode/tree/master/0723-candy-crush) |
 | [0787-sliding-puzzle](https://github.com/jiangtianh/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0810-valid-tic-tac-toe-state](https://github.com/jiangtianh/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [1041-available-captures-for-rook](https://github.com/jiangtianh/LeetCode/tree/master/1041-available-captures-for-rook) |
@@ -708,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/jiangtianh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/jiangtianh/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jiangtianh/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0723-candy-crush](https://github.com/jiangtianh/LeetCode/tree/master/0723-candy-crush) |
 | [0768-partition-labels](https://github.com/jiangtianh/LeetCode/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/jiangtianh/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/jiangtianh/LeetCode/tree/master/0841-shortest-distance-to-a-character) |

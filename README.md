@@ -437,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/jiangtianh/LeetCode/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/jiangtianh/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/jiangtianh/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0266-palindrome-permutation](https://github.com/jiangtianh/LeetCode/tree/master/0266-palindrome-permutation) |
 | [0267-palindrome-permutation-ii](https://github.com/jiangtianh/LeetCode/tree/master/0267-palindrome-permutation-ii) |
 | [0291-word-pattern-ii](https://github.com/jiangtianh/LeetCode/tree/master/0291-word-pattern-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -622,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/jiangtianh/LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/jiangtianh/LeetCode/tree/master/0089-gray-code) |
+| [0266-palindrome-permutation](https://github.com/jiangtianh/LeetCode/tree/master/0266-palindrome-permutation) |
 | [0320-generalized-abbreviation](https://github.com/jiangtianh/LeetCode/tree/master/0320-generalized-abbreviation) |
 | [0476-number-complement](https://github.com/jiangtianh/LeetCode/tree/master/0476-number-complement) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jiangtianh/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -813,6 +815,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0133-clone-graph](https://github.com/jiangtianh/LeetCode/tree/master/0133-clone-graph) |
 | [0264-ugly-number-ii](https://github.com/jiangtianh/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0266-palindrome-permutation](https://github.com/jiangtianh/LeetCode/tree/master/0266-palindrome-permutation) |
 | [0267-palindrome-permutation-ii](https://github.com/jiangtianh/LeetCode/tree/master/0267-palindrome-permutation-ii) |
 | [0291-word-pattern-ii](https://github.com/jiangtianh/LeetCode/tree/master/0291-word-pattern-ii) |
 | [0353-design-snake-game](https://github.com/jiangtianh/LeetCode/tree/master/0353-design-snake-game) |

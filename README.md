@@ -640,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0320-generalized-abbreviation](https://github.com/jiangtianh/LeetCode/tree/master/0320-generalized-abbreviation) |
 | [0476-number-complement](https://github.com/jiangtianh/LeetCode/tree/master/0476-number-complement) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jiangtianh/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1650-find-root-of-n-ary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1650-find-root-of-n-ary-tree) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jiangtianh/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/jiangtianh/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2159-two-out-of-three](https://github.com/jiangtianh/LeetCode/tree/master/2159-two-out-of-three) |
@@ -877,6 +878,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/jiangtianh/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/jiangtianh/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1634-clone-n-ary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1634-clone-n-ary-tree) |
+| [1650-find-root-of-n-ary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1650-find-root-of-n-ary-tree) |
 | [1694-make-sum-divisible-by-p](https://github.com/jiangtianh/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/jiangtianh/LeetCode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jiangtianh/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -935,6 +937,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/jiangtianh/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1634-clone-n-ary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1634-clone-n-ary-tree) |
+| [1650-find-root-of-n-ary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1650-find-root-of-n-ary-tree) |
 | [1665-diameter-of-n-ary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1665-diameter-of-n-ary-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/jiangtianh/LeetCode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/jiangtianh/LeetCode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -971,6 +974,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-linked-list-in-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/jiangtianh/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1634-clone-n-ary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1634-clone-n-ary-tree) |
+| [1650-find-root-of-n-ary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1650-find-root-of-n-ary-tree) |
 | [1665-diameter-of-n-ary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1665-diameter-of-n-ary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/jiangtianh/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/jiangtianh/LeetCode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |

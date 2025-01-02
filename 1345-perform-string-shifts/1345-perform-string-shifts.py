@@ -6,8 +6,6 @@ class Solution:
                 d -= amount
             else:
                 d += amount
-        print(d)
         
         d = d % len(s)
-        print(d)
         return s[len(s) - d:] + s[:len(s) - d]

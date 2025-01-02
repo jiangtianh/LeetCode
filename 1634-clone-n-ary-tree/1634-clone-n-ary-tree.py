@@ -8,17 +8,15 @@ class Node:
 
 class Solution:
     def cloneTree(self, root: 'Node') -> 'Node':
-    
+
         def f(node):
             if not node:
-                return None
+                return 
+            
             newNode = Node(node.val)
+
             for child in node.children:
                 newNode.children.append(f(child))
-            
+        
             return newNode
-
         return f(root)
-
-
-

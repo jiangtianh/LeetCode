@@ -471,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jiangtianh/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/jiangtianh/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1023-time-based-key-value-store](https://github.com/jiangtianh/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1051-shortest-way-to-form-string](https://github.com/jiangtianh/LeetCode/tree/master/1051-shortest-way-to-form-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/jiangtianh/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1190-smallest-common-region](https://github.com/jiangtianh/LeetCode/tree/master/1190-smallest-common-region) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/jiangtianh/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
@@ -658,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/jiangtianh/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jiangtianh/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/jiangtianh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1051-shortest-way-to-form-string](https://github.com/jiangtianh/LeetCode/tree/master/1051-shortest-way-to-form-string) |
 | [1304-longest-happy-string](https://github.com/jiangtianh/LeetCode/tree/master/1304-longest-happy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/jiangtianh/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
@@ -736,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0793-swap-adjacent-in-lr-string](https://github.com/jiangtianh/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/jiangtianh/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1028-interval-list-intersections](https://github.com/jiangtianh/LeetCode/tree/master/1028-interval-list-intersections) |
+| [1051-shortest-way-to-form-string](https://github.com/jiangtianh/LeetCode/tree/master/1051-shortest-way-to-form-string) |
 | [1165-meeting-scheduler](https://github.com/jiangtianh/LeetCode/tree/master/1165-meeting-scheduler) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/jiangtianh/LeetCode/tree/master/1404-print-immutable-linked-list-in-reverse) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jiangtianh/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -768,6 +771,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/jiangtianh/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jiangtianh/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1023-time-based-key-value-store](https://github.com/jiangtianh/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1051-shortest-way-to-form-string](https://github.com/jiangtianh/LeetCode/tree/master/1051-shortest-way-to-form-string) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jiangtianh/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/jiangtianh/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/jiangtianh/LeetCode/tree/master/1149-intersection-of-three-sorted-arrays) |

@@ -1,14 +1,8 @@
 class Solution:
     def largestUniqueNumber(self, nums: List[int]) -> int:
- 
-        d = {}
-
-        for num in nums:
-            d[num] = d.get(num, 0) + 1
-
+        counter = collections.Counter(nums)
         res = -1
-        for key in d:   
-            if d[key] == 1:
-                res = max(res, key)
-        
+        for n in counter:
+            if counter[n] == 1:
+                res = max(res, n)
         return res

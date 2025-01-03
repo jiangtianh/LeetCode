@@ -482,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1051-shortest-way-to-form-string](https://github.com/jiangtianh/LeetCode/tree/master/1051-shortest-way-to-form-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/jiangtianh/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/jiangtianh/LeetCode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
+| [1123-single-row-keyboard](https://github.com/jiangtianh/LeetCode/tree/master/1123-single-row-keyboard) |
 | [1190-smallest-common-region](https://github.com/jiangtianh/LeetCode/tree/master/1190-smallest-common-region) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/jiangtianh/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jiangtianh/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -871,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-time-based-key-value-store](https://github.com/jiangtianh/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1074-high-five](https://github.com/jiangtianh/LeetCode/tree/master/1074-high-five) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/jiangtianh/LeetCode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
+| [1123-single-row-keyboard](https://github.com/jiangtianh/LeetCode/tree/master/1123-single-row-keyboard) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/jiangtianh/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/jiangtianh/LeetCode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1190-smallest-common-region](https://github.com/jiangtianh/LeetCode/tree/master/1190-smallest-common-region) |

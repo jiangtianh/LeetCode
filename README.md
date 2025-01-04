@@ -413,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1074-high-five](https://github.com/jiangtianh/LeetCode/tree/master/1074-high-five) |
 | [1098-largest-unique-number](https://github.com/jiangtianh/LeetCode/tree/master/1098-largest-unique-number) |
 | [1165-meeting-scheduler](https://github.com/jiangtianh/LeetCode/tree/master/1165-meeting-scheduler) |
+| [1176-design-a-leaderboard](https://github.com/jiangtianh/LeetCode/tree/master/1176-design-a-leaderboard) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/jiangtianh/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/jiangtianh/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/jiangtianh/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -894,6 +895,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1123-single-row-keyboard](https://github.com/jiangtianh/LeetCode/tree/master/1123-single-row-keyboard) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/jiangtianh/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/jiangtianh/LeetCode/tree/master/1149-intersection-of-three-sorted-arrays) |
+| [1176-design-a-leaderboard](https://github.com/jiangtianh/LeetCode/tree/master/1176-design-a-leaderboard) |
 | [1190-smallest-common-region](https://github.com/jiangtianh/LeetCode/tree/master/1190-smallest-common-region) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jiangtianh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1219-longest-well-performing-interval](https://github.com/jiangtianh/LeetCode/tree/master/1219-longest-well-performing-interval) |
@@ -1200,6 +1202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/jiangtianh/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/jiangtianh/LeetCode/tree/master/0859-design-circular-deque) |
 | [1023-time-based-key-value-store](https://github.com/jiangtianh/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1176-design-a-leaderboard](https://github.com/jiangtianh/LeetCode/tree/master/1176-design-a-leaderboard) |
 | [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
 | [1366-first-unique-number](https://github.com/jiangtianh/LeetCode/tree/master/1366-first-unique-number) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/jiangtianh/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |

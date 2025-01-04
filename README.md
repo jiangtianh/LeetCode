@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0487-max-consecutive-ones-ii](https://github.com/jiangtianh/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0490-the-maze](https://github.com/jiangtianh/LeetCode/tree/master/0490-the-maze) |
 | [0494-target-sum](https://github.com/jiangtianh/LeetCode/tree/master/0494-target-sum) |
+| [0505-the-maze-ii](https://github.com/jiangtianh/LeetCode/tree/master/0505-the-maze-ii) |
 | [0512-maximum-alternating-subarray-sum](https://github.com/jiangtianh/LeetCode/tree/master/0512-maximum-alternating-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/jiangtianh/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0529-minesweeper](https://github.com/jiangtianh/LeetCode/tree/master/0529-minesweeper) |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/jiangtianh/LeetCode/tree/master/0221-maximal-square) |
 | [0422-valid-word-square](https://github.com/jiangtianh/LeetCode/tree/master/0422-valid-word-square) |
 | [0490-the-maze](https://github.com/jiangtianh/LeetCode/tree/master/0490-the-maze) |
+| [0505-the-maze-ii](https://github.com/jiangtianh/LeetCode/tree/master/0505-the-maze-ii) |
 | [0529-minesweeper](https://github.com/jiangtianh/LeetCode/tree/master/0529-minesweeper) |
 | [0531-lonely-pixel-i](https://github.com/jiangtianh/LeetCode/tree/master/0531-lonely-pixel-i) |
 | [0723-candy-crush](https://github.com/jiangtianh/LeetCode/tree/master/0723-candy-crush) |
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/jiangtianh/LeetCode/tree/master/0133-clone-graph) |
+| [0505-the-maze-ii](https://github.com/jiangtianh/LeetCode/tree/master/0505-the-maze-ii) |
 | [1325-path-with-maximum-probability](https://github.com/jiangtianh/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1558-course-schedule-iv](https://github.com/jiangtianh/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jiangtianh/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -555,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 |  |
 | ------- |
+| [0505-the-maze-ii](https://github.com/jiangtianh/LeetCode/tree/master/0505-the-maze-ii) |
 | [1325-path-with-maximum-probability](https://github.com/jiangtianh/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jiangtianh/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/jiangtianh/LeetCode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
@@ -714,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/jiangtianh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/jiangtianh/LeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0505-the-maze-ii](https://github.com/jiangtianh/LeetCode/tree/master/0505-the-maze-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jiangtianh/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0642-design-search-autocomplete-system](https://github.com/jiangtianh/LeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0658-find-k-closest-elements](https://github.com/jiangtianh/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -987,6 +992,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/jiangtianh/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/jiangtianh/LeetCode/tree/master/0437-path-sum-iii) |
 | [0490-the-maze](https://github.com/jiangtianh/LeetCode/tree/master/0490-the-maze) |
+| [0505-the-maze-ii](https://github.com/jiangtianh/LeetCode/tree/master/0505-the-maze-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jiangtianh/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/jiangtianh/LeetCode/tree/master/0529-minesweeper) |
 | [0545-boundary-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0545-boundary-of-binary-tree) |
@@ -1022,6 +1028,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/jiangtianh/LeetCode/tree/master/0133-clone-graph) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0490-the-maze](https://github.com/jiangtianh/LeetCode/tree/master/0490-the-maze) |
+| [0505-the-maze-ii](https://github.com/jiangtianh/LeetCode/tree/master/0505-the-maze-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jiangtianh/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/jiangtianh/LeetCode/tree/master/0529-minesweeper) |
 | [0582-kill-process](https://github.com/jiangtianh/LeetCode/tree/master/0582-kill-process) |

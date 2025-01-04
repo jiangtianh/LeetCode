@@ -9,10 +9,8 @@ class Leaderboard:
     def top(self, K: int) -> int:
         s = list(self.score.values())
         s.sort(reverse=True)
-        total = 0
-        for i in range(K):
-            total += s[i]
-        return total
+        return sum(s[:K])
+
     def reset(self, playerId: int) -> None:
         self.score[playerId] = 0        
 

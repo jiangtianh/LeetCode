@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/jiangtianh/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0369-plus-one-linked-list](https://github.com/jiangtianh/LeetCode/tree/master/0369-plus-one-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/jiangtianh/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/jiangtianh/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0850-insert-into-a-sorted-circular-linked-list](https://github.com/jiangtianh/LeetCode/tree/master/0850-insert-into-a-sorted-circular-linked-list) |
@@ -624,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/jiangtianh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/jiangtianh/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/jiangtianh/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0369-plus-one-linked-list](https://github.com/jiangtianh/LeetCode/tree/master/0369-plus-one-linked-list) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/jiangtianh/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0398-random-pick-index](https://github.com/jiangtianh/LeetCode/tree/master/0398-random-pick-index) |
 | [0523-continuous-subarray-sum](https://github.com/jiangtianh/LeetCode/tree/master/0523-continuous-subarray-sum) |

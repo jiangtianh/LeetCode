@@ -996,6 +996,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/jiangtianh/LeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/jiangtianh/LeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0366-find-leaves-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/jiangtianh/LeetCode/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jiangtianh/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1028,6 +1029,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0269-alien-dictionary](https://github.com/jiangtianh/LeetCode/tree/master/0269-alien-dictionary) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/jiangtianh/LeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/jiangtianh/LeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0366-find-leaves-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/jiangtianh/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/jiangtianh/LeetCode/tree/master/0437-path-sum-iii) |
@@ -1100,6 +1102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/jiangtianh/LeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/jiangtianh/LeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0366-find-leaves-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/jiangtianh/LeetCode/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jiangtianh/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |

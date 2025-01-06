@@ -1,24 +1,26 @@
 class Solution:
     def rearrangeString(self, s: str, k: int) -> str:
+        if k == 0:
+            return s
         res = []
         counter = collections.Counter(s)
-
+        q = collections.deque()
         heap = []
         for c in counter:
-            heap.append([0, -counter[c], c])
+            heap.append([-counter[c], c])
         heapq.heapify(heap)
 
-        while heap and heap[0][0] <= 0:
-            d, count, c = heapq.heappop(heap)
+        while heap:
+            count, c = heapq.heappop(heap)
             res.append(c)
-            counter[c] -= 1
-            if counter[c] != 0:
-                heapq.heappush(heap, [k, -counter[c], c])
-            for tup in heap:
-                if tup[0] != 0:
-                    tup[0] -= 1
-            heapq.heapify(heap)
+            q.append([count+1, c])
+            if len(q) >= k:
+                prevCount, prevC = q.popleft()
+                if prevCount < 0:
+                    heapq.heappush(heap, [prevCount, prevC])
+            
 
-        if heap:
+
+        if len(res) != len(s):
             return ""
         return "".join(res)

@@ -413,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0147-insertion-sort-list](https://github.com/jiangtianh/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0179-largest-number](https://github.com/jiangtianh/LeetCode/tree/master/0179-largest-number) |
 | [0252-meeting-rooms](https://github.com/jiangtianh/LeetCode/tree/master/0252-meeting-rooms) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/jiangtianh/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0539-minimum-time-difference](https://github.com/jiangtianh/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0588-design-in-memory-file-system](https://github.com/jiangtianh/LeetCode/tree/master/0588-design-in-memory-file-system) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jiangtianh/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -483,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0306-additive-number](https://github.com/jiangtianh/LeetCode/tree/master/0306-additive-number) |
 | [0320-generalized-abbreviation](https://github.com/jiangtianh/LeetCode/tree/master/0320-generalized-abbreviation) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/jiangtianh/LeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/jiangtianh/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0408-valid-word-abbreviation](https://github.com/jiangtianh/LeetCode/tree/master/0408-valid-word-abbreviation) |
 | [0434-number-of-segments-in-a-string](https://github.com/jiangtianh/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/jiangtianh/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -702,6 +704,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/jiangtianh/LeetCode/tree/master/0179-largest-number) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/jiangtianh/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0605-can-place-flowers](https://github.com/jiangtianh/LeetCode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/jiangtianh/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jiangtianh/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -745,6 +748,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/jiangtianh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/jiangtianh/LeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/jiangtianh/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0499-the-maze-iii](https://github.com/jiangtianh/LeetCode/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/jiangtianh/LeetCode/tree/master/0505-the-maze-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jiangtianh/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -900,6 +904,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0291-word-pattern-ii](https://github.com/jiangtianh/LeetCode/tree/master/0291-word-pattern-ii) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/jiangtianh/LeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0353-design-snake-game](https://github.com/jiangtianh/LeetCode/tree/master/0353-design-snake-game) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/jiangtianh/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0398-random-pick-index](https://github.com/jiangtianh/LeetCode/tree/master/0398-random-pick-index) |
 | [0432-all-oone-data-structure](https://github.com/jiangtianh/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0523-continuous-subarray-sum](https://github.com/jiangtianh/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -1147,6 +1152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0358-rearrange-string-k-distance-apart](https://github.com/jiangtianh/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jiangtianh/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/jiangtianh/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/jiangtianh/LeetCode/tree/master/1149-intersection-of-three-sorted-arrays) |

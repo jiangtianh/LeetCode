@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/jiangtianh/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/jiangtianh/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/jiangtianh/LeetCode/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/jiangtianh/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jiangtianh/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/jiangtianh/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/jiangtianh/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -552,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jiangtianh/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/jiangtianh/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/jiangtianh/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/jiangtianh/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/jiangtianh/LeetCode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/jiangtianh/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2406-decode-the-message](https://github.com/jiangtianh/LeetCode/tree/master/2406-decode-the-message) |
@@ -1304,6 +1306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/jiangtianh/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/jiangtianh/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jiangtianh/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/jiangtianh/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jiangtianh/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search Tree
 |  |

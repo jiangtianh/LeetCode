@@ -587,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/jiangtianh/LeetCode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 | [3447-clear-digits](https://github.com/jiangtianh/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/jiangtianh/LeetCode/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/jiangtianh/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3533-snake-in-matrix](https://github.com/jiangtianh/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Shortest Path
 |  |
@@ -1003,6 +1004,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/jiangtianh/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3363-most-frequent-ids](https://github.com/jiangtianh/LeetCode/tree/master/3363-most-frequent-ids) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/jiangtianh/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jiangtianh/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
@@ -1202,6 +1204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3019-furthest-point-from-origin](https://github.com/jiangtianh/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/jiangtianh/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/jiangtianh/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/jiangtianh/LeetCode/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Backtracking
 |  |

@@ -3,9 +3,6 @@ class Solution:
         num1 = bin(num1)[2:]
         num2 = bin(num2)[2:]
         count = num2.count("1")
-        print("num1: ", num1)
-        print("num2: ", num2)
-        print(count)
         
         if count >= len(num1):
             return int("1" * count, 2)
@@ -24,5 +21,5 @@ class Solution:
                     res[i] = "1"
                     count -= 1
                 i -= 1
-                
+
             return int("".join(res), 2)

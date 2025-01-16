@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1165-meeting-scheduler](https://github.com/jiangtianh/LeetCode/tree/master/1165-meeting-scheduler) |
 | [1183-statistics-from-a-large-sample](https://github.com/jiangtianh/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
 | [1190-smallest-common-region](https://github.com/jiangtianh/LeetCode/tree/master/1190-smallest-common-region) |
+| [1196-filling-bookcase-shelves](https://github.com/jiangtianh/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/jiangtianh/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1219-longest-well-performing-interval](https://github.com/jiangtianh/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/jiangtianh/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
@@ -623,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0972-knight-dialer](https://github.com/jiangtianh/LeetCode/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/jiangtianh/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/jiangtianh/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1196-filling-bookcase-shelves](https://github.com/jiangtianh/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1213-handshakes-that-dont-cross](https://github.com/jiangtianh/LeetCode/tree/master/1213-handshakes-that-dont-cross) |
 | [1240-stone-game-ii](https://github.com/jiangtianh/LeetCode/tree/master/1240-stone-game-ii) |
 | [1299-k-concatenation-maximum-sum](https://github.com/jiangtianh/LeetCode/tree/master/1299-k-concatenation-maximum-sum) |

@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-find-and-replace-in-string](https://github.com/jiangtianh/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0890-lemonade-change](https://github.com/jiangtianh/LeetCode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/jiangtianh/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [0936-rle-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0936-rle-iterator) |
 | [0952-word-subsets](https://github.com/jiangtianh/LeetCode/tree/master/0952-word-subsets) |
 | [1018-largest-perimeter-triangle](https://github.com/jiangtianh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/jiangtianh/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -1190,6 +1191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0358-rearrange-string-k-distance-apart](https://github.com/jiangtianh/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jiangtianh/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0936-rle-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0936-rle-iterator) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/jiangtianh/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/jiangtianh/LeetCode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/jiangtianh/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -1281,6 +1283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/jiangtianh/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jiangtianh/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/jiangtianh/LeetCode/tree/master/0859-design-circular-deque) |
+| [0936-rle-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0936-rle-iterator) |
 | [1023-time-based-key-value-store](https://github.com/jiangtianh/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1176-design-a-leaderboard](https://github.com/jiangtianh/LeetCode/tree/master/1176-design-a-leaderboard) |
 | [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
@@ -1484,6 +1487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0281-zigzag-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0281-zigzag-iterator) |
 | [0284-peeking-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0284-peeking-iterator) |
 | [0604-design-compressed-string-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0604-design-compressed-string-iterator) |
+| [0936-rle-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0936-rle-iterator) |
 ## Monotonic Queue
 |  |
 | ------- |

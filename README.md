@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jiangtianh/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jiangtianh/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/jiangtianh/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/jiangtianh/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jiangtianh/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/jiangtianh/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2547-odd-string-difference](https://github.com/jiangtianh/LeetCode/tree/master/2547-odd-string-difference) |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/jiangtianh/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/jiangtianh/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/jiangtianh/LeetCode/tree/master/2482-maximum-rows-covered-by-columns) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/jiangtianh/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/jiangtianh/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -910,6 +912,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2325-number-of-ways-to-select-buildings](https://github.com/jiangtianh/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2358-number-of-ways-to-split-array](https://github.com/jiangtianh/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jiangtianh/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/jiangtianh/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jiangtianh/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/jiangtianh/LeetCode/tree/master/2714-left-and-right-sum-differences) |

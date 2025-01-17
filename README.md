@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jiangtianh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jiangtianh/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0163-missing-ranges](https://github.com/jiangtianh/LeetCode/tree/master/0163-missing-ranges) |
 | [0179-largest-number](https://github.com/jiangtianh/LeetCode/tree/master/0179-largest-number) |
@@ -610,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jiangtianh/LeetCode/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jiangtianh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/jiangtianh/LeetCode/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/jiangtianh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0265-paint-house-ii](https://github.com/jiangtianh/LeetCode/tree/master/0265-paint-house-ii) |

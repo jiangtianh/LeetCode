@@ -488,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/jiangtianh/LeetCode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/jiangtianh/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/jiangtianh/LeetCode/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/jiangtianh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/jiangtianh/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0161-one-edit-distance](https://github.com/jiangtianh/LeetCode/tree/master/0161-one-edit-distance) |
 | [0179-largest-number](https://github.com/jiangtianh/LeetCode/tree/master/0179-largest-number) |
@@ -928,6 +929,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/jiangtianh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/jiangtianh/LeetCode/tree/master/0133-clone-graph) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/jiangtianh/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0264-ugly-number-ii](https://github.com/jiangtianh/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -1169,6 +1171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/jiangtianh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/jiangtianh/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/jiangtianh/LeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0487-max-consecutive-ones-ii](https://github.com/jiangtianh/LeetCode/tree/master/0487-max-consecutive-ones-ii) |

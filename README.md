@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0531-lonely-pixel-i](https://github.com/jiangtianh/LeetCode/tree/master/0531-lonely-pixel-i) |
 | [0539-minimum-time-difference](https://github.com/jiangtianh/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jiangtianh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0550-shortest-path-to-get-food](https://github.com/jiangtianh/LeetCode/tree/master/0550-shortest-path-to-get-food) |
 | [0575-distribute-candies](https://github.com/jiangtianh/LeetCode/tree/master/0575-distribute-candies) |
 | [0582-kill-process](https://github.com/jiangtianh/LeetCode/tree/master/0582-kill-process) |
 | [0604-design-compressed-string-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0604-design-compressed-string-iterator) |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0505-the-maze-ii](https://github.com/jiangtianh/LeetCode/tree/master/0505-the-maze-ii) |
 | [0529-minesweeper](https://github.com/jiangtianh/LeetCode/tree/master/0529-minesweeper) |
 | [0531-lonely-pixel-i](https://github.com/jiangtianh/LeetCode/tree/master/0531-lonely-pixel-i) |
+| [0550-shortest-path-to-get-food](https://github.com/jiangtianh/LeetCode/tree/master/0550-shortest-path-to-get-food) |
 | [0723-candy-crush](https://github.com/jiangtianh/LeetCode/tree/master/0723-candy-crush) |
 | [0787-sliding-puzzle](https://github.com/jiangtianh/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0810-valid-tic-tac-toe-state](https://github.com/jiangtianh/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
@@ -1126,6 +1128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0505-the-maze-ii](https://github.com/jiangtianh/LeetCode/tree/master/0505-the-maze-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jiangtianh/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/jiangtianh/LeetCode/tree/master/0529-minesweeper) |
+| [0550-shortest-path-to-get-food](https://github.com/jiangtianh/LeetCode/tree/master/0550-shortest-path-to-get-food) |
 | [0582-kill-process](https://github.com/jiangtianh/LeetCode/tree/master/0582-kill-process) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0694-number-of-distinct-islands](https://github.com/jiangtianh/LeetCode/tree/master/0694-number-of-distinct-islands) |

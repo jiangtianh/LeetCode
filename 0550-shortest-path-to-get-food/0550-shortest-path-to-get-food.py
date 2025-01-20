@@ -11,7 +11,7 @@ class Solution:
                     break
             if len(q) == 1:
                 break
-        print(q)
+
         while q:
             for _ in range(len(q)):
                 x, y = q.popleft()

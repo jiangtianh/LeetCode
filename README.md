@@ -352,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3363-most-frequent-ids](https://github.com/jiangtianh/LeetCode/tree/master/3363-most-frequent-ids) |
 | [3427-special-array-ii](https://github.com/jiangtianh/LeetCode/tree/master/3427-special-array-ii) |
+| [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/jiangtianh/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3463-alternating-groups-i](https://github.com/jiangtianh/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/jiangtianh/LeetCode/tree/master/3469-maximum-height-of-a-triangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jiangtianh/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -658,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2648-number-of-ways-to-earn-points](https://github.com/jiangtianh/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/jiangtianh/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/jiangtianh/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jiangtianh/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Binary Indexed Tree
 |  |
@@ -1034,6 +1036,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/jiangtianh/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3363-most-frequent-ids](https://github.com/jiangtianh/LeetCode/tree/master/3363-most-frequent-ids) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jiangtianh/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/jiangtianh/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jiangtianh/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |

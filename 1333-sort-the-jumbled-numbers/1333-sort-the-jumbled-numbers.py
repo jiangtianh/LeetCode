@@ -2,14 +2,21 @@ class Solution:
     def sortJumbled(self, mapping: List[int], nums: List[int]) -> List[int]:
         
         def map(n):
+            if n == 0:
+                return mapping[0]
             res = 0
-            n = str(n)
-            for i in range(len(n)):
-                res *= 10
-                res += mapping[int(n[i])]
+            digit = 0
+            while n > 0:
+                cur = n % 10
+                newDigit = mapping[cur]
+                res = newDigit * (10 ** digit) + res
+                n //= 10
+                digit += 1
             return res
+        
+        nums = [[map(n), n] for n in nums]
+        nums.sort(key = lambda x: x[0])
 
+        print(nums)
 
-        li = [[map(n), n] for n in nums]
-        li.sort(key=lambda x: x[0])
-        return [n for order, n in li]
+        return [num[1] for num in nums]

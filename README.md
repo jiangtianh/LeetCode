@@ -569,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2001-jump-game-vii](https://github.com/jiangtianh/LeetCode/tree/master/2001-jump-game-vii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jiangtianh/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jiangtianh/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/jiangtianh/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jiangtianh/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/jiangtianh/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/jiangtianh/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -888,6 +889,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/jiangtianh/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jiangtianh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2045-cutting-ribbons](https://github.com/jiangtianh/LeetCode/tree/master/2045-cutting-ribbons) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/jiangtianh/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2164-two-best-non-overlapping-events](https://github.com/jiangtianh/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/jiangtianh/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jiangtianh/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -922,6 +924,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2001-jump-game-vii](https://github.com/jiangtianh/LeetCode/tree/master/2001-jump-game-vii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jiangtianh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2055-describe-the-painting](https://github.com/jiangtianh/LeetCode/tree/master/2055-describe-the-painting) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/jiangtianh/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/jiangtianh/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/jiangtianh/LeetCode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/jiangtianh/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
@@ -1196,6 +1199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jiangtianh/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1755-defuse-the-bomb](https://github.com/jiangtianh/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2001-jump-game-vii](https://github.com/jiangtianh/LeetCode/tree/master/2001-jump-game-vii) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/jiangtianh/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/jiangtianh/LeetCode/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jiangtianh/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/jiangtianh/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |

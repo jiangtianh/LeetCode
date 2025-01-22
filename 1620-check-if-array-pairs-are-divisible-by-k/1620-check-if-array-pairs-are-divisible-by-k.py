@@ -8,6 +8,8 @@ class Solution:
             if remainder == 0:
                 if d[0] > 0:
                     d[0] -= 1
+                    if d[0] == 0:
+                        d.pop(0)
                 else:
                     d[0] += 1
             
@@ -15,11 +17,14 @@ class Solution:
                 need = k - remainder
                 if d[need] > 0:
                     d[need] -= 1
+                    if d[need] == 0:
+                        d.pop(need)
                 else:
                     d[remainder] += 1
         
         for n in d:
             if d[n] != 0:
                 return False
+
         return True
         

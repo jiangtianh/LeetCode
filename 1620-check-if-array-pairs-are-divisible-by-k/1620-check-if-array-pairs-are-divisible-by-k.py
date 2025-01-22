@@ -1,20 +1,25 @@
 class Solution:
     def canArrange(self, arr: List[int], k: int) -> bool:
         d = collections.defaultdict(int)
-        for n in arr:
-            mod = n % k 
-            d[mod] += 1
 
+        for num in arr:
+            remainder = num % k 
 
-        if d[0] % 2 != 0:
-            return False
-
-        for i in range(1, k//2 + 1):
+            if remainder == 0:
+                if d[0] > 0:
+                    d[0] -= 1
+                else:
+                    d[0] += 1
             
-            if d[i] != d[k-i]:
-
+            else:
+                need = k - remainder
+                if d[need] > 0:
+                    d[need] -= 1
+                else:
+                    d[remainder] += 1
+        
+        for n in d:
+            if d[n] != 0:
                 return False
-
-        
-        
         return True
+        

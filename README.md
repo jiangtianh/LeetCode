@@ -410,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0269-alien-dictionary](https://github.com/jiangtianh/LeetCode/tree/master/0269-alien-dictionary) |
 | [0499-the-maze-iii](https://github.com/jiangtianh/LeetCode/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/jiangtianh/LeetCode/tree/master/0505-the-maze-ii) |
+| [0820-find-eventual-safe-states](https://github.com/jiangtianh/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/jiangtianh/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/jiangtianh/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -426,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0269-alien-dictionary](https://github.com/jiangtianh/LeetCode/tree/master/0269-alien-dictionary) |
+| [0820-find-eventual-safe-states](https://github.com/jiangtianh/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/jiangtianh/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jiangtianh/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/jiangtianh/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -1109,6 +1111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0694-number-of-distinct-islands](https://github.com/jiangtianh/LeetCode/tree/master/0694-number-of-distinct-islands) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0820-find-eventual-safe-states](https://github.com/jiangtianh/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1091-maximum-average-subtree](https://github.com/jiangtianh/LeetCode/tree/master/1091-maximum-average-subtree) |
 | [1190-smallest-common-region](https://github.com/jiangtianh/LeetCode/tree/master/1190-smallest-common-region) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jiangtianh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1146,6 +1149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0694-number-of-distinct-islands](https://github.com/jiangtianh/LeetCode/tree/master/0694-number-of-distinct-islands) |
 | [0787-sliding-puzzle](https://github.com/jiangtianh/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0820-find-eventual-safe-states](https://github.com/jiangtianh/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1190-smallest-common-region](https://github.com/jiangtianh/LeetCode/tree/master/1190-smallest-common-region) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jiangtianh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1271-web-crawler](https://github.com/jiangtianh/LeetCode/tree/master/1271-web-crawler) |

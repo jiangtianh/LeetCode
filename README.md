@@ -339,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3095-maximum-number-of-alloys](https://github.com/jiangtianh/LeetCode/tree/master/3095-maximum-number-of-alloys) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/jiangtianh/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/jiangtianh/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3202-high-access-employees](https://github.com/jiangtianh/LeetCode/tree/master/3202-high-access-employees) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/jiangtianh/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/jiangtianh/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jiangtianh/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -486,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2833-count-zero-request-servers](https://github.com/jiangtianh/LeetCode/tree/master/2833-count-zero-request-servers) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/jiangtianh/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jiangtianh/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3202-high-access-employees](https://github.com/jiangtianh/LeetCode/tree/master/3202-high-access-employees) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jiangtianh/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/jiangtianh/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/jiangtianh/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -599,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3019-furthest-point-from-origin](https://github.com/jiangtianh/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/jiangtianh/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/jiangtianh/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3202-high-access-employees](https://github.com/jiangtianh/LeetCode/tree/master/3202-high-access-employees) |
 | [3207-make-three-strings-equal](https://github.com/jiangtianh/LeetCode/tree/master/3207-make-three-strings-equal) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/jiangtianh/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/jiangtianh/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1043,6 +1046,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2833-count-zero-request-servers](https://github.com/jiangtianh/LeetCode/tree/master/2833-count-zero-request-servers) |
 | [2890-count-substrings-without-repeating-character](https://github.com/jiangtianh/LeetCode/tree/master/2890-count-substrings-without-repeating-character) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jiangtianh/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3202-high-access-employees](https://github.com/jiangtianh/LeetCode/tree/master/3202-high-access-employees) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/jiangtianh/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/jiangtianh/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jiangtianh/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |

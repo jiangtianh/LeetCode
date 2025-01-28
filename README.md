@@ -327,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/jiangtianh/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/jiangtianh/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/jiangtianh/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jiangtianh/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2810-collecting-chocolates](https://github.com/jiangtianh/LeetCode/tree/master/2810-collecting-chocolates) |
@@ -402,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2482-maximum-rows-covered-by-columns](https://github.com/jiangtianh/LeetCode/tree/master/2482-maximum-rows-covered-by-columns) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/jiangtianh/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jiangtianh/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/jiangtianh/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -1137,6 +1139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/jiangtianh/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/jiangtianh/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/jiangtianh/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/jiangtianh/LeetCode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 ## Breadth-First Search
 |  |
@@ -1172,6 +1175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/jiangtianh/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/jiangtianh/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jiangtianh/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
@@ -1364,6 +1368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/jiangtianh/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/jiangtianh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/jiangtianh/LeetCode/tree/master/2035-count-sub-islands) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jiangtianh/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String Matching
 |  |

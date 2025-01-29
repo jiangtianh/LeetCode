@@ -1,54 +1,34 @@
-class UnionFind:
+class DisjointSet:
     def __init__(self, n):
         self.li = [i for i in range(n)]
-        self.rank = [0] * n
-
-        
-    def find(self, i):
-        if self.li[i] == i:
-            return i 
+        self.rank = [0 for _ in range(n)]
+    def find(self, x):
+        if self.li[x] == x:
+            return x
+        res = self.find(self.li[x])
+        self.li[x] = res
+        return res
+    def join(self, x, y):
+        xRoot, yRoot = self.find(x), self.find(y)
+        if xRoot == yRoot:
+            return False
+        if self.rank[xRoot] > self.rank[yRoot]:
+            self.li[yRoot] = xRoot
+        elif self.rank[xRoot] < self.rank[yRoot]:
+            self.li[xRoot] = yRoot
         else:
-            return self.find(self.li[i])
-        
-    def join(self, i, j):
-        iRoot = self.find(i)
-        jRoot = self.find(j)
-        
-        if iRoot == jRoot:
-            return False 
-        else:
-            if self.rank[iRoot] > self.rank[jRoot]:
-                self.li[jRoot] = iRoot
-                self.rank[iRoot] += 1
-            else:
-                self.li[iRoot] = jRoot
-                self.rank[jRoot] += 1
-            return True 
-        
-        
+            self.li[yRoot] = xRoot
+            self.rank[xRoot] += 1
+        return True
 class Solution:
     def validTree(self, n: int, edges: List[List[int]]) -> bool:
+        ds = DisjointSet(n)
+        for x, y in edges:
+            if not ds.join(x, y):
+                return False
         
-        if len(edges) != n - 1:
-            return False
-        
-        
-        unionFind = UnionFind(n)
-        
-        for i, j in edges:
-            if not unionFind.join(i, j):
-                return False 
-    
+        x = ds.find(0)
+        for i in range(n):
+            if ds.find(i) != x:
+                return False
         return True
-        
-        
-        
-
-        
-        
-
-    
-        
-        
-        
-        

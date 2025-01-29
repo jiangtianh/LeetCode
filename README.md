@@ -708,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1183-statistics-from-a-large-sample](https://github.com/jiangtianh/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
 | [1213-handshakes-that-dont-cross](https://github.com/jiangtianh/LeetCode/tree/master/1213-handshakes-that-dont-cross) |
 | [1240-stone-game-ii](https://github.com/jiangtianh/LeetCode/tree/master/1240-stone-game-ii) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/jiangtianh/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1345-perform-string-shifts](https://github.com/jiangtianh/LeetCode/tree/master/1345-perform-string-shifts) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/jiangtianh/LeetCode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
@@ -770,6 +771,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/jiangtianh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1051-shortest-way-to-form-string](https://github.com/jiangtianh/LeetCode/tree/master/1051-shortest-way-to-form-string) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/jiangtianh/LeetCode/tree/master/1126-minimum-cost-to-connect-sticks) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/jiangtianh/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1304-longest-happy-string](https://github.com/jiangtianh/LeetCode/tree/master/1304-longest-happy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/jiangtianh/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |

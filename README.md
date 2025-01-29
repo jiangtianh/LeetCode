@@ -414,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0269-alien-dictionary](https://github.com/jiangtianh/LeetCode/tree/master/0269-alien-dictionary) |
 | [0499-the-maze-iii](https://github.com/jiangtianh/LeetCode/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/jiangtianh/LeetCode/tree/master/0505-the-maze-ii) |
+| [0684-redundant-connection](https://github.com/jiangtianh/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/jiangtianh/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/jiangtianh/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1117,6 +1118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0642-design-search-autocomplete-system](https://github.com/jiangtianh/LeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0684-redundant-connection](https://github.com/jiangtianh/LeetCode/tree/master/0684-redundant-connection) |
 | [0694-number-of-distinct-islands](https://github.com/jiangtianh/LeetCode/tree/master/0694-number-of-distinct-islands) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/jiangtianh/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -1156,6 +1158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0550-shortest-path-to-get-food](https://github.com/jiangtianh/LeetCode/tree/master/0550-shortest-path-to-get-food) |
 | [0582-kill-process](https://github.com/jiangtianh/LeetCode/tree/master/0582-kill-process) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/jiangtianh/LeetCode/tree/master/0684-redundant-connection) |
 | [0694-number-of-distinct-islands](https://github.com/jiangtianh/LeetCode/tree/master/0694-number-of-distinct-islands) |
 | [0787-sliding-puzzle](https://github.com/jiangtianh/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/jiangtianh/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -1364,6 +1367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/jiangtianh/LeetCode/tree/master/0684-redundant-connection) |
 | [0694-number-of-distinct-islands](https://github.com/jiangtianh/LeetCode/tree/master/0694-number-of-distinct-islands) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/jiangtianh/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/jiangtianh/LeetCode/tree/master/1396-count-servers-that-communicate) |

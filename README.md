@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0353-design-snake-game](https://github.com/jiangtianh/LeetCode/tree/master/0353-design-snake-game) |
 | [0362-design-hit-counter](https://github.com/jiangtianh/LeetCode/tree/master/0362-design-hit-counter) |
 | [0422-valid-word-square](https://github.com/jiangtianh/LeetCode/tree/master/0422-valid-word-square) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jiangtianh/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0487-max-consecutive-ones-ii](https://github.com/jiangtianh/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0490-the-maze](https://github.com/jiangtianh/LeetCode/tree/master/0490-the-maze) |
 | [0494-target-sum](https://github.com/jiangtianh/LeetCode/tree/master/0494-target-sum) |
@@ -447,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0252-meeting-rooms](https://github.com/jiangtianh/LeetCode/tree/master/0252-meeting-rooms) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/jiangtianh/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jiangtianh/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/jiangtianh/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0588-design-in-memory-file-system](https://github.com/jiangtianh/LeetCode/tree/master/0588-design-in-memory-file-system) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jiangtianh/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -762,6 +764,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0179-largest-number](https://github.com/jiangtianh/LeetCode/tree/master/0179-largest-number) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/jiangtianh/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jiangtianh/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/jiangtianh/LeetCode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/jiangtianh/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jiangtianh/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |

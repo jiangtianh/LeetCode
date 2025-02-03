@@ -357,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3334-apple-redistribution-into-boxes](https://github.com/jiangtianh/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3363-most-frequent-ids](https://github.com/jiangtianh/LeetCode/tree/master/3363-most-frequent-ids) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jiangtianh/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/jiangtianh/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/jiangtianh/LeetCode/tree/master/3429-special-array-i) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/jiangtianh/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |

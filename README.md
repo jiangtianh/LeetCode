@@ -325,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jiangtianh/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2648-number-of-ways-to-earn-points](https://github.com/jiangtianh/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [2674-make-the-prefix-sum-non-negative](https://github.com/jiangtianh/LeetCode/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jiangtianh/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jiangtianh/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/jiangtianh/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -809,6 +810,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2509-minimize-xor](https://github.com/jiangtianh/LeetCode/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jiangtianh/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jiangtianh/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2674-make-the-prefix-sum-non-negative](https://github.com/jiangtianh/LeetCode/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [3195-separate-black-and-white-balls](https://github.com/jiangtianh/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jiangtianh/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/jiangtianh/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -841,6 +843,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2479-meeting-rooms-iii](https://github.com/jiangtianh/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jiangtianh/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jiangtianh/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2674-make-the-prefix-sum-non-negative](https://github.com/jiangtianh/LeetCode/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/jiangtianh/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jiangtianh/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2803-modify-graph-edge-weights](https://github.com/jiangtianh/LeetCode/tree/master/2803-modify-graph-edge-weights) |

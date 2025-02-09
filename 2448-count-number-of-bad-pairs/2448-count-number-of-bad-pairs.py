@@ -1,13 +1,11 @@
 class Solution:
     def countBadPairs(self, nums: List[int]) -> int:
+        count = 0
         d = collections.defaultdict(int)
-        res = 0
 
-
-        for i, num in enumerate(nums):
-            n = num - i
-            res += d[n]
-            d[n] += 1
+        for i, n in enumerate(nums):
+            x = n - i
+            count += d[x]
+            d[x] += 1
         n = len(nums)
-
-        return n * (n-1) // 2 - res
+        return (n * (n-1) // 2) - count

@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/jiangtianh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/jiangtianh/LeetCode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2472-build-a-matrix-with-conditions](https://github.com/jiangtianh/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jiangtianh/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/jiangtianh/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/jiangtianh/LeetCode/tree/master/2482-maximum-rows-covered-by-columns) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jiangtianh/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -492,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-most-beautiful-item-for-each-query](https://github.com/jiangtianh/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jiangtianh/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/jiangtianh/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jiangtianh/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/jiangtianh/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jiangtianh/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2561-number-of-distinct-averages](https://github.com/jiangtianh/LeetCode/tree/master/2561-number-of-distinct-averages) |
@@ -843,6 +845,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/jiangtianh/LeetCode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/jiangtianh/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/jiangtianh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jiangtianh/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/jiangtianh/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jiangtianh/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jiangtianh/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -1057,6 +1060,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/jiangtianh/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2406-decode-the-message](https://github.com/jiangtianh/LeetCode/tree/master/2406-decode-the-message) |
 | [2448-count-number-of-bad-pairs](https://github.com/jiangtianh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jiangtianh/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2475-largest-palindromic-number](https://github.com/jiangtianh/LeetCode/tree/master/2475-largest-palindromic-number) |
 | [2479-meeting-rooms-iii](https://github.com/jiangtianh/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2547-odd-string-difference](https://github.com/jiangtianh/LeetCode/tree/master/2547-odd-string-difference) |

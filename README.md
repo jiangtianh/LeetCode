@@ -1037,6 +1037,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/jiangtianh/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1364-tuple-with-same-product](https://github.com/jiangtianh/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1366-first-unique-number](https://github.com/jiangtianh/LeetCode/tree/master/1366-first-unique-number) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/jiangtianh/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jiangtianh/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1483-rank-teams-by-votes](https://github.com/jiangtianh/LeetCode/tree/master/1483-rank-teams-by-votes) |
@@ -1118,6 +1119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1091-maximum-average-subtree](https://github.com/jiangtianh/LeetCode/tree/master/1091-maximum-average-subtree) |
 | [1190-smallest-common-region](https://github.com/jiangtianh/LeetCode/tree/master/1190-smallest-common-region) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jiangtianh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/jiangtianh/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1634-clone-n-ary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1634-clone-n-ary-tree) |
@@ -1166,6 +1168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jiangtianh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1271-web-crawler](https://github.com/jiangtianh/LeetCode/tree/master/1271-web-crawler) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jiangtianh/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/jiangtianh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/jiangtianh/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -1205,6 +1208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1190-smallest-common-region](https://github.com/jiangtianh/LeetCode/tree/master/1190-smallest-common-region) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jiangtianh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1271-web-crawler](https://github.com/jiangtianh/LeetCode/tree/master/1271-web-crawler) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/jiangtianh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1239,6 +1243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1091-maximum-average-subtree](https://github.com/jiangtianh/LeetCode/tree/master/1091-maximum-average-subtree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jiangtianh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/jiangtianh/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/jiangtianh/LeetCode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
@@ -1392,6 +1397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1176-design-a-leaderboard](https://github.com/jiangtianh/LeetCode/tree/master/1176-design-a-leaderboard) |
 | [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
 | [1366-first-unique-number](https://github.com/jiangtianh/LeetCode/tree/master/1366-first-unique-number) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/jiangtianh/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1572-subrectangle-queries](https://github.com/jiangtianh/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/jiangtianh/LeetCode/tree/master/1713-dot-product-of-two-sparse-vectors) |

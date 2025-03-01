@@ -1,22 +1,20 @@
 class Solution:
     def minSwaps(self, data: List[int]) -> int:
+        res = math.inf 
+        totalOnes = data.count(1)
+        zeros = 0
         l = 0
-        totalOne = data.count(1)
-        res = math.inf
-        zeroCount = 0
 
-        if totalOne == 0:
-            return 0
-
-        for r, num in enumerate(data):
-            if num == 0:
-                zeroCount += 1
+        for r, n in enumerate(data):
+            if n == 0:
+                zeros += 1
             
-            if r - l + 1 == totalOne:
-                res = min(res, zeroCount)
-
+            if r - l + 1 > totalOnes:
                 if data[l] == 0:
-                    zeroCount -= 1          
+                    zeros -= 1
                 l += 1
-
+            
+            if r - l + 1 == totalOnes:
+                res = min(res, zeros)
+        
         return res

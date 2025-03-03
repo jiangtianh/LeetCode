@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/jiangtianh/LeetCode/tree/master/2155-find-missing-observations) |
 | [2169-simple-bank-system](https://github.com/jiangtianh/LeetCode/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/jiangtianh/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/jiangtianh/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jiangtianh/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/jiangtianh/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2479-meeting-rooms-iii](https://github.com/jiangtianh/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2240-intervals-between-identical-elements](https://github.com/jiangtianh/LeetCode/tree/master/2240-intervals-between-identical-elements) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/jiangtianh/LeetCode/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/jiangtianh/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/jiangtianh/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jiangtianh/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jiangtianh/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/jiangtianh/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -909,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1972-rotating-the-box](https://github.com/jiangtianh/LeetCode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jiangtianh/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/jiangtianh/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/jiangtianh/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/jiangtianh/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jiangtianh/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2561-number-of-distinct-averages](https://github.com/jiangtianh/LeetCode/tree/master/2561-number-of-distinct-averages) |

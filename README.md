@@ -748,6 +748,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jiangtianh/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1774-add-two-polynomials-represented-as-linked-lists](https://github.com/jiangtianh/LeetCode/tree/master/1774-add-two-polynomials-represented-as-linked-lists) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jiangtianh/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/jiangtianh/LeetCode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1965-sum-of-digits-in-base-k](https://github.com/jiangtianh/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/jiangtianh/LeetCode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |

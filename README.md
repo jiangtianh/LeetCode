@@ -622,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2406-decode-the-message](https://github.com/jiangtianh/LeetCode/tree/master/2406-decode-the-message) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/jiangtianh/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/jiangtianh/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jiangtianh/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2475-largest-palindromic-number](https://github.com/jiangtianh/LeetCode/tree/master/2475-largest-palindromic-number) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jiangtianh/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2496-count-days-spent-together](https://github.com/jiangtianh/LeetCode/tree/master/2496-count-days-spent-together) |
@@ -1302,6 +1303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2003-distinct-numbers-in-each-subarray](https://github.com/jiangtianh/LeetCode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/jiangtianh/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2247-number-of-unique-flavors-after-sharing-k-candies](https://github.com/jiangtianh/LeetCode/tree/master/2247-number-of-unique-flavors-after-sharing-k-candies) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jiangtianh/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jiangtianh/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/jiangtianh/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2833-count-zero-request-servers](https://github.com/jiangtianh/LeetCode/tree/master/2833-count-zero-request-servers) |

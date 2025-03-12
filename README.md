@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1041-available-captures-for-rook](https://github.com/jiangtianh/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/jiangtianh/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/jiangtianh/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/jiangtianh/LeetCode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jiangtianh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jiangtianh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1572-subrectangle-queries](https://github.com/jiangtianh/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/jiangtianh/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/jiangtianh/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/jiangtianh/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jiangtianh/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jiangtianh/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/jiangtianh/LeetCode/tree/master/1656-count-good-triplets) |
@@ -1590,6 +1592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 |  |
 | ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/jiangtianh/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/jiangtianh/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/jiangtianh/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Rolling Hash

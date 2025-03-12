@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2045-cutting-ribbons](https://github.com/jiangtianh/LeetCode/tree/master/2045-cutting-ribbons) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jiangtianh/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2055-describe-the-painting](https://github.com/jiangtianh/LeetCode/tree/master/2055-describe-the-painting) |
+| [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/jiangtianh/LeetCode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/jiangtianh/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2089-maximum-matrix-sum](https://github.com/jiangtianh/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/jiangtianh/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -825,6 +826,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/jiangtianh/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/jiangtianh/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1961-maximum-ice-cream-bars](https://github.com/jiangtianh/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
+| [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/jiangtianh/LeetCode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/jiangtianh/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2089-maximum-matrix-sum](https://github.com/jiangtianh/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/jiangtianh/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |

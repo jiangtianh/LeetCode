@@ -1,23 +1,10 @@
 class Solution:
     def getLastMoment(self, n: int, left: List[int], right: List[int]) -> int:
-        
-        leftMost = 0
-        rightMost = 0
+        leftMost = min(right) if right else -1
+        rightMost = max(left) if left else -1
 
-        if left:
-            leftMost = max(left)
-            
-        if right:
-            
-            rightMost = n - min(right)
-       
-        if leftMost and rightMost:
-            print("111")
-            return max(leftMost, rightMost)
-        elif leftMost:
-            return leftMost 
-        else:
+        if leftMost == -1:
             return rightMost
-        
-
-
+        elif rightMost == -1:
+            return n - leftMost
+        return max(rightMost, n - leftMost)

@@ -5,14 +5,15 @@
 #         self.next = next
 class Solution:
     def modifiedList(self, nums: List[int], head: Optional[ListNode]) -> Optional[ListNode]:
-        s = set(nums)
-        Sentinal = ListNode()
-        temp = Sentinal
+        nums = set(nums)
+        newHead = ListNode()
+        cur = newHead
 
         while head:
-            if head.val not in s:
-                temp.next = ListNode(head.val)
-                temp = temp.next
+            if head.val not in nums:
+                cur.next = ListNode(head.val)
+                cur = cur.next
+            
             head = head.next
         
-        return Sentinal.next
+        return newHead.next

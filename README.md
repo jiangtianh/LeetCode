@@ -566,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0604-design-compressed-string-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0604-design-compressed-string-iterator) |
 | [0642-design-search-autocomplete-system](https://github.com/jiangtianh/LeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0677-map-sum-pairs](https://github.com/jiangtianh/LeetCode/tree/master/0677-map-sum-pairs) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jiangtianh/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0722-remove-comments](https://github.com/jiangtianh/LeetCode/tree/master/0722-remove-comments) |
 | [0734-sentence-similarity](https://github.com/jiangtianh/LeetCode/tree/master/0734-sentence-similarity) |
 | [0768-partition-labels](https://github.com/jiangtianh/LeetCode/tree/master/0768-partition-labels) |
@@ -687,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/jiangtianh/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/jiangtianh/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jiangtianh/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0815-champagne-tower](https://github.com/jiangtianh/LeetCode/tree/master/0815-champagne-tower) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/jiangtianh/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0972-knight-dialer](https://github.com/jiangtianh/LeetCode/tree/master/0972-knight-dialer) |

@@ -15,3 +15,16 @@ class Solution:
             res = min(res, f(i+1, j) + ord(s1[i]), f(i, j+1) + ord(s2[j]))
             return res
         return f(0, 0)
+
+        dp = [[math.inf] * (len(s2) + 1) for _ in range(len(s1) + 1)]
+        for i in range(len(s1)):
+            dp[i][-1] = 0
+        for j in range(len(s2)):
+            dp[-1][j] = 0
+        for i in range(len(s1) - 1, -1, -1):
+            for j in range(len(s2) - 1, -1, -1):
+                dp[i][j] = math.inf
+                if s1[i] == s2[j]:
+                    dp[i][j] = min(dp[i][j], dp[i+1][j+1])
+                dp[i][j] = min(dp[i][j], dp[i][j+1] + ord(s2[j]), dp[i+1][j] + ord(s1[i]))
+        return dp[0][0]

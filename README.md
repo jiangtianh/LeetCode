@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jiangtianh/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3334-apple-redistribution-into-boxes](https://github.com/jiangtianh/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jiangtianh/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3363-most-frequent-ids](https://github.com/jiangtianh/LeetCode/tree/master/3363-most-frequent-ids) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jiangtianh/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/jiangtianh/LeetCode/tree/master/3427-special-array-ii) |
@@ -460,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2803-modify-graph-edge-weights](https://github.com/jiangtianh/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/jiangtianh/LeetCode/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/jiangtianh/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jiangtianh/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jiangtianh/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
@@ -803,6 +805,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jiangtianh/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/jiangtianh/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jiangtianh/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jiangtianh/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Greedy
 |  |
@@ -1481,6 +1484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/jiangtianh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jiangtianh/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jiangtianh/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## String Matching
 |  |
 | ------- |

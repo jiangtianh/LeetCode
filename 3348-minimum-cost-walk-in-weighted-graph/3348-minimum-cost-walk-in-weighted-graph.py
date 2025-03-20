@@ -15,20 +15,12 @@ class DisjointSet:
         if xRoot != yRoot:
             if self.rank[xRoot] > self.rank[yRoot]:
                 self.li[yRoot] = xRoot
-                newRoot = xRoot
-                oldRoot = yRoot
             elif self.rank[xRoot] < self.rank[yRoot]:
                 self.li[xRoot] = yRoot
-                newRoot = yRoot
-                oldRoot = xRoot
             else:
                 self.li[yRoot] = xRoot
                 self.rank[xRoot] += 1
-                newRoot = xRoot
-                oldRoot = yRoot
-            self.addCost(newRoot, oldRoot, cost)
-        else:
-            self.addCost(xRoot, yRoot, cost)
+        self.addCost(xRoot, yRoot, cost)
 
 
     def addCost(self, newRoot, oldRoot, edgeCost):
@@ -46,6 +38,7 @@ class DisjointSet:
             newCost = rootCost & oldCost & edgeCost
 
         self.cost[newRoot] = newCost
+        self.cost[oldRoot] = newCost
 
 
 

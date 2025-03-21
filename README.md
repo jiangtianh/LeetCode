@@ -793,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/jiangtianh/LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/jiangtianh/LeetCode/tree/master/0089-gray-code) |
+| [0190-reverse-bits](https://github.com/jiangtianh/LeetCode/tree/master/0190-reverse-bits) |
 | [0266-palindrome-permutation](https://github.com/jiangtianh/LeetCode/tree/master/0266-palindrome-permutation) |
 | [0320-generalized-abbreviation](https://github.com/jiangtianh/LeetCode/tree/master/0320-generalized-abbreviation) |
 | [0476-number-complement](https://github.com/jiangtianh/LeetCode/tree/master/0476-number-complement) |
@@ -1689,5 +1690,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/jiangtianh/LeetCode/tree/master/0190-reverse-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->

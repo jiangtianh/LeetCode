@@ -1,31 +1,28 @@
 class Solution:
     def countPaths(self, n: int, roads: List[List[int]]) -> int:
-
         graph = collections.defaultdict(dict)
-        for x, y, weight in roads:
-            graph[x][y] = weight
-            graph[y][x] = weight
-
+        for x, y, w in roads:
+            graph[x][y] = w
+            graph[y][x] = w
         
-        heap = [(0, 0)]
-        ways = [0] * n
+        ways = [0 for _ in range(n)]
         ways[0] = 1
-        dist = [math.inf] * n
+        dists = [math.inf for _ in range(n)]
+        dists[0] = 0
+        heap = [[0, 0]]
 
         while heap:
-            d, cur = heapq.heappop(heap)
-
-            if dist[cur] < d:
+            curDist, curNode = heapq.heappop(heap)
+            if curDist > dists[curNode]:
                 continue
             
-            for neighbor in graph[cur]:
-                if dist[neighbor] > d + graph[cur][neighbor]:
-                    dist[neighbor] = d + graph[cur][neighbor]
-                    ways[neighbor] = ways[cur]
-                    heapq.heappush(heap, (d + graph[cur][neighbor], neighbor))
-
-                elif dist[neighbor] == d + graph[cur][neighbor]:
-                    ways[neighbor] = (ways[neighbor] + ways[cur]) % (10 ** 9 + 7)
-
-
-        return ways[n-1]
+            for neighbor in graph[curNode]:
+                if dists[neighbor] > curDist + graph[curNode][neighbor]:
+                    ways[neighbor] = ways[curNode]
+                    dists[neighbor] = curDist + graph[curNode][neighbor]
+                    heapq.heappush(heap, [curDist + graph[curNode][neighbor], neighbor])
+                elif dists[neighbor] == curDist + graph[curNode][neighbor]:
+                    ways[neighbor] += ways[curNode]
+            
+                
+        return ways[-1] % (10 ** 9 + 7)

@@ -399,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/jiangtianh/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3533-snake-in-matrix](https://github.com/jiangtianh/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jiangtianh/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jiangtianh/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Matrix
 |  |
 | ------- |
@@ -542,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/jiangtianh/LeetCode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 | [3430-count-days-without-meetings](https://github.com/jiangtianh/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/jiangtianh/LeetCode/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jiangtianh/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## String
 |  |
 | ------- |

@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jiangtianh/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2155-find-missing-observations](https://github.com/jiangtianh/LeetCode/tree/master/2155-find-missing-observations) |
 | [2159-two-out-of-three](https://github.com/jiangtianh/LeetCode/tree/master/2159-two-out-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jiangtianh/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/jiangtianh/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2169-simple-bank-system](https://github.com/jiangtianh/LeetCode/tree/master/2169-simple-bank-system) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/jiangtianh/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -429,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/jiangtianh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/jiangtianh/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jiangtianh/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jiangtianh/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/jiangtianh/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/jiangtianh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/jiangtianh/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
@@ -517,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1962-single-threaded-cpu](https://github.com/jiangtianh/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2055-describe-the-painting](https://github.com/jiangtianh/LeetCode/tree/master/2055-describe-the-painting) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/jiangtianh/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jiangtianh/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/jiangtianh/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/jiangtianh/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jiangtianh/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -780,6 +783,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1965-sum-of-digits-in-base-k](https://github.com/jiangtianh/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/jiangtianh/LeetCode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2155-find-missing-observations](https://github.com/jiangtianh/LeetCode/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jiangtianh/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/jiangtianh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2496-count-days-spent-together](https://github.com/jiangtianh/LeetCode/tree/master/2496-count-days-spent-together) |
 | [2556-convert-the-temperature](https://github.com/jiangtianh/LeetCode/tree/master/2556-convert-the-temperature) |

@@ -360,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2844-sum-of-squares-of-special-elements](https://github.com/jiangtianh/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2868-continuous-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2880-find-the-closest-marked-node](https://github.com/jiangtianh/LeetCode/tree/master/2880-find-the-closest-marked-node) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/jiangtianh/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/jiangtianh/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/jiangtianh/LeetCode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/jiangtianh/LeetCode/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
@@ -538,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/jiangtianh/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/jiangtianh/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2833-count-zero-request-servers](https://github.com/jiangtianh/LeetCode/tree/master/2833-count-zero-request-servers) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/jiangtianh/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/jiangtianh/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jiangtianh/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3202-high-access-employees](https://github.com/jiangtianh/LeetCode/tree/master/3202-high-access-employees) |
@@ -1147,6 +1149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jiangtianh/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jiangtianh/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2833-count-zero-request-servers](https://github.com/jiangtianh/LeetCode/tree/master/2833-count-zero-request-servers) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/jiangtianh/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2890-count-substrings-without-repeating-character](https://github.com/jiangtianh/LeetCode/tree/master/2890-count-substrings-without-repeating-character) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jiangtianh/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3202-high-access-employees](https://github.com/jiangtianh/LeetCode/tree/master/3202-high-access-employees) |

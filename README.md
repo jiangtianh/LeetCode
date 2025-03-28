@@ -338,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2564-most-profitable-path-in-a-tree](https://github.com/jiangtianh/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jiangtianh/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jiangtianh/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/jiangtianh/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jiangtianh/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jiangtianh/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2648-number-of-ways-to-earn-points](https://github.com/jiangtianh/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
@@ -440,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-build-a-matrix-with-conditions](https://github.com/jiangtianh/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/jiangtianh/LeetCode/tree/master/2482-maximum-rows-covered-by-columns) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/jiangtianh/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/jiangtianh/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jiangtianh/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -533,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2561-number-of-distinct-averages](https://github.com/jiangtianh/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jiangtianh/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jiangtianh/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/jiangtianh/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jiangtianh/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jiangtianh/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -906,6 +909,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jiangtianh/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/jiangtianh/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jiangtianh/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/jiangtianh/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jiangtianh/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/jiangtianh/LeetCode/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/jiangtianh/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -960,6 +964,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jiangtianh/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2561-number-of-distinct-averages](https://github.com/jiangtianh/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jiangtianh/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/jiangtianh/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jiangtianh/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jiangtianh/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/jiangtianh/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -1296,6 +1301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jiangtianh/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jiangtianh/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/jiangtianh/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/jiangtianh/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/jiangtianh/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1510,6 +1516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/jiangtianh/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/jiangtianh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/jiangtianh/LeetCode/tree/master/2035-count-sub-islands) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/jiangtianh/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/jiangtianh/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jiangtianh/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |

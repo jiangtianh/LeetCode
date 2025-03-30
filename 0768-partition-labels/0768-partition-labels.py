@@ -1,21 +1,19 @@
 class Solution:
-    def partitionLabels(self, str: str) -> List[int]:
-        counter = collections.Counter(str)
-        res = []
-        s = set()
+    def partitionLabels(self, s: str) -> List[int]:
+        counter = collections.Counter(s)
+        current = set()
         l = 0
-
-        def check(s):
-            for char in s:
-                if counter[char] > 0:
-                    return False
-            return True 
-
-        for i, c in enumerate(str):
+        res = []
+        for r, c in enumerate(s):
             counter[c] -= 1
-            s.add(c)
-            if check(s):
-                res.append(i - l + 1)
-                l = i+1
+            current.add(c)
+            allClear = True
+            for char in current:
+                if counter[char] != 0:
+                    allClear = False
+                    break
+            if allClear:
+                res.append(r - l + 1)
+                l = r + 1
         
         return res

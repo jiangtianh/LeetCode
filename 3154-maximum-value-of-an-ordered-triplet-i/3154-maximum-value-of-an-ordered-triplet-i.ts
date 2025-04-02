@@ -14,12 +14,11 @@ function maximumTripletValue(nums: number[]): number {
         while (stack.length && stack[stack.length-1] < nums[i]) {
             stack.pop();
         };
-        stack.push(nums[i])
+        stack.push(nums[i]);
         if (stack.length >= 2) {
-            res = Math.max(res, (stack[0] - nums[i]) * later[i])
+            res = Math.max(res, (stack[0] - nums[i]) * later[i]);
         };
-        
-    }
+    };
 
     return res;
 };

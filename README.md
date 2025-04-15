@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0269-alien-dictionary](https://github.com/jiangtianh/LeetCode/tree/master/0269-alien-dictionary) |
 | [0281-zigzag-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0281-zigzag-iterator) |
 | [0284-peeking-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0284-peeking-iterator) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/jiangtianh/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0346-moving-average-from-data-stream](https://github.com/jiangtianh/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0353-design-snake-game](https://github.com/jiangtianh/LeetCode/tree/master/0353-design-snake-game) |
 | [0362-design-hit-counter](https://github.com/jiangtianh/LeetCode/tree/master/0362-design-hit-counter) |
@@ -1034,6 +1035,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/jiangtianh/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0523-continuous-subarray-sum](https://github.com/jiangtianh/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0731-my-calendar-ii](https://github.com/jiangtianh/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1219-longest-well-performing-interval](https://github.com/jiangtianh/LeetCode/tree/master/1219-longest-well-performing-interval) |
@@ -1075,6 +1077,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0267-palindrome-permutation-ii](https://github.com/jiangtianh/LeetCode/tree/master/0267-palindrome-permutation-ii) |
 | [0291-word-pattern-ii](https://github.com/jiangtianh/LeetCode/tree/master/0291-word-pattern-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/jiangtianh/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/jiangtianh/LeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0353-design-snake-game](https://github.com/jiangtianh/LeetCode/tree/master/0353-design-snake-game) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/jiangtianh/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |

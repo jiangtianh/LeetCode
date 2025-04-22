@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0269-alien-dictionary](https://github.com/jiangtianh/LeetCode/tree/master/0269-alien-dictionary) |
 | [0281-zigzag-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0281-zigzag-iterator) |
 | [0284-peeking-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0284-peeking-iterator) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/jiangtianh/LeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/jiangtianh/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0346-moving-average-from-data-stream](https://github.com/jiangtianh/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0353-design-snake-game](https://github.com/jiangtianh/LeetCode/tree/master/0353-design-snake-game) |
@@ -420,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/jiangtianh/LeetCode/tree/master/0221-maximal-square) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/jiangtianh/LeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0422-valid-word-square](https://github.com/jiangtianh/LeetCode/tree/master/0422-valid-word-square) |
 | [0490-the-maze](https://github.com/jiangtianh/LeetCode/tree/master/0490-the-maze) |
 | [0499-the-maze-iii](https://github.com/jiangtianh/LeetCode/tree/master/0499-the-maze-iii) |
@@ -993,6 +995,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jiangtianh/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/jiangtianh/LeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0362-design-hit-counter](https://github.com/jiangtianh/LeetCode/tree/master/0362-design-hit-counter) |
 | [0367-valid-perfect-square](https://github.com/jiangtianh/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jiangtianh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1246,6 +1249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0272-closest-binary-search-tree-value-ii](https://github.com/jiangtianh/LeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/jiangtianh/LeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/jiangtianh/LeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0366-find-leaves-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/jiangtianh/LeetCode/tree/master/0386-lexicographical-numbers) |
@@ -1298,6 +1302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0261-graph-valid-tree](https://github.com/jiangtianh/LeetCode/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/jiangtianh/LeetCode/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/jiangtianh/LeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0490-the-maze](https://github.com/jiangtianh/LeetCode/tree/master/0490-the-maze) |
 | [0499-the-maze-iii](https://github.com/jiangtianh/LeetCode/tree/master/0499-the-maze-iii) |

@@ -23,9 +23,8 @@ class Solution:
             visited.add((x, y))
             for i, j in dirs:
                 newX, newY = x + i, y + j
-                if 0 <= newX < m and 0 <= newY < n and image[newX][newY] == "1":
+                if 0 <= newX < m and 0 <= newY < n and image[newX][newY] == "1" and (newX, newY) not in visited:
                     q.append((newX, newY))
 
-        print(biggestX, smallestX, biggestY, smallestY)
         return (biggestX - smallestX + 1) * (biggestY - smallestY + 1)
             

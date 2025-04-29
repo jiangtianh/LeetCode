@@ -383,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/jiangtianh/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3202-high-access-employees](https://github.com/jiangtianh/LeetCode/tree/master/3202-high-access-employees) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/jiangtianh/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/jiangtianh/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/jiangtianh/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jiangtianh/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/jiangtianh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -1407,6 +1408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2890-count-substrings-without-repeating-character](https://github.com/jiangtianh/LeetCode/tree/master/2890-count-substrings-without-repeating-character) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/jiangtianh/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/jiangtianh/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/jiangtianh/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/jiangtianh/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3463-alternating-groups-i](https://github.com/jiangtianh/LeetCode/tree/master/3463-alternating-groups-i) |

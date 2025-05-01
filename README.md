@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jiangtianh/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/jiangtianh/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/jiangtianh/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2721-sum-of-distances](https://github.com/jiangtianh/LeetCode/tree/master/2721-sum-of-distances) |
 | [2729-minimum-operations-to-make-numbers-non-positive](https://github.com/jiangtianh/LeetCode/tree/master/2729-minimum-operations-to-make-numbers-non-positive) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jiangtianh/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -1083,6 +1084,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/jiangtianh/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/jiangtianh/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/jiangtianh/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2721-sum-of-distances](https://github.com/jiangtianh/LeetCode/tree/master/2721-sum-of-distances) |
 | [3427-special-array-ii](https://github.com/jiangtianh/LeetCode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jiangtianh/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
@@ -1193,6 +1195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/jiangtianh/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jiangtianh/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jiangtianh/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2721-sum-of-distances](https://github.com/jiangtianh/LeetCode/tree/master/2721-sum-of-distances) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jiangtianh/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2833-count-zero-request-servers](https://github.com/jiangtianh/LeetCode/tree/master/2833-count-zero-request-servers) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/jiangtianh/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |

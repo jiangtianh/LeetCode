@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1196-filling-bookcase-shelves](https://github.com/jiangtianh/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/jiangtianh/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1219-longest-well-performing-interval](https://github.com/jiangtianh/LeetCode/tree/master/1219-longest-well-performing-interval) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/jiangtianh/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/jiangtianh/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1240-stone-game-ii](https://github.com/jiangtianh/LeetCode/tree/master/1240-stone-game-ii) |
 | [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
@@ -1143,6 +1144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1190-smallest-common-region](https://github.com/jiangtianh/LeetCode/tree/master/1190-smallest-common-region) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jiangtianh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1219-longest-well-performing-interval](https://github.com/jiangtianh/LeetCode/tree/master/1219-longest-well-performing-interval) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/jiangtianh/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/jiangtianh/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/jiangtianh/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
@@ -1444,6 +1446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0936-rle-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0936-rle-iterator) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/jiangtianh/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/jiangtianh/LeetCode/tree/master/1149-intersection-of-three-sorted-arrays) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/jiangtianh/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/jiangtianh/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1364-tuple-with-same-product](https://github.com/jiangtianh/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/jiangtianh/LeetCode/tree/master/1396-count-servers-that-communicate) |

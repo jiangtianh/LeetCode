@@ -424,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3533-snake-in-matrix](https://github.com/jiangtianh/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jiangtianh/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jiangtianh/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/jiangtianh/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/jiangtianh/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jiangtianh/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/jiangtianh/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -472,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/jiangtianh/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/jiangtianh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/jiangtianh/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Graph
 |  |
 | ------- |
@@ -501,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3235-minimum-cost-to-convert-string-i](https://github.com/jiangtianh/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jiangtianh/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jiangtianh/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/jiangtianh/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -725,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2803-modify-graph-edge-weights](https://github.com/jiangtianh/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 | [2880-find-the-closest-marked-node](https://github.com/jiangtianh/LeetCode/tree/master/2880-find-the-closest-marked-node) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/jiangtianh/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/jiangtianh/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -958,6 +962,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2880-find-the-closest-marked-node](https://github.com/jiangtianh/LeetCode/tree/master/2880-find-the-closest-marked-node) |
 | [3363-most-frequent-ids](https://github.com/jiangtianh/LeetCode/tree/master/3363-most-frequent-ids) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jiangtianh/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/jiangtianh/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Enumeration
 |  |
 | ------- |

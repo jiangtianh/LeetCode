@@ -4,15 +4,12 @@ class Solution:
         dirs = [[0,1],[0,-1],[1,0],[-1,0]]
 
         heap = [[0, 0, 0, 1]]
-        visited = set()
+        visited = set([(0,0)])
 
         while heap:
             curTime, curX, curY, alter = heapq.heappop(heap)
             if curX == n-1 and curY == m-1:
                 return curTime
-            # if (curX, curY) in visited:
-            #     continue 
-            visited.add((curX, curY))
 
             for i, j in dirs:
                 newX, newY = curX + i, curY + j

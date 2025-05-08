@@ -10,8 +10,8 @@ class Solution:
             curTime, curX, curY, alter = heapq.heappop(heap)
             if curX == n-1 and curY == m-1:
                 return curTime
-            if (curX, curY) in visited:
-                continue 
+            # if (curX, curY) in visited:
+            #     continue 
             visited.add((curX, curY))
 
             for i, j in dirs:
@@ -20,3 +20,4 @@ class Solution:
                     timeToMove = 1 if alter % 2 == 1 else 2
                     newTime = max(curTime, moveTime[newX][newY])
                     heapq.heappush(heap, [newTime + timeToMove, newX, newY, alter+1])
+                    visited.add((newX, newY))

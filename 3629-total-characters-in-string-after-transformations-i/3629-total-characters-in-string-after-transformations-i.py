@@ -26,6 +26,4 @@ class Solution:
         for _ in range(t % 26):
             f(d)
 
-
-        print(d)
         return sum(d.values()) % MOD

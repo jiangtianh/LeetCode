@@ -1,20 +1,17 @@
 class Solution:
     def longestPalindrome(self, words: List[str]) -> int:
-        reverse = collections.defaultdict(int)
-        same = collections.defaultdict(int)
-
+        counter = collections.defaultdict(int)
         res = 0
-        for w in words:
-            
-            revW = w[1] + w[0]
-            if reverse[revW] > 0:
+        for word in words:
+            reverse = word[1] + word[0]
+            if counter[reverse] > 0:
+                counter[reverse] -= 1
                 res += 4
-                reverse[revW] -= 1
             else:
-                reverse[w] += 1
+                counter[word] += 1
         
-        for w in reverse:
-            if w[1] == w[0] and reverse[w] > 0:
+        for word in counter:
+            if word[0] == word[1] and counter[word] > 0:
                 res += 2
-                return res
+                break
         return res

@@ -507,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jiangtianh/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/jiangtianh/LeetCode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/jiangtianh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/jiangtianh/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2472-build-a-matrix-with-conditions](https://github.com/jiangtianh/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jiangtianh/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/jiangtianh/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -1366,6 +1367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/jiangtianh/LeetCode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [2009-longest-word-with-all-prefixes](https://github.com/jiangtianh/LeetCode/tree/master/2009-longest-word-with-all-prefixes) |
 | [2035-count-sub-islands](https://github.com/jiangtianh/LeetCode/tree/master/2035-count-sub-islands) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/jiangtianh/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/jiangtianh/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jiangtianh/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/jiangtianh/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |

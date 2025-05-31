@@ -1,49 +1,39 @@
 class Solution:
     def snakesAndLadders(self, board: List[List[int]]) -> int:
         n = len(board)
+        graph = [0]
+        x = n - 1
+        y = 0
+        direction = 1
 
-        p = 1
-        edges = {}
-        for i in range(n):
-            x = n - i - 1
-            if i % 2 == 0:
-                for y in range(n):
-                    if board[x][y] != -1:
-                        edges[p] = board[x][y]
-                    p += 1
-            else:
-                for y in range(n-1, -1, -1):
-                    if board[x][y] != -1:
-                        edges[p] = board[x][y]
-                    p += 1
-
-        q = collections.deque()
-        q.append(1)
-        visited = {1}
-        step = 0
+        while x >= 0:
+            graph.append(board[x][y])
+            y += direction
+            if y == n or y == -1:
+                x -= 1
+                direction *= -1
+                y = 0 if y == -1 else n-1
+        
+        q = collections.deque([1])
+        res = 0
+        destination = n ** 2
+        visited = set()
 
         while q:
-            step += 1
             for _ in range(len(q)):
                 cur = q.popleft()
-                for i in range(1, 7):
-                    newN = cur + i
-                    if newN in visited:
-                        continue
-                    if newN >= n ** 2:
-                        return step
+                if cur == destination:
+                    return res
+                if cur in visited:
+                    continue
+                visited.add(cur)
 
-                    visited.add(newN)
 
-                    if newN in edges:
-                        edge = edges[newN]
-                        if edge >= n ** 2:
-                            return step
-                        
-                        q.append(edge)
+                for i in range(cur + 1, min(destination, cur + 6) + 1):
+                    if graph[i] != -1:
+                        q.append(graph[i])
                     else:
-                        q.append(newN)
+                        q.append(i)
             
-            
-
+            res += 1
         return -1

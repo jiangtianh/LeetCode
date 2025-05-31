@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/jiangtianh/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0936-rle-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0936-rle-iterator) |
+| [0945-snakes-and-ladders](https://github.com/jiangtianh/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/jiangtianh/LeetCode/tree/master/0952-word-subsets) |
 | [0960-minimize-malware-spread](https://github.com/jiangtianh/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [1018-largest-perimeter-triangle](https://github.com/jiangtianh/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0723-candy-crush](https://github.com/jiangtianh/LeetCode/tree/master/0723-candy-crush) |
 | [0787-sliding-puzzle](https://github.com/jiangtianh/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0810-valid-tic-tac-toe-state](https://github.com/jiangtianh/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
+| [0945-snakes-and-ladders](https://github.com/jiangtianh/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1041-available-captures-for-rook](https://github.com/jiangtianh/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/jiangtianh/LeetCode/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
@@ -1397,6 +1399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0694-number-of-distinct-islands](https://github.com/jiangtianh/LeetCode/tree/master/0694-number-of-distinct-islands) |
 | [0787-sliding-puzzle](https://github.com/jiangtianh/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/jiangtianh/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0945-snakes-and-ladders](https://github.com/jiangtianh/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/jiangtianh/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [1190-smallest-common-region](https://github.com/jiangtianh/LeetCode/tree/master/1190-smallest-common-region) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jiangtianh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |

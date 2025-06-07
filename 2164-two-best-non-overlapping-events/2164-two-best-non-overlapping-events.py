@@ -1,23 +1,17 @@
 class Solution:
     def maxTwoEvents(self, events: List[List[int]]) -> int:
         events.sort()
-        startTimes = [e[0] for e in events]
-        endTimes = [e[1] for e in events]
-        values = [e[2] for e in events]
-        n = len(events)
-        biggest = []
-        
-        cur = 0 
-        for i in range(n-1, -1, -1):
-            cur = max(cur, values[i])
-            biggest.append(cur)
-
-        biggest.reverse()
-
+        heap = []
         res = 0
-        for i in range(n):
-            start, end, value = startTimes[i], endTimes[i], values[i]
-            idx = bisect_right(startTimes, end)
-            other = 0 if idx == n else biggest[idx]
-            res = max(res, value + other)
+        prevMax = 0
+
+        for i in range(len(events)):
+            start, end, value = events[i]
+
+            while heap and heap[0][0] < start:
+                _, v = heapq.heappop(heap)
+                prevMax = max(prevMax, v)
+        
+            res = max(res, value + prevMax)
+            heapq.heappush(heap, [end, value])
         return res

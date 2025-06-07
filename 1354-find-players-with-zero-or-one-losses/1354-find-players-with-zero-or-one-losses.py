@@ -1,20 +1,17 @@
 class Solution:
     def findWinners(self, matches: List[List[int]]) -> List[List[int]]:
-        d = {}
-
+        counter = collections.Counter()
+        allPlayers = set()
         for winner, loser in matches:
-            if winner not in d:
-                d[winner] = 0
-
-            d[loser] = d.get(loser, 0) + 1
-
-        noLost, oneLost = [], []
-
-        for key in d:
-            if d[key] == 0:
-                noLost.append(key)
-            elif d[key] == 1:
-                oneLost.append(key)
-        oneLost.sort()
-        noLost.sort()
-        return [noLost, oneLost]
+            allPlayers.add(winner)
+            allPlayers.add(loser)
+            counter[loser] += 1
+        res = [[], []]
+        for player in allPlayers:
+            if counter[player] == 0:
+                res[0].append(player)
+            elif counter[player] == 1:
+                res[1].append(player)
+        res[0].sort()
+        res[1].sort()
+        return res

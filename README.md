@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/jiangtianh/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0734-sentence-similarity](https://github.com/jiangtianh/LeetCode/tree/master/0734-sentence-similarity) |
 | [0735-asteroid-collision](https://github.com/jiangtianh/LeetCode/tree/master/0735-asteroid-collision) |
+| [0740-delete-and-earn](https://github.com/jiangtianh/LeetCode/tree/master/0740-delete-and-earn) |
 | [0762-find-anagram-mappings](https://github.com/jiangtianh/LeetCode/tree/master/0762-find-anagram-mappings) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jiangtianh/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/jiangtianh/LeetCode/tree/master/0787-sliding-puzzle) |
@@ -782,6 +783,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/jiangtianh/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jiangtianh/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0740-delete-and-earn](https://github.com/jiangtianh/LeetCode/tree/master/0740-delete-and-earn) |
 | [0806-domino-and-tromino-tiling](https://github.com/jiangtianh/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0815-champagne-tower](https://github.com/jiangtianh/LeetCode/tree/master/0815-champagne-tower) |
 | [0868-push-dominoes](https://github.com/jiangtianh/LeetCode/tree/master/0868-push-dominoes) |
@@ -1192,6 +1194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0677-map-sum-pairs](https://github.com/jiangtianh/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0694-number-of-distinct-islands](https://github.com/jiangtianh/LeetCode/tree/master/0694-number-of-distinct-islands) |
 | [0734-sentence-similarity](https://github.com/jiangtianh/LeetCode/tree/master/0734-sentence-similarity) |
+| [0740-delete-and-earn](https://github.com/jiangtianh/LeetCode/tree/master/0740-delete-and-earn) |
 | [0762-find-anagram-mappings](https://github.com/jiangtianh/LeetCode/tree/master/0762-find-anagram-mappings) |
 | [0768-partition-labels](https://github.com/jiangtianh/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/jiangtianh/LeetCode/tree/master/0797-rabbits-in-forest) |

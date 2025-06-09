@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0216-combination-sum-iii](https://github.com/jiangtianh/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/jiangtianh/LeetCode/tree/master/0221-maximal-square) |
 | [0252-meeting-rooms](https://github.com/jiangtianh/LeetCode/tree/master/0252-meeting-rooms) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/jiangtianh/LeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0265-paint-house-ii](https://github.com/jiangtianh/LeetCode/tree/master/0265-paint-house-ii) |
 | [0269-alien-dictionary](https://github.com/jiangtianh/LeetCode/tree/master/0269-alien-dictionary) |
 | [0281-zigzag-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0281-zigzag-iterator) |
@@ -1304,6 +1305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0250-count-univalue-subtrees](https://github.com/jiangtianh/LeetCode/tree/master/0250-count-univalue-subtrees) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/jiangtianh/LeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/jiangtianh/LeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/jiangtianh/LeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
@@ -1451,6 +1453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0250-count-univalue-subtrees](https://github.com/jiangtianh/LeetCode/tree/master/0250-count-univalue-subtrees) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/jiangtianh/LeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/jiangtianh/LeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/jiangtianh/LeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
@@ -1518,6 +1521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/jiangtianh/LeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0785-basic-calculator-iii](https://github.com/jiangtianh/LeetCode/tree/master/0785-basic-calculator-iii) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/jiangtianh/LeetCode/tree/master/1404-print-immutable-linked-list-in-reverse) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/jiangtianh/LeetCode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
@@ -1578,6 +1582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0071-simplify-path](https://github.com/jiangtianh/LeetCode/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/jiangtianh/LeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/jiangtianh/LeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/jiangtianh/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/jiangtianh/LeetCode/tree/master/0735-asteroid-collision) |
@@ -1603,6 +1608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/jiangtianh/LeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jiangtianh/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1219-longest-well-performing-interval](https://github.com/jiangtianh/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jiangtianh/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1685,6 +1691,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/jiangtianh/LeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/jiangtianh/LeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/jiangtianh/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Ordered Set

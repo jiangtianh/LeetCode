@@ -319,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jiangtianh/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/jiangtianh/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2169-simple-bank-system](https://github.com/jiangtianh/LeetCode/tree/master/2169-simple-bank-system) |
+| [2175-count-nodes-with-the-highest-score](https://github.com/jiangtianh/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/jiangtianh/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/jiangtianh/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jiangtianh/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -1339,6 +1340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-diameter-of-n-ary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1665-diameter-of-n-ary-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/jiangtianh/LeetCode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/jiangtianh/LeetCode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [2175-count-nodes-with-the-highest-score](https://github.com/jiangtianh/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/jiangtianh/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jiangtianh/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jiangtianh/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1398,6 +1400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/jiangtianh/LeetCode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [2009-longest-word-with-all-prefixes](https://github.com/jiangtianh/LeetCode/tree/master/2009-longest-word-with-all-prefixes) |
 | [2035-count-sub-islands](https://github.com/jiangtianh/LeetCode/tree/master/2035-count-sub-islands) |
+| [2175-count-nodes-with-the-highest-score](https://github.com/jiangtianh/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/jiangtianh/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/jiangtianh/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jiangtianh/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1481,6 +1484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/jiangtianh/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/jiangtianh/LeetCode/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/jiangtianh/LeetCode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [2175-count-nodes-with-the-highest-score](https://github.com/jiangtianh/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/jiangtianh/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jiangtianh/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |

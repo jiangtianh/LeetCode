@@ -872,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1430-find-the-k-beauty-of-a-number](https://github.com/jiangtianh/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/jiangtianh/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1500-count-largest-group](https://github.com/jiangtianh/LeetCode/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/jiangtianh/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jiangtianh/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/jiangtianh/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -947,6 +948,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1341-split-a-string-in-balanced-strings](https://github.com/jiangtianh/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1502-construct-k-palindrome-strings](https://github.com/jiangtianh/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/jiangtianh/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/jiangtianh/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jiangtianh/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jiangtianh/LeetCode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |

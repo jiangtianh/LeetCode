@@ -722,6 +722,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2292-counting-words-with-a-given-prefix](https://github.com/jiangtianh/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/jiangtianh/LeetCode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/jiangtianh/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jiangtianh/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2406-decode-the-message](https://github.com/jiangtianh/LeetCode/tree/master/2406-decode-the-message) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/jiangtianh/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/jiangtianh/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -825,6 +826,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2205-find-good-days-to-rob-the-bank](https://github.com/jiangtianh/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/jiangtianh/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/jiangtianh/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jiangtianh/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/jiangtianh/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jiangtianh/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2648-number-of-ways-to-earn-points](https://github.com/jiangtianh/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
@@ -976,6 +978,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/jiangtianh/LeetCode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/jiangtianh/LeetCode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jiangtianh/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jiangtianh/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/jiangtianh/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/jiangtianh/LeetCode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2475-largest-palindromic-number](https://github.com/jiangtianh/LeetCode/tree/master/2475-largest-palindromic-number) |
@@ -1918,6 +1921,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/jiangtianh/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jiangtianh/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
 
 

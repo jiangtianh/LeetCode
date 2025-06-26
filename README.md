@@ -516,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/jiangtianh/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0960-minimize-malware-spread](https://github.com/jiangtianh/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [1325-path-with-maximum-probability](https://github.com/jiangtianh/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jiangtianh/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/jiangtianh/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/jiangtianh/LeetCode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -773,6 +774,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0499-the-maze-iii](https://github.com/jiangtianh/LeetCode/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/jiangtianh/LeetCode/tree/master/0505-the-maze-ii) |
 | [1325-path-with-maximum-probability](https://github.com/jiangtianh/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jiangtianh/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jiangtianh/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/jiangtianh/LeetCode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
@@ -815,6 +817,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1299-k-concatenation-maximum-sum](https://github.com/jiangtianh/LeetCode/tree/master/1299-k-concatenation-maximum-sum) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jiangtianh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jiangtianh/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/jiangtianh/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jiangtianh/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jiangtianh/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |

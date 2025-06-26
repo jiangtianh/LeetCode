@@ -11,6 +11,6 @@ class Solution:
                 if dp[j] != -1 and abs(nums[i] - nums[j]) <= target:
                     dp[i] = max(dp[i], dp[j] + 1)
 
-        res = dp[0]
+         
      
-        return res
+        return dp[0]

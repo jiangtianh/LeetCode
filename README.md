@@ -391,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2810-collecting-chocolates](https://github.com/jiangtianh/LeetCode/tree/master/2810-collecting-chocolates) |
 | [2833-count-zero-request-servers](https://github.com/jiangtianh/LeetCode/tree/master/2833-count-zero-request-servers) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/jiangtianh/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jiangtianh/LeetCode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2868-continuous-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2880-find-the-closest-marked-node](https://github.com/jiangtianh/LeetCode/tree/master/2880-find-the-closest-marked-node) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/jiangtianh/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -831,6 +832,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/jiangtianh/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2648-number-of-ways-to-earn-points](https://github.com/jiangtianh/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jiangtianh/LeetCode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/jiangtianh/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/jiangtianh/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jiangtianh/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |

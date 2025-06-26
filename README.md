@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jiangtianh/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/jiangtianh/LeetCode/tree/master/0067-add-binary) |
 | [0353-design-snake-game](https://github.com/jiangtianh/LeetCode/tree/master/0353-design-snake-game) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jiangtianh/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -630,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/jiangtianh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/jiangtianh/LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/jiangtianh/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/jiangtianh/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/jiangtianh/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/jiangtianh/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -849,6 +851,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jiangtianh/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/jiangtianh/LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/jiangtianh/LeetCode/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/jiangtianh/LeetCode/tree/master/0172-factorial-trailing-zeroes) |

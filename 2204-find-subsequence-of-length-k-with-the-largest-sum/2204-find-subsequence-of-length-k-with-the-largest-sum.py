@@ -1,19 +1,10 @@
 class Solution:
     def maxSubsequence(self, nums: List[int], k: int) -> List[int]:
-        temp = nums[:]
-        heapq.heapify(temp)
+        sortedNums = collections.Counter(sorted(nums, reverse=True)[:k])
 
-        for _ in range(len(nums) - k):
-            heapq.heappop(temp)
-        
-        d = {}
-        for num in temp:
-            d[num] = d.get(num, 0) + 1
-        
         res = []
-        for num in nums:
-            if num in d and d[num] > 0:
-                res.append(num)
-                d[num] -= 1
-        
+        for n in nums:
+            if sortedNums[n] > 0:
+                sortedNums[n] -= 1
+                res.append(n)
         return res

@@ -5,7 +5,7 @@ class Solution:
         availableNums = list(counter.keys())
         availableNums.sort()
         res = 0
-        print(availableNums)
+
         for i in range(len(availableNums) - 1):
             n1, n2 = availableNums[i], availableNums[i+1]
             if n2 - n1 == 1:

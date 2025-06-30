@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0369-plus-one-linked-list](https://github.com/jiangtianh/LeetCode/tree/master/0369-plus-one-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/jiangtianh/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/jiangtianh/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/jiangtianh/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0850-insert-into-a-sorted-circular-linked-list](https://github.com/jiangtianh/LeetCode/tree/master/0850-insert-into-a-sorted-circular-linked-list) |
 | [0859-design-circular-deque](https://github.com/jiangtianh/LeetCode/tree/master/0859-design-circular-deque) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/jiangtianh/LeetCode/tree/master/1404-print-immutable-linked-list-in-reverse) |
@@ -1360,6 +1361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0582-kill-process](https://github.com/jiangtianh/LeetCode/tree/master/0582-kill-process) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/jiangtianh/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1091-maximum-average-subtree](https://github.com/jiangtianh/LeetCode/tree/master/1091-maximum-average-subtree) |
@@ -1413,6 +1415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0684-redundant-connection](https://github.com/jiangtianh/LeetCode/tree/master/0684-redundant-connection) |
 | [0694-number-of-distinct-islands](https://github.com/jiangtianh/LeetCode/tree/master/0694-number-of-distinct-islands) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/jiangtianh/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/jiangtianh/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0960-minimize-malware-spread](https://github.com/jiangtianh/LeetCode/tree/master/0960-minimize-malware-spread) |
@@ -1509,6 +1512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0563-binary-tree-tilt](https://github.com/jiangtianh/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/jiangtianh/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1091-maximum-average-subtree](https://github.com/jiangtianh/LeetCode/tree/master/1091-maximum-average-subtree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1634,6 +1638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0272-closest-binary-search-tree-value-ii](https://github.com/jiangtianh/LeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/jiangtianh/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/jiangtianh/LeetCode/tree/master/0735-asteroid-collision) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/jiangtianh/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jiangtianh/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0785-basic-calculator-iii](https://github.com/jiangtianh/LeetCode/tree/master/0785-basic-calculator-iii) |
@@ -1742,6 +1747,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/jiangtianh/LeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/jiangtianh/LeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/jiangtianh/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/jiangtianh/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Ordered Set
 |  |
@@ -1895,6 +1901,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/jiangtianh/LeetCode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/jiangtianh/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/jiangtianh/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1905-design-authentication-manager](https://github.com/jiangtianh/LeetCode/tree/master/1905-design-authentication-manager) |
 ## Data Stream
 |  |

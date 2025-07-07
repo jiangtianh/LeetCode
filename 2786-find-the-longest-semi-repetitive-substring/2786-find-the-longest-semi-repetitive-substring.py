@@ -1,20 +1,23 @@
 class Solution:
     def longestSemiRepetitiveSubstring(self, s: str) -> int:
-        if len(s) == 1:
-            return 1
-        pairCount = 0
-        l = 0
+        l, r = 0, 0
+        samePair = 0
         res = 0
-        
-        for r in range(1, len(s)):
-            if s[r] == s[r-1]:
-                pairCount += 1
-            
-            while pairCount > 1:
-                if s[l] == s[l+1]:
-                    pairCount -= 1
-                l += 1
+        prevC = None
+    
 
+        while r < len(s):
+            if s[r] == prevC:
+                samePair += 1
+            
+            while samePair > 1 and l < r:
+                if s[l] == s[l+1]:
+                    samePair -= 1
+                l += 1
+            
             res = max(res, r - l + 1)
-        return res
+            prevC = s[r]
+            r += 1
+
         
+        return res

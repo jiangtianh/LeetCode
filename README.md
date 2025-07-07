@@ -1962,6 +1962,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/jiangtianh/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jiangtianh/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/jiangtianh/LeetCode/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
 
 

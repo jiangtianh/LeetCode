@@ -11,12 +11,17 @@ class Solution:
 
         def f(node):
             if not node:
-                return 
-            f(node.left)
-            f(node.right)
+                return None
             if node.val > p.val:
                 if not self.res or self.res.val > node.val:
                     self.res = node
+            
+            if node.val > p.val:
+                f(node.left)
+            else:
+                f(node.right)
+            
+            
                 
         f(root)
         return self.res

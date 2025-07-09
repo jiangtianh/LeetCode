@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1249-snapshot-array](https://github.com/jiangtianh/LeetCode/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/jiangtianh/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/jiangtianh/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1284-four-divisors](https://github.com/jiangtianh/LeetCode/tree/master/1284-four-divisors) |
 | [1299-k-concatenation-maximum-sum](https://github.com/jiangtianh/LeetCode/tree/master/1299-k-concatenation-maximum-sum) |
 | [1325-path-with-maximum-probability](https://github.com/jiangtianh/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/jiangtianh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -891,6 +892,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1183-statistics-from-a-large-sample](https://github.com/jiangtianh/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
 | [1213-handshakes-that-dont-cross](https://github.com/jiangtianh/LeetCode/tree/master/1213-handshakes-that-dont-cross) |
 | [1240-stone-game-ii](https://github.com/jiangtianh/LeetCode/tree/master/1240-stone-game-ii) |
+| [1284-four-divisors](https://github.com/jiangtianh/LeetCode/tree/master/1284-four-divisors) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/jiangtianh/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1345-perform-string-shifts](https://github.com/jiangtianh/LeetCode/tree/master/1345-perform-string-shifts) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |

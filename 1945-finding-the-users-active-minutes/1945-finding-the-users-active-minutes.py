@@ -1,6 +1,6 @@
 class Solution:
     def findingUsersActiveMinutes(self, logs: List[List[int]], k: int) -> List[int]:
-        res = [0 for _ in range(k)]
+        res = [0] * k
         d = collections.defaultdict(set)
 
         for user, time in logs:

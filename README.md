@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-maximum-ascending-subarray-sum](https://github.com/jiangtianh/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/jiangtianh/LeetCode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1940-maximum-xor-for-each-query](https://github.com/jiangtianh/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [1945-finding-the-users-active-minutes](https://github.com/jiangtianh/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
 | [1961-maximum-ice-cream-bars](https://github.com/jiangtianh/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1962-single-threaded-cpu](https://github.com/jiangtianh/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [1972-rotating-the-box](https://github.com/jiangtianh/LeetCode/tree/master/1972-rotating-the-box) |
@@ -1303,6 +1304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/jiangtianh/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/jiangtianh/LeetCode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1905-design-authentication-manager](https://github.com/jiangtianh/LeetCode/tree/master/1905-design-authentication-manager) |
+| [1945-finding-the-users-active-minutes](https://github.com/jiangtianh/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/jiangtianh/LeetCode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/jiangtianh/LeetCode/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/jiangtianh/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |

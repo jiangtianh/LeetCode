@@ -5,24 +5,24 @@ class TrieNode:
 
 class Solution:
     def removeSubfolders(self, folder: List[str]) -> List[str]:
-        folder.sort(key=lambda x: len(x))
+        trie = TrieNode()
+        folder.sort()
+        res = []
 
-        Trie = TrieNode()
-        self.res = []
+
         def f(path):
-            originalPath = path
-            path = path[1:].split("/")
-            temp = Trie
-            for c in path:
-                if c not in temp.d:
-                    temp.d[c] = TrieNode()
+            cur = trie
+            
+            for p in path.split("/")[1:]:
+                if p not in cur.d:
+                    cur.d[p] = TrieNode()
                 else:
-                    if temp.d[c].isEnd == True:
-                        return
-                temp = temp.d[c]
-            temp.isEnd = True
-            self.res.append(originalPath)
+                    if cur.d[p].isEnd:
+                        return 
+                cur = cur.d[p]
+            cur.isEnd = True
+            res.append(path)
         
         for path in folder:
             f(path)
-        return self.res
+        return res

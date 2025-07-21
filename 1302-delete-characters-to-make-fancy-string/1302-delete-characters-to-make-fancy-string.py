@@ -1,15 +1,11 @@
 class Solution:
     def makeFancyString(self, s: str) -> str:
-        if len(s) < 3:
-            return s
-        res = [s[0]]
+        res = []
 
-        for i in range(1, len(s) - 1):
-            if s[i] == s[i-1] == s[i+1]:
+        for c in s:
+            if len(res) >= 2 and res[-1] == res[-2] == c:
                 continue
-            res.append(s[i])
-
-        res.append(s[-1])
-        return ''.join(res)
+            
+            res.append(c)
         
-        
+        return "".join(res)

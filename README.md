@@ -1388,6 +1388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0582-kill-process](https://github.com/jiangtianh/LeetCode/tree/master/0582-kill-process) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/jiangtianh/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/jiangtianh/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1443,6 +1444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0684-redundant-connection](https://github.com/jiangtianh/LeetCode/tree/master/0684-redundant-connection) |
+| [0687-longest-univalue-path](https://github.com/jiangtianh/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0694-number-of-distinct-islands](https://github.com/jiangtianh/LeetCode/tree/master/0694-number-of-distinct-islands) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/jiangtianh/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1543,6 +1545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0563-binary-tree-tilt](https://github.com/jiangtianh/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/jiangtianh/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/jiangtianh/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1091-maximum-average-subtree](https://github.com/jiangtianh/LeetCode/tree/master/1091-maximum-average-subtree) |

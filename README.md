@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/jiangtianh/LeetCode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/jiangtianh/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/jiangtianh/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0936-rle-iterator](https://github.com/jiangtianh/LeetCode/tree/master/0936-rle-iterator) |
 | [0945-snakes-and-ladders](https://github.com/jiangtianh/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/jiangtianh/LeetCode/tree/master/0952-word-subsets) |
@@ -826,6 +827,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0806-domino-and-tromino-tiling](https://github.com/jiangtianh/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0815-champagne-tower](https://github.com/jiangtianh/LeetCode/tree/master/0815-champagne-tower) |
 | [0868-push-dominoes](https://github.com/jiangtianh/LeetCode/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/jiangtianh/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0972-knight-dialer](https://github.com/jiangtianh/LeetCode/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/jiangtianh/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -950,6 +952,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0266-palindrome-permutation](https://github.com/jiangtianh/LeetCode/tree/master/0266-palindrome-permutation) |
 | [0320-generalized-abbreviation](https://github.com/jiangtianh/LeetCode/tree/master/0320-generalized-abbreviation) |
 | [0476-number-complement](https://github.com/jiangtianh/LeetCode/tree/master/0476-number-complement) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jiangtianh/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1650-find-root-of-n-ary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1650-find-root-of-n-ary-tree) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jiangtianh/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |

@@ -888,6 +888,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/jiangtianh/LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/jiangtianh/LeetCode/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/jiangtianh/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/jiangtianh/LeetCode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/jiangtianh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/jiangtianh/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/jiangtianh/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -957,6 +958,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/jiangtianh/LeetCode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/jiangtianh/LeetCode/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/jiangtianh/LeetCode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/jiangtianh/LeetCode/tree/master/0231-power-of-two) |
 | [0266-palindrome-permutation](https://github.com/jiangtianh/LeetCode/tree/master/0266-palindrome-permutation) |
 | [0320-generalized-abbreviation](https://github.com/jiangtianh/LeetCode/tree/master/0320-generalized-abbreviation) |
 | [0476-number-complement](https://github.com/jiangtianh/LeetCode/tree/master/0476-number-complement) |
@@ -1627,6 +1629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/jiangtianh/LeetCode/tree/master/0231-power-of-two) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/jiangtianh/LeetCode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0785-basic-calculator-iii](https://github.com/jiangtianh/LeetCode/tree/master/0785-basic-calculator-iii) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/jiangtianh/LeetCode/tree/master/1404-print-immutable-linked-list-in-reverse) |

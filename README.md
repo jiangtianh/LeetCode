@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jiangtianh/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/jiangtianh/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/jiangtianh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/jiangtianh/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/jiangtianh/LeetCode/tree/master/0078-subsets) |
@@ -478,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/jiangtianh/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/jiangtianh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/jiangtianh/LeetCode/tree/master/0221-maximal-square) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/jiangtianh/LeetCode/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
@@ -1256,6 +1258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jiangtianh/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/jiangtianh/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/jiangtianh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/jiangtianh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/jiangtianh/LeetCode/tree/master/0133-clone-graph) |

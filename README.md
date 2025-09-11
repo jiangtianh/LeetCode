@@ -337,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-most-beautiful-item-for-each-query](https://github.com/jiangtianh/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jiangtianh/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/jiangtianh/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2206-detonate-the-maximum-bombs](https://github.com/jiangtianh/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jiangtianh/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jiangtianh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jiangtianh/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -546,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/jiangtianh/LeetCode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/jiangtianh/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jiangtianh/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2206-detonate-the-maximum-bombs](https://github.com/jiangtianh/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jiangtianh/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/jiangtianh/LeetCode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/jiangtianh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -941,6 +943,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/jiangtianh/LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jiangtianh/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/jiangtianh/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2206-detonate-the-maximum-bombs](https://github.com/jiangtianh/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/jiangtianh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2496-count-days-spent-together](https://github.com/jiangtianh/LeetCode/tree/master/2496-count-days-spent-together) |
@@ -1214,6 +1217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/jiangtianh/LeetCode/tree/master/0830-largest-triangle-area) |
+| [2206-detonate-the-maximum-bombs](https://github.com/jiangtianh/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/jiangtianh/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/jiangtianh/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Prefix Sum
@@ -1502,6 +1506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2009-longest-word-with-all-prefixes](https://github.com/jiangtianh/LeetCode/tree/master/2009-longest-word-with-all-prefixes) |
 | [2035-count-sub-islands](https://github.com/jiangtianh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/jiangtianh/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
+| [2206-detonate-the-maximum-bombs](https://github.com/jiangtianh/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/jiangtianh/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/jiangtianh/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/jiangtianh/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1545,6 +1550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1634-clone-n-ary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1634-clone-n-ary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/jiangtianh/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2035-count-sub-islands](https://github.com/jiangtianh/LeetCode/tree/master/2035-count-sub-islands) |
+| [2206-detonate-the-maximum-bombs](https://github.com/jiangtianh/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/jiangtianh/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/jiangtianh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/jiangtianh/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |

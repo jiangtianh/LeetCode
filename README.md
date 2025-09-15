@@ -1425,6 +1425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0545-boundary-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0545-boundary-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/jiangtianh/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0582-kill-process](https://github.com/jiangtianh/LeetCode/tree/master/0582-kill-process) |
+| [0655-print-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/jiangtianh/LeetCode/tree/master/0687-longest-univalue-path) |
@@ -1480,6 +1481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0563-binary-tree-tilt](https://github.com/jiangtianh/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0582-kill-process](https://github.com/jiangtianh/LeetCode/tree/master/0582-kill-process) |
 | [0642-design-search-autocomplete-system](https://github.com/jiangtianh/LeetCode/tree/master/0642-design-search-autocomplete-system) |
+| [0655-print-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0684-redundant-connection](https://github.com/jiangtianh/LeetCode/tree/master/0684-redundant-connection) |
@@ -1535,6 +1537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0529-minesweeper](https://github.com/jiangtianh/LeetCode/tree/master/0529-minesweeper) |
 | [0550-shortest-path-to-get-food](https://github.com/jiangtianh/LeetCode/tree/master/0550-shortest-path-to-get-food) |
 | [0582-kill-process](https://github.com/jiangtianh/LeetCode/tree/master/0582-kill-process) |
+| [0655-print-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/jiangtianh/LeetCode/tree/master/0684-redundant-connection) |
 | [0694-number-of-distinct-islands](https://github.com/jiangtianh/LeetCode/tree/master/0694-number-of-distinct-islands) |
@@ -1584,6 +1587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jiangtianh/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0545-boundary-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0545-boundary-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/jiangtianh/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0655-print-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/jiangtianh/LeetCode/tree/master/0687-longest-univalue-path) |

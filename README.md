@@ -385,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jiangtianh/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jiangtianh/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jiangtianh/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2591-frog-jump-ii](https://github.com/jiangtianh/LeetCode/tree/master/2591-frog-jump-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jiangtianh/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jiangtianh/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1045,6 +1046,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/jiangtianh/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/jiangtianh/LeetCode/tree/master/2509-minimize-xor) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/jiangtianh/LeetCode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
+| [2591-frog-jump-ii](https://github.com/jiangtianh/LeetCode/tree/master/2591-frog-jump-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jiangtianh/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jiangtianh/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/jiangtianh/LeetCode/tree/master/2674-make-the-prefix-sum-non-negative) |
@@ -1203,6 +1205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/jiangtianh/LeetCode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jiangtianh/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jiangtianh/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2591-frog-jump-ii](https://github.com/jiangtianh/LeetCode/tree/master/2591-frog-jump-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jiangtianh/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jiangtianh/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/jiangtianh/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |

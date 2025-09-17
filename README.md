@@ -325,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2094-remove-stones-to-minimize-the-total](https://github.com/jiangtianh/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/jiangtianh/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/jiangtianh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jiangtianh/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jiangtianh/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jiangtianh/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/jiangtianh/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -941,6 +942,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/jiangtianh/LeetCode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1965-sum-of-digits-in-base-k](https://github.com/jiangtianh/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/jiangtianh/LeetCode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jiangtianh/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2155-find-missing-observations](https://github.com/jiangtianh/LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jiangtianh/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/jiangtianh/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -1354,6 +1356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2055-describe-the-painting](https://github.com/jiangtianh/LeetCode/tree/master/2055-describe-the-painting) |
 | [2107-find-unique-binary-string](https://github.com/jiangtianh/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/jiangtianh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jiangtianh/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2159-two-out-of-three](https://github.com/jiangtianh/LeetCode/tree/master/2159-two-out-of-three) |
 | [2169-simple-bank-system](https://github.com/jiangtianh/LeetCode/tree/master/2169-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jiangtianh/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1684,6 +1687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1961-maximum-ice-cream-bars](https://github.com/jiangtianh/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/jiangtianh/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/jiangtianh/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jiangtianh/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/jiangtianh/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jiangtianh/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/jiangtianh/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1949,6 +1953,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jiangtianh/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jiangtianh/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/jiangtianh/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser

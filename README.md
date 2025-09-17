@@ -973,6 +973,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/jiangtianh/LeetCode/tree/master/0231-power-of-two) |
 | [0266-palindrome-permutation](https://github.com/jiangtianh/LeetCode/tree/master/0266-palindrome-permutation) |
 | [0320-generalized-abbreviation](https://github.com/jiangtianh/LeetCode/tree/master/0320-generalized-abbreviation) |
+| [0401-binary-watch](https://github.com/jiangtianh/LeetCode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/jiangtianh/LeetCode/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jiangtianh/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -1709,6 +1710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0306-additive-number](https://github.com/jiangtianh/LeetCode/tree/master/0306-additive-number) |
 | [0320-generalized-abbreviation](https://github.com/jiangtianh/LeetCode/tree/master/0320-generalized-abbreviation) |
 | [0357-count-numbers-with-unique-digits](https://github.com/jiangtianh/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0401-binary-watch](https://github.com/jiangtianh/LeetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/jiangtianh/LeetCode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jiangtianh/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2107-find-unique-binary-string](https://github.com/jiangtianh/LeetCode/tree/master/2107-find-unique-binary-string) |

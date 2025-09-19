@@ -479,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/jiangtianh/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/jiangtianh/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jiangtianh/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/jiangtianh/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Matrix
 |  |
 | ------- |
@@ -531,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/jiangtianh/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/jiangtianh/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3748-sort-matrix-by-diagonals](https://github.com/jiangtianh/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/jiangtianh/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Graph
 |  |
 | ------- |
@@ -803,6 +805,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3617-find-the-original-typed-string-i](https://github.com/jiangtianh/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jiangtianh/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jiangtianh/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3797-design-spreadsheet](https://github.com/jiangtianh/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1411,6 +1414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/jiangtianh/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jiangtianh/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jiangtianh/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/jiangtianh/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Tree
 |  |
 | ------- |
@@ -1796,6 +1800,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1905-design-authentication-manager](https://github.com/jiangtianh/LeetCode/tree/master/1905-design-authentication-manager) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/jiangtianh/LeetCode/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2169-simple-bank-system](https://github.com/jiangtianh/LeetCode/tree/master/2169-simple-bank-system) |
+| [3797-design-spreadsheet](https://github.com/jiangtianh/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Trie
 |  |
 | ------- |

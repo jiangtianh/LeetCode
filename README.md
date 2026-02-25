@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jiangtianh/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jiangtianh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/jiangtianh/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jiangtianh/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/jiangtianh/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1366-first-unique-number](https://github.com/jiangtianh/LeetCode/tree/master/1366-first-unique-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -620,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/jiangtianh/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jiangtianh/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/jiangtianh/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jiangtianh/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/jiangtianh/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jiangtianh/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jiangtianh/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -996,6 +998,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0401-binary-watch](https://github.com/jiangtianh/LeetCode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/jiangtianh/LeetCode/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jiangtianh/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jiangtianh/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1650-find-root-of-n-ary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1650-find-root-of-n-ary-tree) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jiangtianh/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1703,6 +1706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jiangtianh/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/jiangtianh/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/jiangtianh/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jiangtianh/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/jiangtianh/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/jiangtianh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/jiangtianh/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |

@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-string-matching-in-an-array](https://github.com/jiangtianh/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/jiangtianh/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1572-subrectangle-queries](https://github.com/jiangtianh/LeetCode/tree/master/1572-subrectangle-queries) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/jiangtianh/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/jiangtianh/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/jiangtianh/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
@@ -518,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1572-subrectangle-queries](https://github.com/jiangtianh/LeetCode/tree/master/1572-subrectangle-queries) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jiangtianh/LeetCode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1972-rotating-the-box](https://github.com/jiangtianh/LeetCode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/jiangtianh/LeetCode/tree/master/2035-count-sub-islands) |

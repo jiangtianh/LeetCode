@@ -956,6 +956,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/jiangtianh/LeetCode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/jiangtianh/LeetCode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/jiangtianh/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1622-fancy-sequence](https://github.com/jiangtianh/LeetCode/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jiangtianh/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/jiangtianh/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -1826,6 +1827,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jiangtianh/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/jiangtianh/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1572-subrectangle-queries](https://github.com/jiangtianh/LeetCode/tree/master/1572-subrectangle-queries) |
+| [1622-fancy-sequence](https://github.com/jiangtianh/LeetCode/tree/master/1622-fancy-sequence) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/jiangtianh/LeetCode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1905-design-authentication-manager](https://github.com/jiangtianh/LeetCode/tree/master/1905-design-authentication-manager) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/jiangtianh/LeetCode/tree/master/1949-implement-trie-ii-prefix-tree) |
@@ -2013,6 +2015,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0729-my-calendar-i](https://github.com/jiangtianh/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jiangtianh/LeetCode/tree/master/0731-my-calendar-ii) |
+| [1622-fancy-sequence](https://github.com/jiangtianh/LeetCode/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jiangtianh/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3454-separate-squares-ii](https://github.com/jiangtianh/LeetCode/tree/master/3454-separate-squares-ii) |
 ## Queue

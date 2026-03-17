@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/jiangtianh/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/jiangtianh/LeetCode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1726-coordinate-with-maximum-network-quality](https://github.com/jiangtianh/LeetCode/tree/master/1726-coordinate-with-maximum-network-quality) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/jiangtianh/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jiangtianh/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/jiangtianh/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/jiangtianh/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -521,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1572-subrectangle-queries](https://github.com/jiangtianh/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jiangtianh/LeetCode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/jiangtianh/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1972-rotating-the-box](https://github.com/jiangtianh/LeetCode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/jiangtianh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/jiangtianh/LeetCode/tree/master/2089-maximum-matrix-sum) |
@@ -632,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/jiangtianh/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/jiangtianh/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/jiangtianh/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/jiangtianh/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1961-maximum-ice-cream-bars](https://github.com/jiangtianh/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1962-single-threaded-cpu](https://github.com/jiangtianh/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2055-describe-the-painting](https://github.com/jiangtianh/LeetCode/tree/master/2055-describe-the-painting) |
@@ -1052,6 +1055,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jiangtianh/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jiangtianh/LeetCode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/jiangtianh/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/jiangtianh/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/jiangtianh/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/jiangtianh/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1961-maximum-ice-cream-bars](https://github.com/jiangtianh/LeetCode/tree/master/1961-maximum-ice-cream-bars) |

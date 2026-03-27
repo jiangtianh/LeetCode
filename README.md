@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2692-take-gifts-from-the-richest-pile](https://github.com/jiangtianh/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jiangtianh/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jiangtianh/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jiangtianh/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/jiangtianh/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/jiangtianh/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jiangtianh/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -425,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2880-find-the-closest-marked-node](https://github.com/jiangtianh/LeetCode/tree/master/2880-find-the-closest-marked-node) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/jiangtianh/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/jiangtianh/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jiangtianh/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/jiangtianh/LeetCode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/jiangtianh/LeetCode/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 | [3095-maximum-number-of-alloys](https://github.com/jiangtianh/LeetCode/tree/master/3095-maximum-number-of-alloys) |
@@ -539,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/jiangtianh/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jiangtianh/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/jiangtianh/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/jiangtianh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -980,6 +983,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/jiangtianh/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jiangtianh/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/jiangtianh/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jiangtianh/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/jiangtianh/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/jiangtianh/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/jiangtianh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |

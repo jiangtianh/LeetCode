@@ -378,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2432-number-of-zero-filled-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/jiangtianh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/jiangtianh/LeetCode/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
+| [2463-minimum-total-distance-traveled](https://github.com/jiangtianh/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-build-a-matrix-with-conditions](https://github.com/jiangtianh/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jiangtianh/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/jiangtianh/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -653,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/jiangtianh/LeetCode/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/jiangtianh/LeetCode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jiangtianh/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/jiangtianh/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jiangtianh/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/jiangtianh/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jiangtianh/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -902,6 +904,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/jiangtianh/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/jiangtianh/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jiangtianh/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/jiangtianh/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/jiangtianh/LeetCode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/jiangtianh/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jiangtianh/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |

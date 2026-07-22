@@ -475,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-alternating-groups-ii](https://github.com/jiangtianh/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jiangtianh/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jiangtianh/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/jiangtianh/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/jiangtianh/LeetCode/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/jiangtianh/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jiangtianh/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -833,6 +834,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/jiangtianh/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/jiangtianh/LeetCode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jiangtianh/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/jiangtianh/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3533-snake-in-matrix](https://github.com/jiangtianh/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3617-find-the-original-typed-string-i](https://github.com/jiangtianh/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jiangtianh/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1272,6 +1274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3427-special-array-ii](https://github.com/jiangtianh/LeetCode/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jiangtianh/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3454-separate-squares-ii](https://github.com/jiangtianh/LeetCode/tree/master/3454-separate-squares-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/jiangtianh/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/jiangtianh/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Geometry
 |  |
@@ -2047,6 +2050,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/jiangtianh/LeetCode/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jiangtianh/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3454-separate-squares-ii](https://github.com/jiangtianh/LeetCode/tree/master/3454-separate-squares-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/jiangtianh/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Queue
 |  |
 | ------- |

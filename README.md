@@ -814,6 +814,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jiangtianh/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2890-count-substrings-without-repeating-character](https://github.com/jiangtianh/LeetCode/tree/master/2890-count-substrings-without-repeating-character) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jiangtianh/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jiangtianh/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/jiangtianh/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3019-furthest-point-from-origin](https://github.com/jiangtianh/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/jiangtianh/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -1001,6 +1002,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2610-closest-prime-numbers-in-range](https://github.com/jiangtianh/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/jiangtianh/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jiangtianh/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jiangtianh/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/jiangtianh/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/jiangtianh/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/jiangtianh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -1106,6 +1108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2674-make-the-prefix-sum-non-negative](https://github.com/jiangtianh/LeetCode/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2681-put-marbles-in-bags](https://github.com/jiangtianh/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/jiangtianh/LeetCode/tree/master/2689-rearranging-fruits) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jiangtianh/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jiangtianh/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/jiangtianh/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/jiangtianh/LeetCode/tree/master/3195-separate-black-and-white-balls) |

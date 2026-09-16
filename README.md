@@ -903,6 +903,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jiangtianh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jiangtianh/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/jiangtianh/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jiangtianh/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jiangtianh/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jiangtianh/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jiangtianh/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -983,6 +984,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/jiangtianh/LeetCode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/jiangtianh/LeetCode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/jiangtianh/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jiangtianh/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/jiangtianh/LeetCode/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jiangtianh/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/jiangtianh/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -1304,6 +1306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1219-longest-well-performing-interval](https://github.com/jiangtianh/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1240-stone-game-ii](https://github.com/jiangtianh/LeetCode/tree/master/1240-stone-game-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/jiangtianh/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jiangtianh/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jiangtianh/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/jiangtianh/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -2144,6 +2147,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jiangtianh/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
 
 

@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1041-available-captures-for-rook](https://github.com/jiangtianh/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/jiangtianh/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jiangtianh/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/jiangtianh/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/jiangtianh/LeetCode/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jiangtianh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1572-subrectangle-queries](https://github.com/jiangtianh/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jiangtianh/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/jiangtianh/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jiangtianh/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/jiangtianh/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/jiangtianh/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jiangtianh/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1150,6 +1152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/jiangtianh/LeetCode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/jiangtianh/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jiangtianh/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jiangtianh/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/jiangtianh/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1962-single-threaded-cpu](https://github.com/jiangtianh/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jiangtianh/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -1943,6 +1946,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/jiangtianh/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jiangtianh/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/jiangtianh/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jiangtianh/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jiangtianh/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/jiangtianh/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/jiangtianh/LeetCode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
